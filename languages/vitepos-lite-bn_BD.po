@@ -1,0 +1,4588 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VitePOS\n"
+"POT-Creation-Date: 2024-10-23 10:18+0000\n"
+"PO-Revision-Date: 2024-10-24 10:31+0000\n"
+"Last-Translator: Anthony L. Moore\n"
+"Language-Team: বাংলা\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: ;__;_e;_ee;___;add_error;add_info;SetTitle;AddInfo;"
+"AddError;SetSubtitle;___;AddModel;AddModelNonSearchable\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+"X-Poedit-SearchPathExcluded-2: dbscript\n"
+"X-Poedit-SearchPathExcluded-3: languages\n"
+"X-Poedit-SearchPathExcluded-4: tmp\n"
+"X-Poedit-SearchPathExcluded-5: node_modules\n"
+"X-Poedit-SearchPathExcluded-6: release\n"
+"X-Poedit-SearchPathExcluded-7: logs\n"
+"X-Poedit-SearchPathExcluded-8: template/client\n"
+"X-Poedit-SearchPathExcluded-9: template/main\n"
+"X-Poedit-SearchPathExcluded-10: dev_files\n"
+"X-Poedit-SearchPathExcluded-11: adminpanel\n"
+"X-Poedit-SearchPathExcluded-12: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2"
+
+#, php-format
+msgid " %s are required"
+msgstr "%s প্রয়োজন"
+
+#, php-format
+msgid " %s is required"
+msgstr "%s প্রয়োজন"
+
+#, php-format
+msgid " %s should be less than %s"
+msgstr "%s %s-এর থেকে কম হওয়া উচিত"
+
+msgid " Point of sale (POS) plugin for wordpress and Woocommerce"
+msgstr "ওয়ার্ডপ্রেস এবং Woocommerce-এর জন্য পয়েন্ট অফ সেল (POS) প্লাগইন"
+
+msgid " should be hexadecimal"
+msgstr "হেক্সাডেসিমেল হওয়া উচিত"
+
+#, php-format
+msgid "%s out of stock"
+msgstr "%s স্টকের বাইরে"
+
+#, php-format
+msgid "%s should be a valid email address"
+msgstr "%s একটি বৈধ ইমেল ঠিকানা হতে হবে"
+
+#, php-format
+msgid "%s should be digit"
+msgstr "%s সংখ্যা হতে হবে"
+
+#, php-format
+msgid "%s should be numeric"
+msgstr "%s সংখ্যাসূচক হতে হবে"
+
+msgid "%{ row } rows"
+msgstr "%{ সারি } সারি"
+
+msgid "%{col} Products Per Row"
+msgstr "প্রতি সারি %{col} পণ্য"
+
+msgid "%{fld_name} does not match with its password"
+msgstr "%{fld_name} এর পাসওয়ার্ডের সাথে মেলে না"
+
+msgid "%{fld_name} is invalid"
+msgstr "%{fld_name} অবৈধ"
+
+msgid "%{fld_name} is required"
+msgstr "%{fld_name} প্রয়োজন"
+
+msgid "%{qty} of %{items}"
+msgstr "%{items} এর %{qty}"
+
+msgid "(Items : %{totalItem} and quantity : %{totalQty} )"
+msgstr "(আইটেম: %{totalItem} এবং পরিমাণ: %{totalQty})"
+
+msgid "[Coming Soon]"
+msgstr "[শীঘ্রই আসছে]"
+
+msgid "About"
+msgstr "সম্পর্কে"
+
+msgid "About VitePos"
+msgstr "VitePos সম্পর্কে"
+
+msgid "Accept"
+msgstr "গ্রহণ করুন"
+
+msgid "Accept Cancel Request"
+msgstr "বাতিলের অনুরোধ গ্রহণ করুন"
+
+msgid "Accepted Cancel"
+msgstr "বাতিল গ্রহণ করা হয়েছে"
+
+msgid "Access control"
+msgstr "অ্যাক্সেস নিয়ন্ত্রণ"
+
+msgid "Action"
+msgstr "অ্যাকশন"
+
+msgid "Activate"
+msgstr "সক্রিয় করুন"
+
+msgid "Activate Pro"
+msgstr "প্রো সক্রিয় করুন"
+
+msgid "Active"
+msgstr "সক্রিয়"
+
+msgid "Active Barcode Search"
+msgstr "সক্রিয় বারকোড অনুসন্ধান"
+
+msgid "Active Product Search"
+msgstr "সক্রিয় পণ্য অনুসন্ধান"
+
+msgid "Add"
+msgstr "যোগ করুন"
+
+msgid "Add Addon"
+msgstr "অ্যাডন যোগ করুন"
+
+msgid "Add Addons"
+msgstr "অ্যাডঅন যোগ করুন"
+
+msgid "Add Attributes"
+msgstr "বিশেষ বৈশিষ্ট্য যোগ করুন"
+
+msgid "Add Counter"
+msgstr "কাউন্টার যোগ করুন"
+
+msgid "Add Custom Field"
+msgstr "কাস্টম ক্ষেত্র যোগ করুন"
+
+msgid "Add Customer"
+msgstr "গ্রাহক যোগ করুন"
+
+msgid "Add Deny Reason"
+msgstr "অস্বীকারের কারণ যোগ করুন"
+
+msgid "Add Discount"
+msgstr "ছাড় যোগ করুন"
+
+msgid "Add extra input field if require"
+msgstr "প্রয়োজন হলে অতিরিক্ত ইনপুট ক্ষেত্র যোগ করুন"
+
+msgid "Add Fee"
+msgstr "ফি যোগ করুন"
+
+msgid "Add Field"
+msgstr "ক্ষেত্র যোগ করুন"
+
+msgid "Add Input"
+msgstr "ইনপুট যোগ করুন"
+
+msgid "Add items to add fee"
+msgstr "ফি যোগ করার জন্য আইটেম যোগ করুন"
+
+msgid "Add items to give discount"
+msgstr "ছাড় দেওয়ার জন্য আইটেম যোগ করুন"
+
+msgid "Add Message"
+msgstr "বার্তা যোগ করুন"
+
+msgid "Add message"
+msgstr "বার্তা যোগ করুন"
+
+msgid "Add Note"
+msgstr "নোট যোগ করুন"
+
+msgid "Add note befor decline"
+msgstr "অস্বীকৃতির আগে নোট যোগ করুন"
+
+msgid "Add Option"
+msgstr "অপশন যোগ করুন"
+
+msgid "Add Options"
+msgstr "বিকল্প যোগ করুন"
+
+msgid "Add Outlet"
+msgstr "আউটলেট যোগ করুন"
+
+msgid "Add page break counter"
+msgstr "পেজ ব্রেক কাউন্টার যোগ করুন"
+
+msgid "Add payment note"
+msgstr "পেমেন্ট নোট যোগ করুন"
+
+msgid "Add Product"
+msgstr "পণ্য যোগ করুন"
+
+msgid ""
+"Add product requires pro version, you need to upgrade to pro version for use "
+"this feature."
+msgstr ""
+"পণ্য যুক্ত করতে প্রো সংস্করণের প্রয়োজন, এই বৈশিষ্ট্য ব্যবহার করার জন্য "
+"আপনাকে প্রো সংস্করণে আপগ্রেড করতে হবে।"
+
+msgid "Add Purchase"
+msgstr "ক্রয় যোগ করুন"
+
+msgid "Add Role"
+msgstr "রোল যোগ করুন"
+
+msgid "Add Rules"
+msgstr "নিয়ম যোগ করুন"
+
+msgid "Add Rules Group"
+msgstr "নিয়ম গ্রুপ যোগ করুন"
+
+msgid "Add Shortcut Message"
+msgstr "শর্টকাট বার্তা যোগ করুন"
+
+msgid "Add Stock"
+msgstr "স্টক যোগ করুন"
+
+msgid "Add Supplier"
+msgstr "সরবরাহকারী যোগ করুন"
+
+msgid "Add Table"
+msgstr "টেবিল যোগ করুন"
+
+msgid "Add To Cart"
+msgstr "কার্টে যোগ করুন"
+
+msgid "Add to Cart"
+msgstr "কার্টে যোগ করুন"
+
+msgid "Add to cart"
+msgstr "কার্টে যোগ করুন"
+
+msgid "Add To Cart ("
+msgstr "কার্টে যোগ করুন ("
+
+msgid "Add to this outlet"
+msgstr "এই আউটলেটে যোগ করুন"
+
+msgid "Add User"
+msgstr "ইউজার যোগ করুন"
+
+msgid "Add Variation"
+msgstr "ভ্যারিয়েশন যোগ করুন"
+
+msgid "Add Variations"
+msgstr "ভ্যারিয়েশন যোগ করুন"
+
+msgid "Add Vendor"
+msgstr "বিক্রেতা যোগ করুন"
+
+msgid "Add/Search Customer.."
+msgstr "গ্রাহক যোগ করুন/অনুসন্ধান করুন.."
+
+msgid "Adding Role"
+msgstr "রোল যোগ করা হচ্ছে"
+
+msgid "Addon is supported in pro version"
+msgstr "অ্যাডন প্রো ভার্সনে সমর্থিত।"
+
+msgid "Addon Panel"
+msgstr "অ্যাডঅন প্যানেল"
+
+msgid "Addons"
+msgstr "অ্যাডঅন"
+
+msgid "Addons List Loading..."
+msgstr "অ্যাডঅন তালিকা লোড হচ্ছে..."
+
+msgid "Addons Panel"
+msgstr "অ্যাডঅন প্যানেল"
+
+msgid "Address"
+msgstr "ঠিকানা"
+
+msgid "Address:"
+msgstr "ঠিকানা:"
+
+msgid "Administrator"
+msgstr "প্রশাসক"
+
+msgid "Administrator can not be reset"
+msgstr "প্রশাসক রিসেট করা যাবে না"
+
+msgid "All"
+msgstr "সব"
+
+msgid "All Categories"
+msgstr "সকল শ্রেণী"
+
+msgid "All Category"
+msgstr "সকল শ্রেণী"
+
+msgid "All items refunded"
+msgstr "সকল আইটেম রিফান্ড করা হয়েছে"
+
+msgid "Allowed Ip"
+msgstr "অনুমোদিত আইপি"
+
+msgid ""
+"Allowing the order to be completed by the chef rather than by the cashier."
+msgstr "চেকআউট করার পরিবর্তে শেফ দ্বারা অর্ডার সম্পন্ন করার অনুমতি দেয়।"
+
+msgid ""
+"Alternatively, you can be link your online sales to a specific outlet, and "
+"the system will use the stock from the linked outlet for online sales."
+msgstr ""
+"বিকল্পভাবে, আপনি আপনার অনলাইন বিক্রয় একটি নির্দিষ্ট আউটলেটের সাথে লিঙ্ক "
+"করতে পারেন, এবং সিস্টেম অনলাইন বিক্রয়ের জন্য লিঙ্কযুক্ত আউটলেট থেকে স্টক "
+"ব্যবহার করবে।"
+
+msgid "Amount"
+msgstr "পরিমাণ"
+
+msgid "Amount:"
+msgstr "পরিমাণ:"
+
+msgid "AND"
+msgstr "এবং"
+
+msgid "And More.."
+msgstr "এবং আরও.."
+
+msgid "and person count"
+msgstr "এবং ব্যক্তির সংখ্যা"
+
+msgid "Any Options"
+msgstr "কোনও বিকল্প"
+
+msgid "App ID"
+msgstr "অ্যাপ আইডি"
+
+msgid "Apply"
+msgstr "প্রয়োগ করুন"
+
+msgid "Aprox"
+msgstr "প্রায়"
+
+msgid "Are sure to accept cancel?"
+msgstr "আপনি কি নিশ্চিত বাতিল গ্রহণ করতে চান?"
+
+msgid "Are sure to deny cancel request?"
+msgstr "আপনি কি নিশ্চিত বাতিলের অনুরোধ অস্বীকার করতে চান?"
+
+msgid "Are you sure clear cart?"
+msgstr "আপনি কি নিশ্চিত কার্ট পরিষ্কার করতে চান?"
+
+msgid "Are you sure order is ready to serve?"
+msgstr "আপনি কি নিশ্চিত যে অর্ডার পরিবেশন করার জন্য প্রস্তুত?"
+
+msgid "Are you sure to %{status}?"
+msgstr "আপনি কি %{status} সম্পর্কে নিশ্চিত?"
+
+msgid "Are you sure to accept cancel for this item?"
+msgstr "আপনি নিশ্চিত এই আইটেমটি বাতিল করার অনুরোধ গ্রহণ করতে চান?"
+
+msgid "Are you sure to cancel the order?"
+msgstr "আপনি কি নিশ্চিত যে অর্ডারটি বাতিল করবেন?"
+
+msgid "Are you sure to delete this counter: %{counter}?"
+msgstr "আপনি কি %{counter} কাউন্টারটি মুছে ফেলার বিষয়ে নিশ্চিত?"
+
+msgid "Are you sure to delete this custom field?"
+msgstr "আপনি কি নিশ্চিত এই কাস্টম ক্ষেত্রটি মুছে ফেলতে চান?"
+
+msgid "Are you sure to delete this Customer: %{customer}?"
+msgstr "আপনি কি  %{customer} গ্রাহককে মুছে ফেলার ব্যাপারে নিশ্চিত?"
+
+msgid "Are you sure to delete this deny message?"
+msgstr "আপনি কি নিশ্চিত যে এই অস্বীকৃতি বার্তাটি মুছে ফেলবেন?"
+
+msgid "Are you sure to delete this message?"
+msgstr "আপনি কি নিশ্চিত যে এই বার্তাটি মুছে ফেলবেন?"
+
+msgid "Are you sure to delete this outlet: %{outlet}?"
+msgstr "আপনি কি %{outlet} আউটলেটটি মুছে ফেলার বিষয়ে নিশ্চিত?"
+
+msgid "Are you sure to delete this page style?"
+msgstr "আপনি কি নিশ্চিত যে এই পেজ স্টাইল মুছে ফেলবেন?"
+
+msgid "Are you sure to delete this product: %{product}?"
+msgstr "আপনি কি %{product} পণ্যটি মুছে ফেলার বিষয়ে নিশ্চিত?"
+
+msgid "Are you sure to delete this Table: %{table}?"
+msgstr "আপনি কি  %{table} টেবিলটি মুছে ফেলার ব্যাপারে নিশ্চিত?"
+
+msgid "Are you sure to delete this user: %{user}?"
+msgstr "আপনি কি %{user} ব্যবহারকারীকে মুছে ফেলার ব্যাপারে নিশ্চিত?"
+
+msgid "Are you sure to delete this vendor: %{vendor}?"
+msgstr "আপনি কি %{vendor} বিক্রেতা মুছে ফেলার ব্যাপারে নিশ্চিত?"
+
+msgid "Are you sure to deny cancel for this item?"
+msgstr "আপনি নিশ্চিত এই আইটেমটি বাতিল করার অনুরোধ অস্বীকার করতে চান?"
+
+msgid "Are you sure to disable %{name}?"
+msgstr "আপনি কি %{name} নিষ্ক্রিয় করার বিষয়ে নিশ্চিত?"
+
+msgid "Are you sure to enable %{name}?"
+msgstr "আপনি কি %{name} সক্ষম করার বিষয়ে নিশ্চিত?"
+
+msgid "Are you sure to give access to %{role}?"
+msgstr "আপনি কি %{role}-এ অ্যাক্সেস দেওয়ার বিষয়ে নিশ্চিত?"
+
+msgid "Are you sure to ignore this update of price ?"
+msgstr "আপনি কি নিশ্চিত যে এই মূল্য আপডেটটি উপেক্ষা করবেন?"
+
+msgid "Are you sure to make this active??"
+msgstr "আপনি কি নিশ্চিত যে এটিকে সক্রিয় করবেন?"
+
+msgid "Are you sure to make this field hidden?"
+msgstr "আপনি কি নিশ্চিত যে এই ক্ষেত্রটি লুকিয়ে রাখবেন?"
+
+msgid "Are you sure to make this field not required?"
+msgstr "আপনি কি নিশ্চিত যে এই ক্ষেত্রটি আর বাধ্যতামূলক নয়?"
+
+msgid "Are you sure to make this inactive?"
+msgstr "আপনি কি নিশ্চিত যে এটিকে নিষ্ক্রিয় করবেন?"
+
+msgid "Are you sure to make this main branch?"
+msgstr "আপনি কি নিশ্চিত যে এটি মূল শাখা করবেন?"
+
+msgid "Are you sure to make this product favorite"
+msgstr "আপনি কি নিশ্চিত এই পণ্যটি আপনার পছন্দের তালিকায় যুক্ত করতে চান?"
+
+msgid "Are you sure to remove ?"
+msgstr "আপনি কি নিশ্চিত যে মুছে ফেলবেন?"
+
+msgid "Are you sure to remove access from %{role}?"
+msgstr "আপনি কি %{role} থেকে অ্যাক্সেস মুছে ফেলার বিষয়ে নিশ্চিত?"
+
+msgid "Are you sure to remove all item from cart?"
+msgstr "আপনি কি নিশ্চিত কার্ট থেকে সকল আইটেম সরাতে চান?"
+
+msgid "Are you sure to remove it?"
+msgstr "আপনি কি নিশ্চিত এটি মুছে ফেলতে চান?"
+
+msgid "Are you sure to remove item from cart?"
+msgstr "আপনি কি নিশ্চিত কার্ট থেকে আইটেমটি সরিয়ে ফেলতে চান?"
+
+msgid "Are you sure to remove item from Holds?"
+msgstr "আপনি কি নিশ্চিত হোল্ড থেকে আইটেম সরাতে চান?"
+
+msgid "Are you sure to remove this item?"
+msgstr "আপনি নিশ্চিত এই আইটেমটি সরাতে চান?"
+
+msgid "Are you sure to remove this user from this outlet ?"
+msgstr "আপনি কি নিশ্চিত এই আউটলেট থেকে এই ব্যবহারকারীকে সরাতে চান?"
+
+msgid "Are you sure to serve the order?"
+msgstr "আপনি কি নিশ্চিত যে অর্ডার পরিবেশন করবেন?"
+
+msgid "Are you sure to transfer online stock to  %{outlet}?"
+msgstr "আপনি কি %{outlet}-এ অনলাইন স্টক স্থানান্তর করার বিষয়ে নিশ্চিত?"
+
+msgid "Are you sure you are starting?"
+msgstr "আপনি কি নিশ্চিত যে আপনি শুরু করছেন?"
+
+msgid "Are you sure,want to make cancel request for this item?"
+msgstr "আপনি নিশ্চিত, এই আইটেমটি বাতিল করার অনুরোধ করতে চান?"
+
+msgid "Are you sure,want to make cancel request?"
+msgstr "আপনি কি নিশ্চিত, বাতিলের অনুরোধ জানাতে চান?"
+
+msgid "Are you sure?"
+msgstr "আপনি কি নিশ্চিত?"
+
+msgid "Attributes List"
+msgstr "বৈশিষ্ট্য তালিকা"
+
+msgid "Attributes Loading"
+msgstr "বিশেষণগুলি লোডিং"
+
+msgid "Authorize Settings"
+msgstr "অথোরাইজ সেটিংস"
+
+msgid "Auto capture on payment auth"
+msgstr "পেমেন্ট অনুমোদনের সময় স্বয়ংক্রিয়ভাবে গ্রহণ"
+
+msgid "Back"
+msgstr "পিছনে"
+
+msgid "Balance"
+msgstr "ব্যালেন্স"
+
+msgid "Bar Code"
+msgstr "বারকোড"
+
+msgid "Barcode"
+msgstr "বারকোড"
+
+msgid "Barcode customization"
+msgstr "বারকোড কাস্টমাইজেশন"
+
+msgid "Barcode Field"
+msgstr "বারকোড ক্ষেত্র"
+
+msgid "Barcode Height"
+msgstr "বারকোড উচ্চতা"
+
+msgid "Barcode on invoice"
+msgstr "ইনভয়েসে বারকোড"
+
+msgid "Barcode Position"
+msgstr "বারকোড অবস্থান"
+
+msgid "Barcode Value"
+msgstr "বারকোড মান"
+
+msgid "Barcode width"
+msgstr "বারকোড প্রস্থ"
+
+msgid "Based on outlet order(s)"
+msgstr "আউটলেট অর্ডার(গুলি)  ভিত্তিতে"
+
+msgid "Basic Help"
+msgstr "মৌলিক সাহায্য"
+
+msgid "Basic Settings"
+msgstr "মৌলিক সেটিংস"
+
+msgid "Best size is %{logoWidth} in width and %{logoHeight} in height."
+msgstr "সর্বোত্তম আকার হল %{logoWidth} প্রস্থে এবং %{logoHeight} উচ্চতা৷"
+
+msgid "Best size is 100px in width and 60px in height."
+msgstr "সর্বোত্তম আকার 100px প্রস্থ এবং 60px উচ্চতা।"
+
+msgid "Best size is 166px in width and 60px in height."
+msgstr "সর্বোত্তম আকার 166px প্রস্থ এবং 60px উচ্চতা।"
+
+msgid "Blank for auto"
+msgstr "স্বয়ংক্রিয়ের জন্য খালি রাখুন"
+
+msgid "Bottom"
+msgstr "নীচে"
+
+msgid "Brand"
+msgstr "ব্র্যান্ড"
+
+msgid "Branding"
+msgstr "ব্র্যান্ডিং"
+
+msgid "Build :"
+msgstr "নির্মাণ :"
+
+msgid "Built-in"
+msgstr "নির্মিত"
+
+msgid "Calculate tax after discounts and fees"
+msgstr "ছাড় এবং ফি পরে কর গণনা করুন"
+
+msgid "Calculate tax before discounts and fees"
+msgstr "ছাড় এবং ফি আগে কর গণনা করুন"
+
+msgid "Calculator"
+msgstr "ক্যালকুলেটর"
+
+msgid "Can create & manage unlimited counter for each outlet"
+msgstr "প্রতিটি আউটলেটের জন্য অসীম কাউন্টার তৈরি এবং পরিচালনা করতে পারে"
+
+msgid "Can create & manage unlimited outlets"
+msgstr "অসীম আউটলেট তৈরি এবং পরিচালনা করতে পারে"
+
+msgid "Cancel"
+msgstr "বাতিল করুন"
+
+msgid "Cancel requested"
+msgstr "বাতিলের অনুরোধ করা হয়েছে"
+
+msgid "Canceled"
+msgstr "বাতিল করা হয়েছে"
+
+msgid "Cancelled"
+msgstr "বাতিল করা হয়েছে"
+
+msgid "Captcha error, please try again"
+msgstr "ক্যাপচা ত্রুটি, আবার চেষ্টা করুন"
+
+msgid "Capture Method"
+msgstr "গ্রহণ পদ্ধতি"
+
+msgid "Capture on order complete"
+msgstr "অর্ডার সম্পূর্ণ হলে গ্রহণ"
+
+msgid "Card"
+msgstr "কার্ড"
+
+msgid "Cart"
+msgstr "কার্ট"
+
+msgid "Cash"
+msgstr "নগদ"
+
+msgid "Cash Drawer"
+msgstr "ক্যাশ ড্রয়ার"
+
+msgid "Cash Drawer Balance"
+msgstr "ক্যাশ ড্রয়ার ব্যালান্স"
+
+msgid "Cash Drawer Balance:"
+msgstr "ক্যাশ ড্রয়ার ব্যালান্স: "
+
+msgid "Cash Drawer details"
+msgstr "ক্যাশ ড্রয়ার বিবরণ"
+
+msgid "Cash drawer loading..."
+msgstr "ক্যাশ ড্রয়ার লোড হচ্ছে ..."
+
+msgid "Cash Information"
+msgstr "নগদ অর্থের তথ্য"
+
+msgid "Cash Summary"
+msgstr "নগদ সারসংক্ষেপ"
+
+msgid "Cash withdraw failed"
+msgstr "নগদ উত্তোলন ব্যর্থ"
+
+msgid "Cash withdraw succeeded"
+msgstr "নগদ উত্তোলন সফল হয়েছে"
+
+msgid "Cash withdraw succeeded and closed"
+msgstr "নগদ উত্তোলন সফল হয়েছে এবং বন্ধ করা হয়েছে"
+
+msgid "Cashier"
+msgstr "ক্যাশিয়ার"
+
+msgid "Cashier Panel"
+msgstr "ক্যাশিয়ার প্যানেল"
+
+msgid "Cashier panel"
+msgstr "ক্যাশিয়ার প্যানেল"
+
+msgid "Category"
+msgstr "শ্রেণী"
+
+msgid "Category Loading"
+msgstr "শ্রেণী লোড হচ্ছে"
+
+msgid "Change"
+msgstr "পরিবর্তন করুন"
+
+msgid "Change Outlet"
+msgstr "আউটলেট পরিবর্তন করুন"
+
+msgid "Change Password"
+msgstr "পাসওয়ার্ড পরিবর্তন করুন"
+
+msgid "Change password required"
+msgstr "পাসওয়ার্ড পরিবর্তন প্রয়োজন"
+
+msgid "Changed Amount"
+msgstr " পরিবর্তিত পরিমাণ"
+
+msgid "Channels"
+msgstr "চ্যানেল"
+
+msgid ""
+"check for add this product to update price list, if need to update product "
+"price"
+msgstr ""
+"মূল্য তালিকা আপডেট করার জন্য এই পণ্যটি যোগ করার জন্য চেক করুন, যদি পণ্যের "
+"মূল্য আপডেট করার প্রয়োজন হয়"
+
+msgid "Checkbox"
+msgstr "চেকবক্স"
+
+msgid "Checkout"
+msgstr "চেকআউট"
+
+msgid "Checkout Page"
+msgstr "চেকআউট পৃষ্ঠা"
+
+msgid "Chef"
+msgstr "শেফ"
+
+msgid "Choose a Outlet"
+msgstr "একটি আউটলেট নির্বাচন করুন"
+
+msgid "Choose a paper settings"
+msgstr "একটি কাগজ সেটিংস নির্বাচন করুন"
+
+msgid "Choose category"
+msgstr "বিভাগ নির্বাচন করুন"
+
+msgid "Choose date"
+msgstr "তারিখ নির্বাচন করুন"
+
+msgid "Choose favorite type"
+msgstr "প্রিয় ধরণ নির্বাচন করুন"
+
+msgid "Choose item(s) to refund"
+msgstr "ফেরতের জন্য আইটেম নির্বাচন করুন"
+
+msgid "Choose option"
+msgstr "বিকল্প নির্বাচন করুন"
+
+msgid "Choose Outlet"
+msgstr "আউটলেট নির্বাচন করুন"
+
+msgid "Choose Panel"
+msgstr "প্যানেল নির্বাচন করুন"
+
+msgid "Choose property"
+msgstr "সম্পত্তি নির্বাচন করুন"
+
+msgid "Choose Role"
+msgstr "রোল নির্বাচন করুন"
+
+msgid "Choose Table"
+msgstr "টেবিল নির্বাচন করুন"
+
+msgid "Choose table and persons"
+msgstr "টেবিল এবং ব্যক্তিদের নির্বাচন করুন"
+
+msgid "Choose Table to enter person"
+msgstr "ব্যক্তি প্রবেশ করার জন্য টেবিল নির্বাচন করুন"
+
+msgid "Choose type of code"
+msgstr "কোডের ধরণ নির্বাচন করুন"
+
+msgid "Choose Waiters"
+msgstr "ওয়েটার নির্বাচন করুন"
+
+msgid "Choose/Search Product"
+msgstr "পণ্য নির্বাচন করুন/অনুসন্ধান করুন"
+
+msgid "Chose Operator"
+msgstr "অপারেটর নির্বাচন করুন"
+
+msgid "City"
+msgstr "শহর"
+
+msgid "Clear"
+msgstr "পরিষ্কার করুন"
+
+msgid "Clear Cache"
+msgstr "ক্যাশে পরিষ্কার করুন"
+
+msgid "Clear Cart"
+msgstr "কার্ট পরিষ্কার করুন"
+
+msgid "Click here"
+msgstr "এখানে ক্লিক করুন"
+
+msgid "click here"
+msgstr "এখানে ক্লিক করুন"
+
+msgid "Click the box to select or remove %{fileName}."
+msgstr "%{fileName} নির্বাচন বা অপসারণ করতে বাক্সে ক্লিক করুন।"
+
+msgid "Click to change sound settings"
+msgstr "সাউন্ড সেটিংস পরিবর্তন করার জন্য ক্লিক করুন"
+
+msgid "Click to see offline order"
+msgstr "অফলাইন অর্ডার দেখার জন্য ক্লিক করুন"
+
+msgid "Click to set custom price"
+msgstr "কাস্টম মূল্য নির্ধারণ করার জন্য ক্লিক করুন"
+
+msgid "Close"
+msgstr "বন্ধ করুন"
+
+msgid "Close & Create New"
+msgstr "বন্ধ করুন ও নতুন তৈরি করুন"
+
+msgid "Close & Logout"
+msgstr "বন্ধ করুন ও লগ আউট করুন"
+
+msgid "Close :"
+msgstr "বন্ধ :"
+
+msgid "Close Drawer"
+msgstr "ড্রয়ার বন্ধ করুন"
+
+msgid "Close fullscreen"
+msgstr "ফুলস্ক্রিন বন্ধ করুন"
+
+msgid "Closed"
+msgstr "বন্ধ"
+
+msgid "Closed By"
+msgstr "বন্ধ করা হয়েছে"
+
+msgid "Closing Balance"
+msgstr "ক্লোজিং ব্যালেন্স"
+
+msgid "Closing Time"
+msgstr "বন্ধ সময়"
+
+msgid "Cluster"
+msgstr "ক্লাস্টার"
+
+msgid "Code Type"
+msgstr "কোড টাইপ"
+
+msgid "Code type is required"
+msgstr "কোড ধরণ আবশ্যক"
+
+msgid "Color customization"
+msgstr "রঙ কাস্টমাইজেশন"
+
+msgid "Completed"
+msgstr "পূর্ণ"
+
+msgid "Contact Author"
+msgstr "অথর সাথে যোগাযোগ করুন"
+
+msgid "Contact Info"
+msgstr "যোগাযোগের তথ্য"
+
+msgid "Contact No"
+msgstr "যোগাযোগ নম্বর"
+
+msgid "Contact no already exist."
+msgstr "যোগাযোগ নম্বর ইতিমধ্যেই বিদ্যমান।"
+
+msgid "Contact Support Team"
+msgstr "সাপোর্ট টিমের সাথে যোগাযোগ করুন"
+
+msgid "Contact:"
+msgstr "যোগাযোগ:"
+
+msgid "Container Margin"
+msgstr "কন্টেনার মার্জিন"
+
+msgid "Container Size"
+msgstr "কন্টেনার আকার"
+
+msgid "Copy from"
+msgstr "অনুলিপি করুন"
+
+msgid "Copy role"
+msgstr "রোল অনুলিপি করুন"
+
+msgid "Copy Role Permission"
+msgstr "রোল অনুমতি অনুলিপি করুন"
+
+msgid "Copy to"
+msgstr "অনুলিপি করুন"
+
+msgid "Copying role permission"
+msgstr "রোল অনুমতি অনুলিপি করুন"
+
+msgid "Counter"
+msgstr "কাউন্টার"
+
+msgid "Counter :"
+msgstr "কাউন্টার :"
+
+msgid "Counter Info"
+msgstr "কাউন্টার তথ্য"
+
+msgid "Counter Information"
+msgstr "কাউন্টার তথ্য"
+
+msgid "Counter Name"
+msgstr "কাউন্টারের নাম"
+
+msgid "Counter No"
+msgstr "কাউন্টার নম্বর"
+
+msgid "Counter No Label"
+msgstr "কাউন্টার নম্বর লেবেল"
+
+msgid "Counter Number"
+msgstr "কাউন্টার নম্বর"
+
+msgid "Counter Operator Label"
+msgstr "কাউন্টার অপারেটর লেবেল"
+
+msgid "Counters"
+msgstr "কাউন্টার"
+
+msgid "Country"
+msgstr "দেশ"
+
+msgid "Coupon"
+msgstr "কুপন"
+
+msgid "Coupon can be only usable with Vite Coupon Pro and Vitepos Pro."
+msgstr ""
+"কুপন শুধুমাত্র Vite Coupon Pro এবং Vitepos Pro দিয়ে ব্যবহার করা যেতে পারে।"
+
+msgid "Coupon Can not applied on offline mode"
+msgstr "অফলাইন মোডে কুপন প্রয়োগ করা যাবে না"
+
+msgid "Create"
+msgstr "তৈরি করুন"
+
+msgid "Create a channel or manage existing channel"
+msgstr "একটি চ্যানেল তৈরি করুন অথবা বিদ্যমান চ্যানেল পরিচালনা করুন"
+
+msgid "Create New"
+msgstr "নতুন তৈরি করুন"
+
+msgid "Create New Order"
+msgstr "নতুন অর্ডার তৈরি করুন"
+
+msgid "Create Order"
+msgstr "অর্ডার তৈরি করুন"
+
+msgid "Create Purchase"
+msgstr "ক্রয় তৈরি করুন"
+
+msgid "Created Time"
+msgstr "তৈরি সময়"
+
+msgid "Creating Customer"
+msgstr "গ্রাহক তৈরি করছেন"
+
+msgid "Credentials not matched ! !"
+msgstr "ক্রেডেনটিয়ালস মিলেছে না !!"
+
+msgid "Cross Sells"
+msgstr "ক্রস সেল"
+
+msgid "Current"
+msgstr "বর্তমান"
+
+msgid "Current Balance"
+msgstr "বর্তমান ভারসাম্য"
+
+msgid "Current Cash"
+msgstr "বর্তমান নগদ"
+
+msgid "Current Cash Drawer Information"
+msgstr "বর্তমান ক্যাশ ড্রয়ার তথ্য"
+
+msgid "Current cash drawer order list"
+msgstr "বর্তমান ক্যাশ ড্রয়ার অর্ডার তালিকা"
+
+msgid "Current Cost"
+msgstr "বর্তমান খরচ"
+
+msgid "Current Outlet:"
+msgstr "বর্তমান আউটলেট:"
+
+msgid "Current password"
+msgstr "বর্তমান পাসওয়ার্ড"
+
+msgid "Current purchase cost :"
+msgstr "বর্তমান ক্রয় খরচ: "
+
+msgid "Current Purchase Price"
+msgstr "বর্তমান ক্রয় মূল্য"
+
+msgid "Current Status"
+msgstr "বর্তমান অবস্থা"
+
+msgid "Current Stock"
+msgstr "বর্তমান স্টক"
+
+msgid "Custom"
+msgstr "কাস্টম"
+
+msgid "Custom Barcode"
+msgstr "কাস্টম বারকোড"
+
+msgid "Custom Field"
+msgstr "কাস্টম ক্ষেত্র"
+
+msgid "custom field"
+msgstr "কাস্টম ক্ষেত্র"
+
+msgid "Custom Field List"
+msgstr "কাস্টম ফিল্ড তালিকা"
+
+msgid "Custom Field Settings"
+msgstr "কাস্টম ফিল্ড সেটিংস"
+
+msgid "Custom Fields"
+msgstr "কাস্টম ক্ষেত্র"
+
+msgid "Custom fields support in pro version only."
+msgstr "কাস্টম ক্ষেত্র শুধুমাত্র প্রো সংস্করণে সমর্থিত।"
+
+msgid "Custom Method"
+msgstr "কাস্টম পদ্ধতি"
+
+msgid "Custom Methods"
+msgstr "কাস্টম পদ্ধতি"
+
+msgid "Custom payment methode support in pro version only."
+msgstr "প্রো সংস্করণে কেবল কাস্টম পেমেন্ট পদ্ধতি সমর্থিত।"
+
+msgid "Custom Price"
+msgstr "কাস্টম মূল্য"
+
+msgid "Custom Size Title"
+msgstr "কাস্টম আকারের শিরোনাম"
+
+msgid "Customer"
+msgstr "গ্রাহক"
+
+msgid "customer"
+msgstr "গ্রাহক"
+
+msgid "Customer add not supported in offline"
+msgstr "অফলাইনে গ্রাহক যুক্ত করা সমর্থিত নয়"
+
+msgid "Customer Address"
+msgstr "গ্রাহকের ঠিকানা"
+
+msgid "Customer Custom Fields"
+msgstr "গ্রাহক কাস্টম ক্ষেত্র"
+
+msgid "Customer display"
+msgstr "গ্রাহক প্রদর্শন"
+
+msgid "Customer display supported in Pro Version"
+msgstr "গ্রাহক প্রদর্শন প্রো সংস্করণে সমর্থিত"
+
+msgid "Customer Form Fields"
+msgstr "গ্রাহক ফর্ম ক্ষেত্র"
+
+msgid "Customer Id"
+msgstr "গ্রাহকের আইডি"
+
+msgid "Customer Id Label"
+msgstr "গ্রাহকের আইডি লেবেল"
+
+msgid "Customer Info"
+msgstr "গ্রাহক তথ্য"
+
+msgid "Customer info"
+msgstr "গ্রাহকের তথ্য"
+
+msgid "Customer Info Label"
+msgstr "গ্রাহক তথ্য লেবেল"
+
+msgid "Customer List"
+msgstr "গ্রাহক তালিকা"
+
+msgid "Customer Loading ..."
+msgstr "গ্রাহক লোড হচ্ছে ..."
+
+msgid "Customer Name"
+msgstr "গ্রাহকের নাম"
+
+msgid "Customer Phone"
+msgstr "গ্রাহকের ফোন"
+
+msgid "Customer Phone Label"
+msgstr "গ্রাহকের ফোন লেবেল"
+
+msgid "Customer View"
+msgstr "গ্রাহক ভিউ"
+
+msgid "Customers"
+msgstr "গ্রাহক"
+
+msgid "Customization"
+msgstr "কাস্টমাইজেশন"
+
+msgid "Customization of color support in pro version"
+msgstr "প্রো সংস্করণে রঙ কাস্টমাইজেশনের সমর্থন"
+
+msgid "Customize payment"
+msgstr "পেমেন্ট কাস্টমাইজ করুন"
+
+msgid "Dashboard"
+msgstr "ড্যাশবোর্ড"
+
+msgid "Date"
+msgstr "তারিখ"
+
+msgid "Date Between"
+msgstr "তারিখের মধ্যে"
+
+msgid "days"
+msgstr "দিন"
+
+msgid "Deactivate License"
+msgstr "লাইসেন্স বন্ধ করুন"
+
+msgid "Decline"
+msgstr "অস্বীকৃতি"
+
+msgid "Declined By"
+msgstr "অস্বীকৃত করেছেন"
+
+msgid "Declined Note"
+msgstr "অস্বীকৃতি নোট"
+
+msgid "Default"
+msgstr "ডিফল্ট"
+
+msgid "Default Customer (Optional)"
+msgstr "ডিফল্ট গ্রাহক (ঐচ্ছিক)"
+
+msgid "Default value"
+msgstr "ডিফল্ট মান"
+
+msgid "Delete"
+msgstr "মুছে ফেলুন"
+
+msgid "Delete custom page size"
+msgstr "কাস্টম পৃষ্ঠা আকার মুছে ফেলুন"
+
+msgid "Delete failed"
+msgstr "মুছে ফেলতে ব্যর্থ"
+
+msgid "Delete failed try again"
+msgstr "ডিলিট ব্যর্থ, আবার চেষ্টা করুন"
+
+msgid ""
+"Delete product requires pro version, Please upgrade to pro version for use "
+"this feature."
+msgstr ""
+"পণ্য মুছে ফেলার জন্য প্রো ভার্সন প্রয়োজন, দয়া করে এই বৈশিষ্ট্যটি ব্যবহার "
+"করার জন্য প্রো ভার্সনে আপগ্রেড করুন।"
+
+msgid "Delete Role"
+msgstr "ভূমিকা মুছুন"
+
+msgid "Delete Role Details"
+msgstr "ভূমিকা মুছুনের বিবরণ"
+
+msgid "Denied"
+msgstr "অস্বীকৃত"
+
+msgid "Deny"
+msgstr "অস্বীকার করুন"
+
+msgid "Deny Cancel Request"
+msgstr "বাতিলের অনুরোধ অস্বীকার করুন"
+
+msgid "Deny item"
+msgstr "আইটেম অস্বীকার করুন"
+
+msgid "Deny Message"
+msgstr "অস্বীকারের বার্তা"
+
+msgid "Deny Order"
+msgstr "অর্ডার অস্বীকার করুন"
+
+msgid "Deny order"
+msgstr "অর্ডার অস্বীকার করুন"
+
+msgid "Deny Reason"
+msgstr "অস্বীকারের কারণ"
+
+msgid "deny reason"
+msgstr "অস্বীকৃতির কারণ"
+
+msgid "Deny reason is required"
+msgstr "অস্বীকৃতির কারণ প্রয়োজন"
+
+msgid "Description"
+msgstr "বর্ণনা"
+
+msgid "Designation"
+msgstr "পদবী"
+
+msgid "Designation:"
+msgstr "পদবী:"
+
+msgid "Details"
+msgstr "বিবরণ"
+
+msgid "Dimension and Tax"
+msgstr "মাত্রা এবং কর"
+
+msgid "Dimension as Parent"
+msgstr "পিতা হিসেবে মাত্রা"
+
+msgid "Disable"
+msgstr "নিষ্ক্রিয় করুন"
+
+msgid "Discount"
+msgstr "ছাড়"
+
+msgid "Discount "
+msgstr "ছাড়"
+
+msgid "Do you want to close cash drawer & logout?"
+msgstr "আপনি কি ক্যাশ ড্রয়ার বন্ধ করে লগ আউট করতে চান?"
+
+msgid "Do you want to close current cash drawer & create new cash drawer?"
+msgstr ""
+"আপনি কি বর্তমান ক্যাশ ড্রয়ার বন্ধ করে নতুন ক্যাশ ড্রয়ার তৈরি করতে চান?"
+
+msgid "Done"
+msgstr "সম্পন্ন"
+
+msgid "Download"
+msgstr "ডাউনলোড করুন"
+
+msgid "Download "
+msgstr "ডাউনলোড করুন"
+
+msgid "Download PDF"
+msgstr "পিডিএফ ডাউনলোড করুন"
+
+msgid "Draft"
+msgstr "ড্রাফ্ট"
+
+msgid "Drawer close failed"
+msgstr "ড্রয়ার বন্ধ করতে ব্যর্থ"
+
+msgid "Drawer closed successfully"
+msgstr "ড্রয়ার সফলভাবে বন্ধ করা হয়েছে"
+
+msgid "Drawer list not found"
+msgstr "ড্রয়ার তালিকা পাওয়া যায়নি"
+
+msgid "Drawer Log"
+msgstr "ড্রয়ার লগ"
+
+msgid "Drawer Log Loading ..."
+msgstr "ড্রয়ার লগ লোডিং ..."
+
+msgid "drawer logs"
+msgstr "ড্রয়ার লগ"
+
+msgid "Drawer Opened"
+msgstr "ড্রয়ার খোলা"
+
+msgid "Dropdown"
+msgstr "ড্রপডাউন"
+
+msgid "E004"
+msgstr "E004"
+
+msgid "Easy product manage (add,update,delete) based on role"
+msgstr "ভূমিকা অনুসারে সহজ পণ্য পরিচালনা (যোগ, আপডেট, মুছে ফেলুন)"
+
+msgid "Edit"
+msgstr "সম্পাদনা করুন"
+
+msgid "Edit Counter"
+msgstr "কাউন্টার সম্পাদনা করুন"
+
+msgid "Edit custom page size"
+msgstr "কাস্টম পৃষ্ঠা আকার সম্পাদনা করুন"
+
+msgid "Edit Customer"
+msgstr "গ্রাহক সম্পাদনা করুন"
+
+msgid "Edit Deny Reason"
+msgstr "অস্বীকারের কারণ সম্পাদনা করুন"
+
+msgid "Edit Message"
+msgstr "বার্তা সম্পাদনা করুন"
+
+msgid "Edit Outlet"
+msgstr "আউটলেট সম্পাদনা করুন"
+
+msgid "Edit Product"
+msgstr "পণ্য সম্পাদনা করুন"
+
+msgid ""
+"Edit product requires pro version, Please upgrade to pro version for use "
+"this feature."
+msgstr ""
+"পণ্য সম্পাদনা করার জন্য প্রো ভার্সন প্রয়োজন, দয়া করে এই বৈশিষ্ট্যটি "
+"ব্যবহার করার জন্য প্রো ভার্সনে আপগ্রেড করুন।"
+
+msgid "Edit Role"
+msgstr "রোল সম্পাদনা করুন"
+
+msgid "Edit Table"
+msgstr "টেবিল সম্পাদনা করুন"
+
+msgid "Edit User"
+msgstr "ইউজার সম্পাদনা করুন"
+
+msgid "Edit Vendor"
+msgstr "বিক্রেতা সম্পাদনা করুন"
+
+msgid "Email"
+msgstr "ইমেইল"
+
+msgid "Email already exist"
+msgstr "ইমেল ইতিমধ্যেই বিদ্যমান"
+
+msgid "Email already exist."
+msgstr "ইমেল ইতিমধ্যেই বিদ্যমান।"
+
+msgid "Email:"
+msgstr "ইমেইল:"
+
+msgid "Empowering Your WooCommerce Store with Vitepos"
+msgstr "Vitepos দিয়ে আপনার WooCommerce স্টোরকে ক্ষমতা প্রদান করা"
+
+msgid "Empty"
+msgstr "খালি"
+
+msgid "Empty intend id"
+msgstr "খালি ইনটেন্ট আইডি"
+
+msgid "Empty order id"
+msgstr "অর্ডার আইডি খালি"
+
+msgid "Empty seat:"
+msgstr "খালি আসন :"
+
+msgid "Enable"
+msgstr "সক্রিয় করুন"
+
+msgid "Enable %{brand} Payment"
+msgstr "%{brand} পেমেন্ট সক্রিয় করুন"
+
+msgid "Enable %{brand} Payment support in pro version only."
+msgstr "শুধুমাত্র প্রো সংস্করণে %{brand} পেমেন্ট সমর্থন সক্রিয় করুন।"
+
+msgid "Enable full stock management"
+msgstr "পূর্ণ স্টক ব্যবস্থাপনা সক্রিয় করুন"
+
+msgid "Enable Other Method"
+msgstr "অন্যান্য পদ্ধতি সক্ষম করুন"
+
+msgid "Enable reCaptcha V3"
+msgstr "reCaptcha V3 সক্রিয় করুন"
+
+msgid "Enable RTL"
+msgstr "RTL সক্রিয় করুন"
+
+msgid "Enable Single Cash Drawer"
+msgstr "একক ক্যাশ ড্রয়ার সক্রিয় করুন"
+
+msgid "Enable Stripe Payment support in pro version only."
+msgstr "স্ট্রাইপ পেমেন্ট সক্ষম করার জন্য শুধুমাত্র প্রো ভার্সন সমর্থিত।"
+
+msgid "Enable Stripe Terminal Payment support in pro version only."
+msgstr "শুধুমাত্র প্রো সংস্করণে স্ট্রাইপ টার্মিনাল পেমেন্ট সাপোর্ট সক্ষম করুন।"
+
+msgid "Enable Swipe Payment"
+msgstr "সোয়াইপ পেমেন্ট সক্ষম করুন"
+
+msgid "Enabling barcode on invoice requires pro version."
+msgstr "ইনভয়েসে বারকোড সক্ষম করার জন্য প্রো ভার্সন প্রয়োজন।"
+
+msgid "Enabling customer custom fields on invoice requires pro version."
+msgstr "ইনভয়েসে গ্রাহক কাস্টম ফিল্ড সক্ষম করার জন্য প্রো ভার্সন প্রয়োজন।"
+
+msgid "Enabling order custom fields on invoice requires pro version."
+msgstr ""
+"ইনভয়েসে অর্ডার কাস্টম ক্ষেত্র সক্রিয় করার জন্য প্রো সংস্করণ প্রয়োজন।"
+
+msgid "Enabling the Kitchen Involvement, It does not support offline order."
+msgstr "রান্নাঘরের সম্পৃক্ততা সক্রিয় করলে,  অফলাইন অর্ডার সমর্থন করে না।"
+
+msgid ""
+"Enabling the toggle button below can incorporate the kitchen procedure, "
+"allowing the order to be completed by the chef rather than by the cashier. "
+"Additionally, the order status can be displayed on a large screen for easy "
+"tracking."
+msgstr ""
+"নীচের টগল বোতাম সক্রিয় করলে রান্নাঘরের পদ্ধতি অন্তর্ভুক্ত করা যাবে, যা "
+"ক্যাশিয়ারের পরিবর্তে রান্নাঘরের দ্বারা অর্ডার সম্পূর্ণ করার অনুমতি দেয়। "
+"এছাড়াও, সহজ ট্র্যাকিংয়ের জন্য একটি বড় স্ক্রিনে অর্ডার স্ট্যাটাস প্রদর্শন "
+"করা যেতে পারে।"
+
+msgid ""
+"Enabling the toggle button, below can incorporate the kitchen procedure, "
+"allowing the order to be completed by the chef rather than by the cashier. "
+"Additionally, the order status can be displayed on a large screen for easy "
+"tracking."
+msgstr ""
+"টগল বোতাম সক্রিয় করলে, নিচে রান্নাঘরের পদ্ধতি অন্তর্ভুক্ত করা যেতে পারে, যা "
+"চেকআউট করার পরিবর্তে শেফ দ্বারা অর্ডার সম্পন্ন করার অনুমতি দেয়।  এছাড়াও, "
+"অর্ডার স্ট্যাটাস সহজ ট্র্যাকিংয়ের জন্য একটি বড় স্ক্রিনে প্রদর্শন করা যেতে "
+"পারে।"
+
+msgid "Enabling this feature, will enable RTL mode on POS."
+msgstr "এই বৈশিষ্ট্যটি সক্রিয় করলে, POS-তে RTL মোড সক্রিয় করা হবে।"
+
+msgid ""
+"Enabling this feature, will enable single cash drawer by outlet and counter."
+"After enabling this feature you can not create multiple cash drawer on same "
+"outlet with same counter."
+msgstr ""
+"এই বৈশিষ্ট্যটি সক্রিয় করলে, আউটলেট এবং কাউন্টার অনুসারে একক ক্যাশ ড্রয়ার "
+"সক্রিয় হবে। এই বৈশিষ্ট্যটি সক্রিয় করার পরে আপনি একই আউটলেটে একই কাউন্টারের "
+"সাথে একাধিক ক্যাশ ড্রয়ার তৈরি করতে পারবেন না।"
+
+msgid ""
+"Enabling this feature, will enable user to change price of any product while "
+"ordering (on cart)."
+msgstr ""
+"এই বৈশিষ্ট্যটি সক্রিয় করলে, ব্যবহারকারী অর্ডার করার সময় (কার্টে) যেকোনো "
+"পণ্যের মূল্য পরিবর্তন করতে পারবেন।"
+
+msgid ""
+"Enabling this feature, will trigger an email to be sent to the customer once "
+"their order is complete."
+msgstr ""
+"এই বৈশিষ্ট্যটি সক্রিয় করলে, তাদের অর্ডার সম্পন্ন হলে গ্রাহকের কাছে একটি "
+"ইমেল পাঠানো হবে।"
+
+msgid ""
+"Enabling this feature, will trigger an email to be sent to the user who will "
+"completed the order form vitepos."
+msgstr ""
+"এই বৈশিষ্ট্যটি সক্রিয় করলে, vitepos-এ অর্ডার ফর্ম পূরণ করা ব্যবহারকারীকে "
+"একটি ইমেইল পাঠানো হবে।"
+
+msgid ""
+"Enabling this will allow item wise interaction for a single order where the "
+"status of that order items can be change individually"
+msgstr ""
+"এটি সক্রিয় করলে একক অর্ডারের জন্য আইটেম অনুযায়ী ইন্টারঅ্যাকশন করা যাবে "
+"যেখানে সেই অর্ডারের আইটেমগুলির স্ট্যাটাস পৃথকভাবে পরিবর্তন করা যেতে পারে"
+
+msgid "Enter amount"
+msgstr "পরিমাণ প্রবেশ করান"
+
+msgid "Enter Barcode/Scan"
+msgstr "বারকোড লিখুন/স্ক্যান করুন"
+
+msgid "Enter name"
+msgstr "নাম লিখুন"
+
+msgid "Enter SKU"
+msgstr "SKU লিখুন"
+
+msgid "Enter value"
+msgstr "মান প্রবেশ করান"
+
+msgid "Enter/scan coupon code"
+msgstr "কুপন কোড প্রবেশ করান/স্ক্যান করুন"
+
+msgid "Equal to"
+msgstr "সমান"
+
+msgid "Example `Color`"
+msgstr "উদাহরণ `রঙ`"
+
+msgid "Example Red|Blue|Green "
+msgstr "উদাহরণ লাল|নীল|সবুজ"
+
+msgid "Failed"
+msgstr "ব্যর্থ"
+
+msgid "Failed to reset try again"
+msgstr "রিসেট ব্যর্থ, আবার চেষ্টা করুন"
+
+msgid "Failed to update"
+msgstr "আপডেট ব্যর্থ"
+
+msgid "Favicon"
+msgstr "ফেভিকন"
+
+msgid "Favorite"
+msgstr "প্রিয়"
+
+msgid "Feature Image"
+msgstr "প্রদর্শনী ছবি"
+
+msgid "Fee"
+msgstr "শুল্ক"
+
+msgid "Field label"
+msgstr "ক্ষেত্র লেবেল"
+
+msgid "Field Name"
+msgstr "ক্ষেত্রের নাম"
+
+msgid "Fields"
+msgstr "ক্ষেত্র"
+
+msgid "First Name"
+msgstr "প্রথম নাম"
+
+msgid ""
+"First, It calculate the subtotal including any discounts and fees, and then "
+"it apply the tax based on the discounted price."
+msgstr ""
+"প্রথমে, এটি কোনও ছাড় এবং ফি সহ উপ-মোট গণনা করে এবং তারপরে ছাড়যুক্ত মূল্যের "
+"ভিত্তিতে কর প্রয়োগ করে।"
+
+msgid "Font Size"
+msgstr "ফন্টের আকার"
+
+msgid "Footer"
+msgstr "ফুটার"
+
+msgid "Footer Panel"
+msgstr "ফুটার প্যানেল"
+
+msgid "For add more than two counter it requires pro version."
+msgstr "দুটির বেশি কাউন্টার যোগ করার জন্য প্রো সংস্করণ প্রয়োজন।"
+
+msgid "for more details please visit"
+msgstr "আরও বিবরণের জন্য দয়া করে ভিজিট করুন"
+
+msgid "For multiple outlet you need to active pro version."
+msgstr "একাধিক আউটলেটের জন্য আপনাকে প্রো সংস্করণ সক্রিয় করতে হবে।"
+
+msgid "Form Customization"
+msgstr "ফর্ম কাস্টমাইজেশন"
+
+msgid "Form customization support in pro version only."
+msgstr "ফর্ম কাস্টমাইজেশন সাপোর্ট শুধুমাত্র প্রো ভার্সনে।"
+
+msgid "Form is not valid"
+msgstr "ফর্মটি বৈধ নয়"
+
+msgid "From"
+msgstr "থেকে"
+
+msgid "From Outlet"
+msgstr "থেকে আউটলেট"
+
+msgid "From outlet"
+msgstr "থেকে আউটলেট"
+
+msgid "From Outlet:"
+msgstr "থেকে আউটলেট: "
+
+msgid "Full Refund"
+msgstr "পূর্ণ ফেরত"
+
+msgid "Full stock management support in pro version only."
+msgstr "পূর্ণ স্টক ব্যবস্থাপনা শুধুমাত্র প্রো ভার্সনে সমর্থিত।"
+
+msgid "Full Withdraw"
+msgstr "পূর্ণ উত্তোলন"
+
+msgid "Full-screen/Normal-screen"
+msgstr "ফুল স্ক্রিন/নরমাল স্ক্রিন"
+
+msgid "Generate Barcodes"
+msgstr "বারকোড তৈরি করুন"
+
+msgid "Generated by"
+msgstr "তৈরি করা হয়েছে"
+
+msgid "Get Pro"
+msgstr "প্রো নিন"
+
+msgid "Get pro"
+msgstr "প্রো নিন"
+
+msgid "Getting user list"
+msgstr "ব্যবহারকারী তালিকা পাচ্ছি"
+
+msgid "Given Amount"
+msgstr "প্রদত্ত পরিমাণ"
+
+msgid "Go Back"
+msgstr "পিছনে যান"
+
+msgid "Go pro"
+msgstr "প্রো যান"
+
+msgid "Go to Pos"
+msgstr "POS যান"
+
+msgid "Go To Purchase"
+msgstr "ক্রয় করতে যান"
+
+msgid "Go With Current Balance"
+msgstr "বর্তমান ব্যালান্সের সাথে যান"
+
+msgid "Go With Current Drawer"
+msgstr "বর্তমান ড্রয়ারের সাথে যান"
+
+msgid "Grand Total"
+msgstr "মোট মূল্য"
+
+msgid "Grand-total :"
+msgstr "মোট টোটাল:  "
+
+msgid "Grocery"
+msgstr "মুদি"
+
+msgid "Grocery mode"
+msgstr "মুদি মোড"
+
+msgid "Half Field"
+msgstr "অর্ধ ক্ষেত্র"
+
+msgid "have two sides. One admin panel and another is client panel."
+msgstr "দুটি দিক আছে। একটি অ্যাডমিন প্যানেল এবং অন্যটি ক্লায়েন্ট প্যানেল।"
+
+msgid "Header"
+msgstr "হেডার"
+
+msgid "Header Panel"
+msgstr "শিরোনাম প্যানেল"
+
+msgid "Height"
+msgstr "উচ্চতা"
+
+msgid "Hello,"
+msgstr "হ্যালো,"
+
+msgid "Help"
+msgstr "সাহায্য"
+
+msgid "Help and info"
+msgstr "সাহায্য ও তথ্য"
+
+msgid "Help text"
+msgstr "সাহায্য পাঠ্য"
+
+msgid "Hide"
+msgstr "লুকান"
+
+msgid "Hide on POS.Click to show"
+msgstr "POS এ লুকানো। দেখানোর জন্য ক্লিক করুন"
+
+msgid "Hold"
+msgstr "হোল্ড করুন"
+
+msgid "Hold cart"
+msgstr "কার্ট ধরে রাখুন"
+
+msgid "Hold cart applicable in pro version"
+msgstr "প্রো সংস্করণে হোল্ড কার্ট প্রযোজ্য"
+
+msgid ""
+"Hold cart requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr ""
+"কার্ট ধরে রাখার জন্য প্রো সংস্করণ প্রয়োজন, দয়া করে এই বৈশিষ্ট্য ব্যবহার "
+"করার জন্য প্রো সংস্করণে আপগ্রেড করুন।"
+
+msgid "Hold Cart Supported In Pro Version"
+msgstr "প্রো সংস্করণে হোল্ড কার্ট সমর্থিত"
+
+msgid "hold items"
+msgstr "ধরে রাখা আইটেম"
+
+msgid "Hold List"
+msgstr "হোল্ড তালিকা"
+
+msgid "Hold no : %{holdNo}"
+msgstr "হোল্ড নম্বর: %{holdNo}"
+
+msgid "Hold Sale"
+msgstr "বিক্রয় ধরে রাখুন"
+
+msgid "Home"
+msgstr "হোম"
+
+msgid ""
+"I agree to delete the %{rolename} and move all users of %{rolename} to the "
+"selected role"
+msgstr ""
+"আমি %{rolename} মুছে দিতে এবং %{rolename}-এর সমস্ত ব্যবহারকারীকে নির্বাচিত "
+"ভূমিকায় নিয়ে যেতে সম্মত"
+
+msgid "Icons"
+msgstr "আইকন"
+
+msgid ""
+"If you have previously used an older version or if you have not enabled the "
+"stockable feature before, you may need to transfer your online inventory to "
+"your linked outlet to %{outletname}"
+msgstr ""
+"আপনি যদি আগে একটি পুরানো সংস্করণ ব্যবহার করে থাকেন বা আপনি যদি আগে স্টকযোগ্য "
+"বৈশিষ্ট্যটি সক্ষম না করে থাকেন, তাহলে আপনাকে আপনার অনলাইন ইনভেন্টরিটি আপনার "
+"লিঙ্ক করা আউটলেটে %{outletname}-এ স্থানান্তর করতে হতে পারে"
+
+msgid ""
+"If you want to transfer your current online stock to %{outletname} then "
+"click the button below"
+msgstr ""
+"আপনি যদি আপনার বর্তমান অনলাইন স্টকটি %{outletname}-এ স্থানান্তর করতে চান "
+"তাহলে নীচের বোতামে ক্লিক করুন"
+
+msgid "Ignore"
+msgstr "উপেক্ষা করুন"
+
+msgid "Ignore Update"
+msgstr "আপডেট উপেক্ষা করুন"
+
+msgid ""
+"Ignore update requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr ""
+"আপডেট উপেক্ষা করার জন্য প্রো ভার্সন প্রয়োজন, দয়া করে এই বৈশিষ্ট্যটি "
+"ব্যবহার করার জন্য প্রো ভার্সনে আপগ্রেড করুন।"
+
+msgid "Image"
+msgstr "ছবি"
+
+msgid ""
+"In case of any problem, get in touch with the Vitepos team. We always "
+"support our clients until their satisfaction comes. And that is our "
+"responsibility and duty."
+msgstr ""
+"যেকোনো সমস্যার ক্ষেত্রে, ভাইটেপস দলের সাথে যোগাযোগ করুন। আমরা সর্বদা আমাদের "
+"ক্লায়েন্টদের সমর্থন করি যতক্ষণ না তাদের সন্তুষ্টি আসে। এবং এটি আমাদের "
+"দায়িত্ব এবং কর্তব্য।"
+
+msgid "In Dine"
+msgstr "ডাইনে"
+
+msgid "In Kitchen"
+msgstr "রান্নাঘরে"
+
+msgid ""
+"In the traditional procedure, a waiter takes the customers order and sends "
+"it to the kitchen. Once the kitchen has prepared the order, the waiter is "
+"notified to serve it. After the order has been served, the cashier can "
+"process the payment."
+msgstr ""
+"ঐতিহ্যগত পদ্ধতিতে, একজন ওয়েটার গ্রাহকের অর্ডার নেয় এবং রান্নাঘরে পাঠায়। "
+"রান্নাঘর অর্ডার প্রস্তুত করার পর, ওয়েটারকে পরিবেশন করার জন্য জানানো হয়। "
+"অর্ডার পরিবেশন করা হলে, ক্যাশিয়ার পেমেন্ট প্রক্রিয়া করতে পারে।"
+
+msgid "In-stock"
+msgstr "স্টকে"
+
+msgid "Inactive"
+msgstr "নিষ্ক্রিয়"
+
+msgid "Input is empty"
+msgstr "ইনপুট খালি"
+
+msgid "Input Name"
+msgstr "ইনপুট নাম"
+
+msgid "Install"
+msgstr "ইনস্টল করুন"
+
+msgid "Invalid login information"
+msgstr "অবৈধ লগইন তথ্য"
+
+msgid "Invalid param"
+msgstr "অবৈধ প্যারামিটার"
+
+msgid "Invalid Request"
+msgstr "অবৈধ অনুরোধ"
+
+msgid "Invalid request"
+msgstr "অবৈধ অনুরোধ"
+
+msgid "Invalid request!!"
+msgstr "অবৈধ অনুরোধ!"
+
+msgid "Invalid request3"
+msgstr "অবৈধ অনুরোধ"
+
+msgid "invalid requiest"
+msgstr "অবৈধ অনুরোধ"
+
+msgid "Invoice"
+msgstr "ইনভয়েস"
+
+msgid "Invoice Print Settings"
+msgstr "ইনভয়েস প্রিন্ট সেটিংস"
+
+msgid "Is Calculable"
+msgstr "গণনাযোগ্য কিনা"
+
+msgid "Is Mergeable?"
+msgstr "মার্জ করা যায়?"
+
+msgid "Is Required"
+msgstr "প্রয়োজনীয় কিনা"
+
+msgid "Is Required?"
+msgstr "আবশ্যক? "
+
+msgid "Is Selected?"
+msgstr "নির্বাচিত? "
+
+msgid "Is Separate Tax?"
+msgstr "আলাদা কর?"
+
+msgid "Is Show In Receipt"
+msgstr "রসিদে দেখানো হবে কিনা"
+
+msgid "It is custom barcode data of woocommerce for vitepos"
+msgstr "এটি ভাইটপসের জন্য WooCommerce-এর কাস্টম বারকোড ডেটা"
+
+msgid "It requires woocommerce, please install woocommerce first"
+msgstr ""
+"এটির জন্য  woocommerce প্রয়োজন, দয়া করে প্রথমে  woocommerce ইনস্টল করুন"
+
+msgid ""
+"It will allow you to take payment using %{brand} Payment gateway, make sure "
+"you have added %{brand} api info in %{brand} settings tab."
+msgstr ""
+"এটি আপনাকে %{brand} পেমেন্ট গেটওয়ে ব্যবহার করে অর্থপ্রদান করার অনুমতি দেবে, "
+"নিশ্চিত করুন যে আপনি %{brand} সেটিংস ট্যাবে %{brand} api তথ্য যোগ করেছেন।"
+
+msgid "It will allows to take payment using others method."
+msgstr "এটি অন্যান্য পদ্ধতি ব্যবহার করে পেমেন্ট গ্রহণ করার অনুমতি দেবে।"
+
+msgid "It will allows to take payment using swipe machine."
+msgstr "এটি সোয়াইপ মেশিন ব্যবহার করে পেমেন্ট গ্রহণ করার অনুমতি দেবে।"
+
+msgid "It will protect order if there is not stock of the item"
+msgstr "যদি আইটেমের স্টক না থাকে তবে এটি অর্ডার রক্ষা করবে"
+
+msgid "Item"
+msgstr "পণ্য"
+
+msgid "Item denied from kitchen"
+msgstr "রান্নাঘর থেকে আইটেম অস্বীকার করা হয়েছে"
+
+msgid "Item Details"
+msgstr "আইটেমের বিবরণ"
+
+msgid "Item has been cancelled"
+msgstr "আইটেম বাতিল করা হয়েছে"
+
+msgid "Item is ready"
+msgstr "আইটেম প্রস্তুত"
+
+msgid "Item is ready to serve"
+msgstr "আইটেম পরিবেশনের জন্য প্রস্তুত"
+
+msgid "Item Name"
+msgstr "আইটেমের নাম"
+
+msgid "Item no"
+msgstr "আইটেম নং"
+
+msgid "Item started successfully"
+msgstr "আইটেম সফলভাবে শুরু হয়েছে"
+
+msgid "Item wise interaction"
+msgstr "আইটেম অনুযায়ী ইন্টারঅ্যাকশন"
+
+msgid "Items empty"
+msgstr "আইটেম খালি"
+
+msgid "Items Price"
+msgstr "পণ্যের মূল্য"
+
+msgid "Keep blank for auto height"
+msgstr "স্বয়ংক্রিয় উচ্চতার জন্য খালি রাখুন"
+
+msgid "Keep blank to use default WordPress login."
+msgstr "ডিফল্ট ওয়ার্ডপ্রেস লগইন ব্যবহার করতে খালি রাখুন।"
+
+msgid ""
+"Keep in mind that this procedure will reset the stock of the WooCommerce "
+"product to zero."
+msgstr "মনে রাখবেন যে এই পদ্ধতি WooCommerce পণ্যের স্টক শূন্য করবে।"
+
+msgid "Key"
+msgstr "কী"
+
+msgid "Kitchen"
+msgstr "রান্নাঘর"
+
+msgid "Kitchen Involvement"
+msgstr "রান্নাঘরের সম্পৃক্ততা"
+
+msgid "Kitchen Involvement support in pro version only."
+msgstr "রান্নাঘরের জড়িত থাকা শুধুমাত্র প্রো সংস্করণে সমর্থিত।"
+
+msgid "Kitchen Panel"
+msgstr "রান্নাঘর প্যানেল"
+
+msgid "Kitchen panel"
+msgstr "রান্নাঘর প্যানেল"
+
+msgid "Label"
+msgstr "লেবেল"
+
+msgid "Large Screen"
+msgstr "বড় স্ক্রিন"
+
+msgid "Last 4 Digit:"
+msgstr "শেষ 4টি ডিজিট:"
+
+msgid "Last 5 Purchase History"
+msgstr "শেষ ৫টি ক্রয় ইতিহাস"
+
+msgid "Last 7 days cash drawer logs"
+msgstr "গত 7 দিনের নগদ ড্রয়ার লগ"
+
+msgid "Last Four Digit of card"
+msgstr "কার্ডের শেষ চারটি ডিজিট"
+
+msgid "Last Name"
+msgstr "শেষ নাম"
+
+msgid "Last sync :"
+msgstr "শেষ সিঙ্ক:"
+
+msgid "Left,Right"
+msgstr "বাম,ডান"
+
+msgid "Length"
+msgstr "দৈর্ঘ্য"
+
+msgid "License Expired on"
+msgstr "লাইসেন্স মেয়াদ শেষ হবে"
+
+msgid "License Info"
+msgstr "লাইসেন্স তথ্য"
+
+msgid "License Status"
+msgstr "লাইসেন্সের অবস্থা"
+
+msgid "License Type"
+msgstr "লাইসেন্সের ধরণ"
+
+msgid "Loaded"
+msgstr "লোড করা হয়েছে"
+
+msgid "Loading"
+msgstr "লোডিং"
+
+msgid "Loading ..."
+msgstr "লোডিং ..."
+
+msgid "Loading Addon Details..."
+msgstr "অ্যাড-অন বিশদ লোড হচ্ছে..."
+
+msgid "Loading cash drawer details..."
+msgstr "নগদ ড্রয়ারের বিশদ লোড হচ্ছে..."
+
+msgid "Loading Custom Field Details"
+msgstr "কাস্টম ক্ষেত্রের বিবরণ লোড হচ্ছে"
+
+msgid "Loading Custom Fields"
+msgstr "লোডিং কাস্টম ক্ষেত্র"
+
+msgid "Loading Custom Fields..."
+msgstr "কাস্টম ক্ষেত্র লোড হচ্ছে..."
+
+msgid "Loading Customer Details..."
+msgstr "গ্রাহক বিবরণ লোড হচ্ছে..."
+
+msgid "Loading Data"
+msgstr "ডেটা লোড হচ্ছে"
+
+msgid "Loading Deny Reasons..."
+msgstr "অস্বীকৃতি কারণ লোড হচ্ছে..."
+
+msgid "Loading From"
+msgstr "লোড হচ্ছে"
+
+msgid "Loading Message Details..."
+msgstr "বার্তা বিবরণ লোড হচ্ছে..."
+
+msgid "Loading Messages"
+msgstr "লোডিং বার্তা"
+
+msgid "Loading Messages..."
+msgstr "বার্তা লোড হচ্ছে..."
+
+msgid "Loading order details..."
+msgstr "অর্ডারের বিস্তারিত তথ্য লোড হচ্ছে..."
+
+msgid "Loading orders..."
+msgstr "অর্ডার লোড হচ্ছে..."
+
+msgid "Loading Outlet"
+msgstr "আউটলেট লোড হচ্ছে"
+
+msgid "Loading Outlet Details"
+msgstr "আউটলেট বিবরণ লোড হচ্ছে"
+
+msgid "Loading Product Details..."
+msgstr "পণ্য বিবরণ লোড হচ্ছে..."
+
+msgid "Loading Purchase Details..."
+msgstr "ক্রয় বিবরণ লোড হচ্ছে..."
+
+msgid "Loading Role Access"
+msgstr "ভূমিকার অ্যাক্সেস লোড হচ্ছে"
+
+msgid "Loading Roles"
+msgstr "রোল লোড হচ্ছে"
+
+msgid "Loading Settings"
+msgstr "সেটিংস লোড হচ্ছে"
+
+msgid "Loading Stock Logs..."
+msgstr "স্টক লগ লোড হচ্ছে..."
+
+msgid "Loading Table Details..."
+msgstr "টেবিল বিবরণ লোডিং ..."
+
+msgid "Loading Transfer Details..."
+msgstr "স্থানান্তরের বিস্তারিত তথ্য লোড হচ্ছে..."
+
+msgid "Loading User Details..."
+msgstr "ব্যবহারকারী বিবরণ লোড হচ্ছে..."
+
+msgid "Loading Vendor Details..."
+msgstr "ভেন্ডর বিবরণ লোড হচ্ছে..."
+
+msgid "Loading.."
+msgstr "লোডিং.."
+
+msgid "Loading..."
+msgstr "লোডিং..."
+
+msgid "Lock"
+msgstr "লক"
+
+msgid "Lock Screen"
+msgstr "লক স্ক্রিন"
+
+msgid "Log"
+msgstr "লগ"
+
+msgid "Login to pusher.com"
+msgstr "pusher.com এ লগইন করুন"
+
+msgid "Logo"
+msgstr "লোগো"
+
+msgid "Logout"
+msgstr "লগ আউট"
+
+msgid "Main Branch"
+msgstr "মূল শাখা"
+
+msgid "Make Active"
+msgstr "সক্রিয় করুন"
+
+msgid "Make Completed"
+msgstr "সম্পন্ন করুন"
+
+msgid "Make favorite"
+msgstr "প্রিয় তৈরি করুন"
+
+msgid "Make Inactive"
+msgstr "নিষ্ক্রিয় করুন"
+
+msgid "Make Main"
+msgstr "মূল করুন"
+
+msgid "Make Serve"
+msgstr "পরিবেশন করুন"
+
+msgid ""
+"Making favorite product requires pro version, Please upgrade to pro version "
+"for use this feature."
+msgstr ""
+"প্রিয় পণ্য তৈরির জন্য প্রো ভার্সন প্রয়োজন, দয়া করে এই বৈশিষ্ট্যটি ব্যবহার "
+"করার জন্য প্রো ভার্সনে আপগ্রেড করুন।"
+
+msgid "Manage Barcode"
+msgstr "বারকোড পরিচালনা করুন"
+
+msgid "Manage Customer"
+msgstr "গ্রাহক পরিচালনা করুন"
+
+msgid "Manage Drawer Log"
+msgstr "ড্রয়ার লগ পরিচালনা করুন"
+
+msgid "Manage Orders"
+msgstr "অর্ডার পরিচালনা করুন"
+
+msgid "Manage Product"
+msgstr "পণ্য পরিচালনা করুন"
+
+msgid "Manage Profile"
+msgstr "প্রোফাইল পরিচালনা করুন"
+
+msgid "Manage Purchases"
+msgstr "ক্রয় পরিচালনা করুন"
+
+msgid "Manage Stock"
+msgstr "স্টক পরিচালনা করুন"
+
+msgid "Manage User"
+msgstr "ইউজার পরিচালনা করুন"
+
+msgid "Manage Vendor"
+msgstr "ভেন্ডর পরিচালনা করুন"
+
+msgid "Margin Left"
+msgstr "বাম মার্জিন"
+
+msgid "Margin Right"
+msgstr "ডান মার্জিন"
+
+msgid "Max"
+msgstr "সর্বোচ্চ"
+
+msgid "Max Discount"
+msgstr "সর্বাধিক ছাড়"
+
+msgid "Max Limit"
+msgstr "সর্বোচ্চ সীমা"
+
+msgid "Menu"
+msgstr "মেনু"
+
+msgid "Message"
+msgstr "বার্তা"
+
+msgid "Message Type"
+msgstr "বার্তা ধরণ"
+
+msgid "Messages"
+msgstr "বার্তা"
+
+msgid "Method Name"
+msgstr "পদ্ধতির নাম"
+
+msgid "Min"
+msgstr "ন্যূনতম"
+
+msgid "Missing dependency"
+msgstr "অনুপস্থিত নির্ভরতা"
+
+msgid "mm"
+msgstr "মিমি"
+
+msgid "Mobile"
+msgstr "মোবাইল"
+
+msgid "Mobile Screen"
+msgstr "মোবাইল স্ক্রিন"
+
+msgid "Module"
+msgstr "মডিউল"
+
+msgid "More Details"
+msgstr "আরও বিবরণ"
+
+msgid "Move to Role "
+msgstr "রোল যান"
+
+msgid "Move to role does not exists"
+msgstr "রোল স্থানান্তর করা যায় না"
+
+msgid "Mute"
+msgstr "মিউট করুন"
+
+msgid "Name"
+msgstr "নাম"
+
+msgid "Name :"
+msgstr "নাম: "
+
+msgid "Need to close cash drawer to change outlet. Do you want to close now?"
+msgstr ""
+"আউটলেট পরিবর্তন করার জন্য ক্যাশ ড্রয়ার বন্ধ করতে হবে। আপনি কি এখন বন্ধ করতে "
+"চান?"
+
+msgid "Net Unit Cost"
+msgstr "নেট ইউনিট খরচ"
+
+msgid "new"
+msgstr "নতুন"
+
+msgid "New Drawer"
+msgstr "নতুন ড্রয়ার"
+
+msgid "New Field"
+msgstr "নতুন ক্ষেত্র"
+
+msgid "New Order"
+msgstr "নতুন অর্ডার"
+
+msgid "New password"
+msgstr "নতুন পাসওয়ার্ড"
+
+msgid "New Product Badge Duration"
+msgstr "নতুন পণ্য ব্যাজ সময়কাল"
+
+msgid "New sale"
+msgstr "নতুন বিক্রয়"
+
+msgid "No"
+msgstr "না"
+
+msgid "No %{type} found"
+msgstr "কোনো %{type} পাওয়া যায়নি"
+
+msgid "No action initialize"
+msgstr "কোনো অ্যাকশন শুরু করা হয়নি"
+
+msgid "No active orders found"
+msgstr "কোন সক্রিয় অর্ডার পাওয়া যায়নি"
+
+msgid "No address found"
+msgstr "কোন ঠিকানা পাওয়া যায়নি"
+
+msgid "No barcode found for this product"
+msgstr "এই পণ্যের জন্য কোন বারকোড পাওয়া যায়নি"
+
+msgid "No cancelled order found"
+msgstr "কোন বাতিলকৃত অর্ডার পাওয়া যায়নি"
+
+msgid "No cash drawer info found"
+msgstr "কোন ক্যাশ ড্রয়ার তথ্য পাওয়া যায়নি"
+
+msgid "No cash drawer information found"
+msgstr "কোন ক্যাশ ড্রয়ার তথ্য পাওয়া যায়নি"
+
+msgid "No change for update"
+msgstr "আপডেট করার জন্য কোন পরিবর্তন নেই"
+
+msgid "No counter found with these ids"
+msgstr "এই আইডি দিয়ে কোন কাউন্টার পাওয়া যায়নি"
+
+msgid "No custom field found with these ids"
+msgstr "এই আইডি দিয়ে কোন কাস্টম ফিল্ড পাওয়া যায়নি"
+
+msgid "No Customer found"
+msgstr "কোন গ্রাহক পাওয়া যায়নি"
+
+msgid "No customer found"
+msgstr "কোন গ্রাহক পাওয়া যায়নি"
+
+msgid "No customer found to add"
+msgstr "যোগ করার জন্য কোন গ্রাহক পাওয়া যায়নি"
+
+msgid "No data found with request param"
+msgstr "অনুরোধের প্যারামিটারের সাথে কোন ডেটা পাওয়া যায়নি"
+
+msgid "No designation found"
+msgstr "কোন পদবী পাওয়া যায়নি"
+
+msgid "No expiry"
+msgstr "কোন মেয়াদ নেই"
+
+msgid "No fields Added"
+msgstr "কোনও ক্ষেত্র যুক্ত করা হয়নি"
+
+msgid "No history found"
+msgstr "কোনও ইতিহাস পাওয়া যায়নি"
+
+msgid "No item found"
+msgstr "কোন আইটেম পাওয়া যায়নি"
+
+msgid "No item found for this category or search"
+msgstr "এই বিভাগ বা অনুসন্ধানের জন্য কোন আইটেম পাওয়া যায়নি"
+
+msgid "No logged in user"
+msgstr "কোনও লগ ইন ব্যবহারকারী নেই"
+
+msgid "No logs found for this product"
+msgstr "এই পণ্যের জন্য কোন লগ পাওয়া যায়নি"
+
+msgid "No message found"
+msgstr "কোনও বার্তা পাওয়া যায়নি"
+
+msgid "No name found"
+msgstr "কোন নাম পাওয়া যায়নি"
+
+msgid "No number found"
+msgstr "কোন নম্বর পাওয়া যায়নি"
+
+msgid "No Offline order for restaurent"
+msgstr "রেস্তোরাঁর জন্য কোন অফলাইন অর্ডার নেই"
+
+msgid "No offline outlet and counter found"
+msgstr "কোন অফলাইন আউটলেট এবং কাউন্টার পাওয়া যায়নি"
+
+msgid "No option added"
+msgstr "কোনও অপশন যোগ করা হয়নি"
+
+msgid "No order found"
+msgstr "কোন অর্ডার পাওয়া যায়নি"
+
+msgid "No outlet found"
+msgstr "কোন আউটলেট পাওয়া যায়নি"
+
+msgid "No Outlet found with these ids"
+msgstr "এই আইডি দিয়ে কোন আউটলেট পাওয়া যায়নি"
+
+msgid "No outlet found:"
+msgstr "কোন আউটলেট পাওয়া যায়নি: "
+
+msgid "No permission to add discount"
+msgstr "ছাড় যোগ করার অনুমতি নেই"
+
+msgid "No record found"
+msgstr "কোনো রেকর্ড পাওয়া যায়নি"
+
+msgid "No role data found"
+msgstr "কোন রোল ডেটা পাওয়া যায়নি"
+
+msgid "No role found with this request param"
+msgstr "এই অনুরোধ প্যারামিটার দিয়ে কোন ভূমিকা পাওয়া যায়নি"
+
+msgid "No Rules Added"
+msgstr "কোন নিয়ম যোগ করা হয়নি"
+
+msgid "No Rules Group Added"
+msgstr "কোন নিয়ম গ্রুপ যোগ করা হয়নি"
+
+msgid "No short messages found"
+msgstr "কোন সংক্ষিপ্ত বার্তা পাওয়া যায়নি"
+
+msgid "No table found please add some table"
+msgstr "কোন টেবিল পাওয়া যায়নি, দয়া করে কিছু টেবিল যোগ করুন"
+
+msgid "No Table found please add table first"
+msgstr "কোন টেবিল পাওয়া যায়নি,  প্রথমে টেবিল যোগ করুন"
+
+msgid "No transfer %{type} found"
+msgstr "কোনো স্থানান্তর %{type} পাওয়া যায়নি"
+
+msgid "No Variants Selected"
+msgstr "কোন বৈকল্পিক নির্বাচিত হয়নি"
+
+msgid "No variations"
+msgstr "কোন বৈচিত্র্য নেই"
+
+msgid "No vendor found with this param"
+msgstr "এই প্যারামের সাথে কোন বিক্রেতা পাওয়া যায়নি"
+
+msgid "Non editable role"
+msgstr "সম্পাদনযোগ্য নয়"
+
+msgid "Nonce error"
+msgstr "নোনস ত্রুটি"
+
+msgid "None"
+msgstr "কোনটিই না"
+
+msgid "Not equal to"
+msgstr "সমান নয়"
+
+msgid "Not Received yet"
+msgstr "এখনও গ্রহণ করা হয়নি"
+
+msgid "Not saved yet"
+msgstr "এখনো সংরক্ষণ করা হয়নি"
+
+msgid "Not updated"
+msgstr "আপডেট করা হয়নি"
+
+msgid "Note"
+msgstr "নোট"
+
+msgid "Note :"
+msgstr "নোট :"
+
+msgid "NOTE : Regular price is less than purchase price"
+msgstr "নোট: নিয়মিত মূল্য ক্রয় মূল্যের চেয়ে কম"
+
+msgid "Note:"
+msgstr "নোট:"
+
+msgid "Notes"
+msgstr "নোট"
+
+msgid "Notification details"
+msgstr "বিজ্ঞপ্তি বিবরণ"
+
+msgid ""
+"Now each outlet will have its own separate stock in Vitepos. For online "
+"sales on your website, the system will use the default stock from "
+"WooCommerce. To manage online sales stock, simply add stock from the "
+"WooCommerce admin panel. Vitepos purchase or add stock will not work for "
+"online stock."
+msgstr ""
+"এখন প্রতিটি আউটলেট Vitepos-এর মধ্যে নিজস্ব পৃথক স্টক থাকবে। আপনার ওয়েবসাইটে "
+"অনলাইন বিক্রয়ের জন্য, সিস্টেম WooCommerce থেকে ডিফল্ট স্টক ব্যবহার করবে। "
+"অনলাইন বিক্রয়ের স্টক পরিচালনা করার জন্য, WooCommerce প্রশাসন প্যানেল থেকে "
+"স্টক যোগ করুন। Vitepos ক্রয় বা স্টক যোগ করা অনলাইন স্টকের জন্য কাজ করবে না।"
+
+msgid "Number"
+msgstr "সংখ্যা"
+
+msgid "Number of barcode in a page"
+msgstr "একটি পৃষ্ঠায় বারকোডের সংখ্যা"
+
+msgid "Number of person"
+msgstr "ব্যক্তির সংখ্যা"
+
+msgid "Offline"
+msgstr "অফলাইন"
+
+msgid "Offline feature support in pro version only."
+msgstr "অফলাইন বৈশিষ্ট্য কেবল প্রো সংস্করণে সমর্থিত।"
+
+msgid "Offline Order"
+msgstr "অফলাইন অর্ডার"
+
+msgid "Offline Sale"
+msgstr "অফলাইন বিক্রয়"
+
+msgid "Offline sale allowed in pro version"
+msgstr "প্রো সংস্করণে অফলাইন বিক্রয় অনুমোদিত"
+
+msgid ""
+"Offline sale requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr ""
+"অফলাইন বিক্রয়ের জন্য প্রো সংস্করণ প্রয়োজন, দয়া করে এই বৈশিষ্ট্য ব্যবহার "
+"করার জন্য প্রো সংস্করণে আপগ্রেড করুন।"
+
+msgid "On going"
+msgstr "চলমান"
+
+msgid "On hold"
+msgstr "অপেক্ষায়"
+
+msgid "On POS"
+msgstr "POS এ"
+
+msgid ""
+"On the other hand, on the client side, you can set the outlet agents you "
+"want, according to their role."
+msgstr ""
+"অন্যদিকে, ক্লায়েন্ট সাইডে, আপনি তাদের ভূমিকা অনুযায়ী আপনার পছন্দের আউটলেট "
+"এজেন্ট সেট করতে পারেন।"
+
+msgid "Once Weekly"
+msgstr "সপ্তাহে একবার"
+
+msgid "Online"
+msgstr "অনলাইন"
+
+msgid "Online and Offline sale"
+msgstr "অনলাইন এবং অফলাইন বিক্রি"
+
+msgid ""
+"Online sale requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr ""
+"অনলাইন বিক্রয়ের জন্য প্রো সংস্করণ প্রয়োজন, দয়া করে এই বৈশিষ্ট্য ব্যবহার "
+"করার জন্য প্রো সংস্করণে আপগ্রেড করুন।"
+
+msgid "Online stock link with outlet"
+msgstr "আউটলেটের সাথে অনলাইন স্টক লিঙ্ক"
+
+msgid "Online Stock Outlet"
+msgstr "অনলাইন স্টক আউটলেট"
+
+msgid "Oops !! "
+msgstr "উফ!!"
+
+msgid "Open"
+msgstr "খোলা"
+
+msgid "Open :"
+msgstr "খোলা :"
+
+msgid "Open fullscreen"
+msgstr "পূর্ণ পর্দা খুলুন"
+
+msgid "Opened By"
+msgstr "খোলা হয়েছে"
+
+msgid "Opening - Closing"
+msgstr "উদ্বোধন - বন্ধ"
+
+msgid "Opening Balance"
+msgstr "উদ্বোধন ব্যালেন্স"
+
+msgid "Opening Cash"
+msgstr "উদ্বোধনী নগদ"
+
+msgid "Opening Date"
+msgstr "উদ্বোধন তারিখ"
+
+msgid "Opening time"
+msgstr "উদ্বোধন সময়"
+
+msgid "Operate By"
+msgstr "কাজ করা হয়েছে"
+
+msgid "Options"
+msgstr "অপশন"
+
+msgid "OR"
+msgstr "অথবা"
+
+msgid "Order"
+msgstr "অর্ডার"
+
+msgid "Order # %{ordNumber}"
+msgstr "অর্ডার # %{ordNumber}"
+
+msgid "Order already in completed status, it is not cancelable"
+msgstr "অর্ডার ইতিমধ্যে সম্পন্ন অবস্থায় রয়েছে, এটি বাতিল করা যাবে না"
+
+msgid "Order cancellation is not possible"
+msgstr "অর্ডার বাতিল করা সম্ভব নয়"
+
+msgid "Order Custom Fields"
+msgstr "অর্ডার কাস্টম ক্ষেত্র"
+
+msgid "Order Details"
+msgstr "অর্ডারের বিবরণ"
+
+msgid "Order Details Loading..."
+msgstr "অর্ডার বিবরণ লোড হচ্ছে..."
+
+msgid "Order Has been refunded successfully"
+msgstr "অর্ডার সফলভাবে ফেরত করা হয়েছে"
+
+msgid "Order Info"
+msgstr "অর্ডার তথ্য"
+
+msgid "Order info"
+msgstr "অর্ডার তথ্য"
+
+msgid "Order is cancelled"
+msgstr "অর্ডার বাতিল করা হয়েছে"
+
+msgid "Order is loading..."
+msgstr "অর্ডার লোড হচ্ছে..."
+
+msgid "Order List Loading ..."
+msgstr "অর্ডার তালিকা লোড হচ্ছে..."
+
+msgid "Order No"
+msgstr "অর্ডার নম্বর"
+
+msgid "Order no label"
+msgstr "অর্ডার নম্বর লেবেল"
+
+msgid "Order No:"
+msgstr "অর্ডার নং:  "
+
+msgid "Order not found"
+msgstr "অর্ডার পাওয়া যায়নি"
+
+msgid "Order Note"
+msgstr "অর্ডার নোট"
+
+msgid "Order Refund(Full/Partial)"
+msgstr "অর্ডার ফেরত (পূর্ণ / আংশিক)"
+
+msgid "Order requires payment process"
+msgstr "অর্ডারের জন্য পেমেন্ট প্রক্রিয়া প্রয়োজন"
+
+msgid "Order Status :"
+msgstr "অর্ডার স্ট্যাটাস :"
+
+msgid "Order successfully completed"
+msgstr "অর্ডার সফলভাবে সম্পন্ন হয়েছে"
+
+msgid "Order successfully sent to kitchen"
+msgstr "অর্ডার সফলভাবে রান্নাঘরে পাঠানো হয়েছে"
+
+msgid "Order Tax"
+msgstr "অর্ডার ট্যাক্স"
+
+msgid "Order Time"
+msgstr "অর্ডার সময়"
+
+msgid "Order Total"
+msgstr "মোট অর্ডার"
+
+msgid "Order Type"
+msgstr "অর্ডারের ধরণ"
+
+msgid "Orders"
+msgstr "অর্ডার"
+
+msgid "Orders Details"
+msgstr "অর্ডারের বিশদ"
+
+msgid "Orders Item*"
+msgstr "অর্ডারের আইটেম*"
+
+msgid "Other"
+msgstr "অন্যান্য"
+
+msgid "Others"
+msgstr "অন্যান্য"
+
+msgid "others"
+msgstr "অন্যান্য"
+
+msgid "Out of Stock"
+msgstr "স্টক নেই"
+
+msgid "Out of stock"
+msgstr "স্টক নেই"
+
+msgid "Outlet"
+msgstr "আউটলেট"
+
+msgid "outlet"
+msgstr "আউটলেট"
+
+msgid "Outlet - Counter"
+msgstr "আউটলেট - কাউন্টার"
+
+msgid "Outlet :"
+msgstr "আউটলেট :"
+
+msgid "Outlet Address"
+msgstr "আউটলেট ঠিকানা"
+
+msgid "Outlet Details"
+msgstr "আউটলেট বিবরণ"
+
+msgid "Outlet Email"
+msgstr "আউটলেট ইমেইল"
+
+msgid "Outlet Info"
+msgstr "আউটলেট তথ্য"
+
+msgid "Outlet Information"
+msgstr "আউটলেট তথ্য"
+
+msgid "Outlet Manager"
+msgstr "আউটলেট ম্যানেজার"
+
+msgid "Outlet Name"
+msgstr "আউটলেটের নাম"
+
+msgid "Outlet Phone"
+msgstr "আউটলেট ফোন"
+
+msgid "Outlet User List"
+msgstr "আউটলেট ব্যবহারকারী তালিকা"
+
+msgid "Outlet wise stock (Multi stocks)"
+msgstr "আউটলেট-ভিত্তিক স্টক (বহু স্টক)"
+
+msgid "Outlet:"
+msgstr "আউটলেট:"
+
+msgid "Page"
+msgstr "পৃষ্ঠা"
+
+msgid "Page break counter"
+msgstr "পেজ ব্র্যাক কাউন্টার"
+
+msgid "Page Height"
+msgstr "পৃষ্ঠার উচ্চতা"
+
+msgid "Page Padding"
+msgstr "পৃষ্ঠার প্যাডিং"
+
+msgid "Page Settings"
+msgstr "পৃষ্ঠা সেটিংস"
+
+msgid "Page Width"
+msgstr "পৃষ্ঠা প্রস্থ"
+
+msgid "Paid"
+msgstr "পরিশোধিত"
+
+msgid "Paid amount must be greater or equal to grand total amount"
+msgstr "প্রদত্ত পরিমাণ মোট পরিমাণের সমান বা বেশি হতে হবে"
+
+msgid "Paper Size"
+msgstr "কাগজের আকার"
+
+msgid "Parcel"
+msgstr "প্যার্সেল"
+
+msgid "Parcel mode is chosen"
+msgstr "পার্সেল মোড নির্বাচন করা হয়েছে"
+
+msgid "Partial"
+msgstr "আংশিক"
+
+msgid "Password"
+msgstr "পাসওয়ার্ড"
+
+msgid "Password can not be set as empty"
+msgstr "পাসওয়ার্ড খালি রাখা যাবে না"
+
+msgid "Password changed successfully."
+msgstr "পাসওয়ার্ড সফলভাবে পরিবর্তিত হয়েছে।"
+
+msgid "Pay"
+msgstr "পেমেন্ট করুন"
+
+msgid "Pay First"
+msgstr "প্রথমে দিতে হবে"
+
+msgid ""
+"Pay first procedure, customers are required to pay for their meal upfront at "
+"a designated location, typically at the cashiers counter, before they are "
+"seated or served. After paying, the customer is given a receipt or a token, "
+"which they can then present to the server to receive their food."
+msgstr ""
+"প্রথমে পেমেন্ট পদ্ধতিতে, গ্রাহকদের তাদের খাবারের জন্য একটি নির্দিষ্ট স্থানে, "
+"সাধারণত ক্যাশিয়ারের কাউন্টারে, বসার বা পরিবেশন করার আগে অগ্রিম অর্থ প্রদান "
+"করতে হয়। অর্থ প্রদানের পর, গ্রাহককে একটি রসিদ বা টোকেন দেওয়া হয়, যা তারা "
+"তখন তাদের খাবার পেতে সার্ভারকে দেখাতে পারে।"
+
+msgid "Pay Now"
+msgstr "এখন পেমেন্ট করুন"
+
+msgid "Payment"
+msgstr "পেমেন্ট"
+
+msgid "Payment Amount"
+msgstr "পেমেন্ট পরিমাণ"
+
+msgid "Payment and Tax"
+msgstr "পেমেন্ট এবং কর"
+
+msgid "Payment data missing"
+msgstr "পেমেন্ট তথ্য অনুপস্থিত"
+
+msgid "Payment Method"
+msgstr "পেমেন্ট পদ্ধতি"
+
+msgid "Payment Note"
+msgstr "পেমেন্ট নোট"
+
+msgid "Payment processing ..."
+msgstr "পেমেন্ট প্রক্রিয়া করছি ..."
+
+msgid "Payment Settings"
+msgstr "পেমেন্ট সেটিংস"
+
+msgid "Payment Status:"
+msgstr "পেমেন্ট স্ট্যাটাস:"
+
+msgid "Pending"
+msgstr "পেন্ডিং"
+
+msgid "Pending payment"
+msgstr "অর্থ প্রদানের অপেক্ষায়"
+
+msgid "Personal Information"
+msgstr "ব্যক্তিগত তথ্য"
+
+msgid "Phone"
+msgstr "ফোন"
+
+msgid "Place to show"
+msgstr "দেখানোর জায়গা"
+
+msgid "Placeholder"
+msgstr "প্লেসহোল্ডার"
+
+msgid "Please add a width for paper size"
+msgstr "কাগজের আকারের জন্য প্রস্থ যোগ করুন"
+
+msgid "Please add items to add coupons"
+msgstr "কুপন যোগ করার জন্য দ্রষ্টব্য যোগ করুন"
+
+msgid "Please login again,no user found logged in."
+msgstr "দয়া করে আবার লগইন করুন, কোনও লগ ইন ব্যবহারকারী পাওয়া যায়নি।"
+
+msgid "Please return amount"
+msgstr "দয়া করে পরিমাণ ফেরত করুন"
+
+msgid "Please wait .."
+msgstr "অপেক্ষা করুন .."
+
+msgid "Plugin Activated"
+msgstr "প্লাগইন সক্রিয় করা হয়েছে"
+
+msgid "Plugin installation failed!"
+msgstr "প্লাগইন ইনস্টলেশন ব্যর্থ!"
+
+msgid "Plugin installed and activated successfully!"
+msgstr "প্লাগইন সফলভাবে ইনস্টল এবং সক্রিয় করা হয়েছে!"
+
+msgid "Plugin not found"
+msgstr "প্লাগইন পাওয়া যায়নি"
+
+msgid "POS"
+msgstr "POS"
+
+msgid "POS Color"
+msgstr "POS রঙ"
+
+msgid "POS Link"
+msgstr "POS লিঙ্ক"
+
+msgid "POS Link Type"
+msgstr "POS লিঙ্ক ধরণ"
+
+msgid "POS Link:"
+msgstr "POS লিংক:"
+
+msgid "POS Login Type"
+msgstr "POS লগইন ধরণ"
+
+msgid "POS Logo"
+msgstr "POS লোগো"
+
+msgid "Pos Menu"
+msgstr "POS মেনু"
+
+msgid "POS Mode"
+msgstr "POS মোড"
+
+msgid "POS Page"
+msgstr "POS পৃষ্ঠা"
+
+msgid "POS Products Per Row"
+msgstr "প্রতি সারিতে POS পণ্য"
+
+msgid "Post Code"
+msgstr "পোস্ট কোড"
+
+msgid "Premium Support"
+msgstr "প্রিমিয়াম সাপোর্ট"
+
+msgid "Preparing"
+msgstr "প্রস্তুত হচ্ছে"
+
+msgid "Previous"
+msgstr "পূর্ববর্তী"
+
+msgid "Previous Balance"
+msgstr "পূর্ববর্তী ব্যালেন্স"
+
+msgid "Previous Balance :"
+msgstr "পূর্ববর্তী ব্যালেন্স :"
+
+msgid "Previous Cost"
+msgstr "পূর্ববর্তী খরচ"
+
+msgid "Previous purchase cost :"
+msgstr "পূর্ববর্তী ক্রয় খরচ: "
+
+msgid "Previous Purchase Price"
+msgstr "পূর্ববর্তী ক্রয় মূল্য"
+
+msgid "Price"
+msgstr "মূল্য"
+
+msgid "Price :"
+msgstr "মূল্য: "
+
+msgid "Price Customization"
+msgstr "মূল্য কাস্টমাইজেশন"
+
+msgid "Price customization on cart only support in pro version."
+msgstr "কার্টে মূল্য কাস্টমাইজেশন শুধুমাত্র প্রো ভার্সনে সমর্থিত।"
+
+msgid "Price Update"
+msgstr "মূল্য আপডেট"
+
+msgid "Price Update list"
+msgstr "মূল্য আপডেট তালিকা"
+
+msgid "price updated product"
+msgstr "মূল্য আপডেট করা পণ্য"
+
+msgid "Price will be "
+msgstr "দাম হবে"
+
+msgid "Print"
+msgstr "প্রিন্ট করুন"
+
+msgid "Print Order"
+msgstr "অর্ডার প্রিন্ট করুন"
+
+msgid "Print Receipt"
+msgstr "রসিদ প্রিন্ট করুন"
+
+msgid "Print Settings"
+msgstr "প্রিন্ট সেটিংস"
+
+msgid "Private"
+msgstr "ব্যক্তিগত"
+
+msgid "Pro"
+msgstr "প্রো"
+
+msgid "Pro version required"
+msgstr "প্রো সংস্করণ প্রয়োজন"
+
+msgid "Pro Version Required for this feature"
+msgstr "এই বৈশিষ্ট্যটির জন্য প্রো সংস্করণ প্রয়োজন"
+
+msgid "Processed By"
+msgstr "প্রক্রিয়া করেছেন"
+
+msgid "Processing"
+msgstr "প্রক্রিয়াধীন"
+
+msgid "Product"
+msgstr "পণ্য"
+
+msgid "Product Details"
+msgstr "পণ্য বিবরণ"
+
+msgid ""
+"Product hide on POS requires pro version, Please upgrade to pro version for "
+"use this feature."
+msgstr ""
+"POS-এ পণ্য লুকানোর জন্য প্রো ভার্সন প্রয়োজন, দয়া করে এই বৈশিষ্ট্যটি "
+"ব্যবহার করার জন্য প্রো ভার্সনে আপগ্রেড করুন।"
+
+msgid "Product ID"
+msgstr "প্রোডাক্ট আইডি"
+
+msgid "Product List"
+msgstr "পণ্য তালিকা"
+
+msgid "Product Loading"
+msgstr "পণ্য লোড হচ্ছে"
+
+msgid "Product Loading ..."
+msgstr "পণ্য লোড হচ্ছে..."
+
+msgid "Product manage"
+msgstr "পণ্য পরিচালনা"
+
+msgid "Product Name"
+msgstr "পণ্যের নাম"
+
+msgid "Product name :"
+msgstr "পণ্যের নাম: "
+
+msgid "Product Status"
+msgstr "পণ্যের অবস্থা"
+
+msgid "Product Stock Logs"
+msgstr "পণ্যের স্টক লগ"
+
+msgid "Product Syncing"
+msgstr "পণ্য সিঙ্কিং"
+
+msgid "Product Syncing."
+msgstr "পণ্য সিঙ্কিং।"
+
+msgid "Product Unit"
+msgstr "পণ্য ইউনিট"
+
+msgid "Product Videos"
+msgstr "পণ্য ভিডিও"
+
+msgid "Products"
+msgstr "পণ্যসমূহ"
+
+msgid "products"
+msgstr "পণ্যসমূহ"
+
+msgid "Profile"
+msgstr "প্রোফাইল"
+
+msgid "Profile Info"
+msgstr "প্রোফাইল তথ্য"
+
+msgid "Property"
+msgstr "সম্পত্তি"
+
+msgid "Publish"
+msgstr "প্রকাশ করুন"
+
+msgid "Publishable key"
+msgstr "প্রকাশ্য কী"
+
+msgid "Published"
+msgstr "প্রকাশিত"
+
+msgid "Purchase"
+msgstr "ক্রয়"
+
+msgid "Purchase Date"
+msgstr "ক্রয়ের তারিখ"
+
+msgid "Purchase Details"
+msgstr "ক্রয় বিবরণ"
+
+msgid "Purchase List"
+msgstr "ক্রয় তালিকা"
+
+msgid "Purchase List Loading ..."
+msgstr "ক্রয় তালিকা লোড হচ্ছে..."
+
+msgid "Purchase Price"
+msgstr "ক্রয় মূল্য"
+
+msgid "Purchased By:"
+msgstr "ক্রয়কারী:"
+
+msgid "Purchased Date:"
+msgstr "ক্রয় তারিখ:"
+
+msgid "Purchased failed"
+msgstr "ক্রয় ব্যর্থ"
+
+msgid "Purchased Items"
+msgstr "ক্রয়কৃত আইটেম"
+
+msgid "Purchased No:"
+msgstr "ক্রয় নম্বর:"
+
+msgid "Push Settings"
+msgstr "পুশ সেটিংস"
+
+msgid "Pusher mode support in pro version only."
+msgstr "পুশার মোড শুধুমাত্র প্রো ভার্সনে সমর্থিত।"
+
+msgid "px"
+msgstr "পিক্সেল"
+
+msgid "QR-code"
+msgstr "QR-কোড"
+
+msgid "Qrcode"
+msgstr "QR-কোড"
+
+msgid "Qty:"
+msgstr "পরিমাণ:"
+
+msgid "Quantity"
+msgstr "পরিমাণ"
+
+msgid "quantity is"
+msgstr "পরিমাণ হল"
+
+msgid "Radio"
+msgstr "রেডিও"
+
+msgid "Re-type New password"
+msgstr "নতুন পাসওয়ার্ড পুনরায় টাইপ করুন"
+
+msgid "Ready"
+msgstr "প্রস্তুত"
+
+msgid "Ready to Serve"
+msgstr "পরিবেশনের জন্য প্রস্তুত"
+
+msgid "Ready to serve"
+msgstr "পরিবেশনের জন্য প্রস্তুত"
+
+msgid "Receive"
+msgstr "গ্রহণ"
+
+msgid "Receive By"
+msgstr "গ্রহণ করেছেন"
+
+msgid "Receive Date"
+msgstr "গ্রহণের তারিখ"
+
+msgid "Receive Note:"
+msgstr "গ্রহণের নোট: "
+
+msgid "Receive Transfer"
+msgstr "স্থানান্তর গ্রহণ করুন"
+
+msgid "Receiving Stocks"
+msgstr "স্টক গ্রহণ করা হচ্ছে"
+
+msgid "Recommend logo height %{logoHeight}."
+msgstr "লোগোর উচ্চতা %{logoHeight} সুপারিশ করুন।"
+
+msgid "Recommend logo height 60px."
+msgstr "লোগোর উচ্চতা 60px হওয়া উচিত।"
+
+msgid "Reduced rate"
+msgstr "কম হার"
+
+msgid "Ref"
+msgstr "ফেরত"
+
+msgid "Refresh App"
+msgstr "অ্যাপ রিফ্রেশ করুন"
+
+msgid "Refund"
+msgstr "ফেরত"
+
+msgid "Refund Discount:"
+msgstr "ফেরত ছাড়:  "
+
+msgid "Refund Fee :"
+msgstr "ফেরত ফি:  "
+
+msgid "Refund Grand-total :"
+msgstr "ফেরত মোট টোটাল:  "
+
+msgid "Refund Id "
+msgstr "রিফান্ড আইডি"
+
+msgid "Refund Info"
+msgstr "ফেরত তথ্য"
+
+msgid "Refund List"
+msgstr "রিফান্ড তালিকা"
+
+msgid "Refund Orders"
+msgstr "অর্ডার ফেরত"
+
+msgid "Refund Qty"
+msgstr "ফেরতের পরিমাণ"
+
+msgid "Refund Reason"
+msgstr "রিফান্ড কারণ"
+
+msgid ""
+"Refund requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr ""
+"রিফান্ডের জন্য প্রো সংস্করণ প্রয়োজন, দয়া করে এই বৈশিষ্ট্যটি ব্যবহার করার "
+"জন্য প্রো সংস্করণে আপগ্রেড করুন।"
+
+msgid "Refund Sub-total :"
+msgstr "ফেরত সাব টোটাল:  "
+
+msgid "Refund Tax-total :"
+msgstr "ফেরত কর টোটাল:  "
+
+msgid "Refunded"
+msgstr "ফেরত করা হয়েছে"
+
+msgid "Refunding Order..."
+msgstr "অর্ডার ফেরত করা হচ্ছে..."
+
+msgid ""
+"Refunds requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr ""
+"রিফান্ডের জন্য প্রো সংস্করণ প্রয়োজন, দয়া করে এই বৈশিষ্ট্য ব্যবহার করার "
+"জন্য প্রো সংস্করণে আপগ্রেড করুন।"
+
+msgid "Regular Price"
+msgstr "নিয়মিত মূল্য"
+
+msgid "Regular unit price: %{reg_price}, sale price: %{sale}"
+msgstr "নিয়মিত ইউনিট মূল্য: %{reg_price}, বিক্রয় মূল্য: %{sale}"
+
+msgid "Related App"
+msgstr "সম্পর্কিত অ্যাপ"
+
+msgid "Related Apps"
+msgstr "সম্পর্কিত অ্যাপস"
+
+msgid "Reload Caps"
+msgstr "ক্যাপস পুনরায় লোড করুন"
+
+msgid "Remove"
+msgstr "মুছে ফেলুন"
+
+msgid "Remove from cart?"
+msgstr "কার্ট থেকে সরিয়ে ফেলুন?"
+
+msgid "Remove from favorite"
+msgstr "প্রিয় থেকে সরান"
+
+msgid "Remove from hold"
+msgstr "হোল্ড থেকে সরিয়ে ফেলুন"
+
+msgid "Remove Item"
+msgstr "আইটেম সরান"
+
+msgid "Remove item"
+msgstr "আইটেম সরান"
+
+msgid "Request Cancel"
+msgstr "বাতিলের অনুরোধ"
+
+msgid "Request canceled"
+msgstr "অনুরোধ বাতিল করা হয়েছে"
+
+msgid "Request failed: %{errorMsg}"
+msgstr "অনুরোধ ব্যর্থ হয়েছে: %{errorMsg}"
+
+msgid "Request outlet or counter empty"
+msgstr "আউটলেট বা কাউন্টার খালি"
+
+msgid "Request to cancel order"
+msgstr "অর্ডার বাতিলের অনুরোধ"
+
+msgid "Request to cancel this item"
+msgstr "এই আইটেমটি বাতিল করার অনুরোধ"
+
+msgid "Requested Cancel"
+msgstr "বাতিলের অনুরোধ করা হয়েছে"
+
+msgid "Requested for cancel"
+msgstr "বাতিলের জন্য অনুরোধ করা হয়েছে"
+
+msgid "Requested to cancel"
+msgstr "বাতিল করার অনুরোধ করা হয়েছে"
+
+msgid "Required"
+msgstr "প্রয়োজনীয়"
+
+msgid "Requires pro version"
+msgstr "প্রো ভার্সন প্রয়োজন।"
+
+msgid "Reset"
+msgstr "পুনরায় সেট করুন"
+
+msgid "Reset has been successfully done"
+msgstr "রিসেট সফলভাবে সম্পন্ন করা হয়েছে"
+
+msgid "Reset Role"
+msgstr "রোল পুনরায় সেট করুন"
+
+msgid "Resetting role"
+msgstr "রোল পুনরায় সেট করা"
+
+msgid "Restaurant"
+msgstr "রেস্তোরাঁ"
+
+msgid "Restaurant deny message support in pro version only."
+msgstr "রেস্তোরাঁ অস্বীকৃতি বার্তা শুধুমাত্র প্রো ভার্সনে সমর্থিত।"
+
+msgid "Restaurant mode"
+msgstr "রেস্তোরাঁ মোড"
+
+msgid "Restaurant mode support in pro version only."
+msgstr "রেস্তোরাঁ মোড শুধুমাত্র প্রো সংস্করণে সমর্থিত।"
+
+msgid "Restaurant Payment Type"
+msgstr "রেস্তোরাঁ পেমেন্ট টাইপ"
+
+msgid "Restaurant shortcut message support in pro version only."
+msgstr "রেস্তোরাঁ শর্টকাট বার্তা শুধুমাত্র প্রো সংস্করণে সমর্থিত।"
+
+msgid "Restaurant traditional support in pro version only."
+msgstr "রেস্তোরাঁ ঐতিহ্যবাহী সমর্থন শুধুমাত্র প্রো ভার্সনে।"
+
+msgid "Restore From Hold"
+msgstr "হোল্ড থেকে পুনরুদ্ধার করুন"
+
+msgid "Return"
+msgstr "ফেরত"
+
+msgid "Role"
+msgstr "রোল"
+
+msgid "Role :"
+msgstr "রোল:"
+
+msgid "Role Access"
+msgstr "রোল অ্যাক্সেস"
+
+msgid "Role copied successfully"
+msgstr "রোল সফলভাবে কপি করা হয়েছে"
+
+msgid "Role Description"
+msgstr "রোল বর্ণনা"
+
+msgid "Role does not exists"
+msgstr "রোল বিদ্যমান নেই"
+
+msgid "Role List"
+msgstr "রোল তালিকা"
+
+msgid "Role Name"
+msgstr "রোল নাম"
+
+msgid "Role wise discount manage"
+msgstr "রোল অনুযায়ী ছাড় পরিচালনা"
+
+msgid "Roles"
+msgstr "রোল"
+
+msgid "Roles Loading"
+msgstr "রোল লোডিং"
+
+msgid "RTL only support in pro version."
+msgstr "RTL শুধুমাত্র প্রো ভার্সনে সমর্থিত।"
+
+msgid "Rule Group"
+msgstr "নিয়ম গ্রুপ"
+
+msgid "Rules"
+msgstr "নিয়ম"
+
+msgid "Sale History"
+msgstr "বিক্রয় ইতিহাস"
+
+msgid "Sale Price"
+msgstr "বিক্রয় মূল্য"
+
+msgid "Sale Tax"
+msgstr "বিক্রয় কর"
+
+msgid "Save"
+msgstr "সংরক্ষণ করুন"
+
+msgid "Saved Successfully"
+msgstr "সফলভাবে সংরক্ষণ করা হয়েছে"
+
+msgid "Saving Custom Field"
+msgstr "কাস্টম ক্ষেত্র সংরক্ষণ করা হচ্ছে"
+
+msgid "Saving message..."
+msgstr "বার্তা সংরক্ষণ করা হচ্ছে..."
+
+msgid "Scan"
+msgstr "স্ক্যান"
+
+msgid "Scan barcode..."
+msgstr "বারকোড স্ক্যান করুন..."
+
+msgid "Scan Product"
+msgstr "পণ্য স্ক্যান করুন"
+
+msgid "Scan to search"
+msgstr "খুঁজে পেতে স্ক্যান করুন"
+
+msgid "Search"
+msgstr "অনুসন্ধান"
+
+msgid "Search Again"
+msgstr "পুনরায় অনুসন্ধান করুন"
+
+msgid "Search or add a tag"
+msgstr "ট্যাগ অনুসন্ধান করুন বা যোগ করুন"
+
+msgid "Search Product"
+msgstr "পণ্য অনুসন্ধান করুন"
+
+msgid "Search products..."
+msgstr "পণ্য অনুসন্ধান করুন..."
+
+msgid "Search/Choose Category"
+msgstr "বিভাগ অনুসন্ধান করুন/নির্বাচন করুন"
+
+msgid "Search/Choose country"
+msgstr "দেশ অনুসন্ধান করুন/নির্বাচন করুন"
+
+msgid "Search/Choose customer"
+msgstr "গ্রাহক অনুসন্ধান/নির্বাচন করুন"
+
+msgid "Search/Choose Page"
+msgstr "অনুসন্ধান/পৃষ্ঠা নির্বাচন করুন"
+
+msgid "Search/Choose Time Zone"
+msgstr "সময় অঞ্চল অনুসন্ধান/নির্বাচন করুন"
+
+msgid "Search/Select Country"
+msgstr "দেশ অনুসন্ধান/নির্বাচন করুন"
+
+msgid "Seat Capability"
+msgstr "আসন ক্ষমতা"
+
+msgid "Seat capacity : %{seat_cap}"
+msgstr "আসন ক্ষমতা: %{seat_cap}"
+
+msgid "Seat capacity is low than person number"
+msgstr "আসনের ক্ষমতা ব্যক্তির সংখ্যার চেয়ে কম"
+
+msgid "Secret"
+msgstr "গোপন"
+
+msgid "Secret Key"
+msgstr "গোপন কী"
+
+msgid "See Details"
+msgstr "বিবরণ দেখুন"
+
+msgid "See/edit table and person info"
+msgstr "টেবিল এবং ব্যক্তির তথ্য দেখুন/সম্পাদনা করুন"
+
+msgid "Select"
+msgstr "নির্বাচন করুন"
+
+msgid "Select / Custom Attributes"
+msgstr "নির্বাচন করুন / কাস্টম বৈশিষ্ট্য"
+
+msgid "Select a Role to Reset"
+msgstr "পুনরায় সেট করার জন্য একটি ভূমিকা নির্বাচন করুন"
+
+msgid "Select Addons"
+msgstr "অ্যাড-অন নির্বাচন করুন"
+
+msgid "Select Category"
+msgstr "বিভাগ নির্বাচন করুন"
+
+msgid "Select Counter"
+msgstr "কাউন্টার নির্বাচন করুন"
+
+msgid "Select Country"
+msgstr "দেশ নির্বাচন করুন"
+
+msgid "Select Module"
+msgstr "মডিউল নির্বাচন করুন"
+
+msgid "Select Options"
+msgstr "বিকল্প নির্বাচন করুন"
+
+msgid "Select Outlet"
+msgstr "আউটলেট নির্বাচন করুন"
+
+msgid "Select Panel"
+msgstr "প্যানেল নির্বাচন করুন"
+
+msgid "Select Role"
+msgstr "রোল নির্বাচন করুন"
+
+msgid "Select State"
+msgstr "রাষ্ট্র নির্বাচন করুন"
+
+msgid "Select Status"
+msgstr "স্ট্যাটাস নির্বাচন করুন"
+
+msgid "Select Sub-category"
+msgstr "সাব-বিভাগ নির্বাচন করুন"
+
+msgid "Select Supplier"
+msgstr "সরবরাহকারী নির্বাচন করুন"
+
+msgid "Select Type"
+msgstr "প্রকার নির্বাচন করুন"
+
+msgid "Select variation"
+msgstr "ভ্যারিয়েশন নির্বাচন করুন"
+
+msgid "Select Variations"
+msgstr "ভ্যারিয়েশন নির্বাচন করুন"
+
+msgid "Select Vendor"
+msgstr "বিক্রেতা নির্বাচন করুন"
+
+msgid "Select Waiters"
+msgstr "ওয়েটার নির্বাচন করুন"
+
+msgid "Select/Search Country"
+msgstr "দেশ নির্বাচন/অনুসন্ধান করুন"
+
+msgid "Select/Search Product"
+msgstr "পণ্য নির্বাচন করুন/অনুসন্ধান করুন"
+
+msgid "Select/Search Role"
+msgstr "রোল নির্বাচন/অনুসন্ধান করুন"
+
+msgid "Select/Search role copy from"
+msgstr "রোল নির্বাচন/অনুসন্ধান করুন"
+
+msgid "Select/Search role copy to"
+msgstr "রোল নির্বাচন/অনুসন্ধান করুন"
+
+msgid "Select/Search State or Dist"
+msgstr "রাষ্ট্র বা জেলা নির্বাচন/অনুসন্ধান করুন"
+
+msgid "Select/Search Timezone"
+msgstr "টাইমজোন নির্বাচন/অনুসন্ধান করুন"
+
+msgid "Select/Search user to add"
+msgstr "যোগ করার জন্য ব্যবহারকারী নির্বাচন/খুঁজুন"
+
+msgid "Selected Product"
+msgstr "নির্বাচিত পণ্য"
+
+msgid "Seller"
+msgstr "বিক্রেতা"
+
+msgid "Send Email To Cashier"
+msgstr "ক্যাশিয়ারকে ইমেইল পাঠান"
+
+msgid "Send Email To Cashier only support in pro version."
+msgstr "ক্যাশিয়ারের কাছে ইমেল পাঠানো শুধুমাত্র প্রো ভার্সনে সমর্থিত।"
+
+msgid "Send Email To Customer"
+msgstr "গ্রাহকের কাছে ইমেল পাঠান"
+
+msgid "Separate tax requires pro version."
+msgstr "পৃথক করের জন্য Pro Version লাগবে।"
+
+msgid "Serve this item"
+msgstr "এই আইটেমটি পরিবেশন করুন"
+
+msgid "Served"
+msgstr "পরিবেশিত"
+
+msgid "Served By"
+msgstr "পরিবেশন করা হয়েছে"
+
+msgid "Set Password"
+msgstr "পাসওয়ার্ড সেট করুন"
+
+msgid "Set password"
+msgstr "পাসওয়ার্ড সেট করুন"
+
+msgid "Set the duration in days for new badge on product"
+msgstr "পণ্যের জন্য নতুন ব্যাজের সময়কাল দিনে সেট করুন"
+
+msgid "Settings"
+msgstr "সেটিংস"
+
+msgid "Settings Loading"
+msgstr "সেটিংস লোডিং"
+
+msgid "Shipment"
+msgstr "ডেলিভারি"
+
+msgid "Shipping"
+msgstr "ডেলিভারি"
+
+msgid "Shipping and Tax Will be same as Parent"
+msgstr "শিপিং এবং কর পিতা হিসেবে একই হবে"
+
+msgid "Shipping Cost"
+msgstr "ডেলিভারি খরচ"
+
+msgid "Shipping only"
+msgstr "শুধুমাত্র শিপিং"
+
+msgid "Shortcut"
+msgstr "শর্টকাট"
+
+msgid "Shortcut Message"
+msgstr "শর্টকাট বার্তা"
+
+msgid "shortcut message"
+msgstr "সংক্ষিপ্ত বার্তা"
+
+msgid "Shortcut Message Settings"
+msgstr "শর্টকাট বার্তা সেটিংস"
+
+msgid "Shortcut Messages"
+msgstr "শর্টকাট বার্তা"
+
+msgid "Shortcuts"
+msgstr "শর্টকাট"
+
+msgid "Show cash drawer log"
+msgstr "নগদ ড্রয়ার লগ দেখান"
+
+msgid "Show Counter info"
+msgstr "কাউন্টার তথ্য দেখাও"
+
+msgid "Show Counter No"
+msgstr "কাউন্টার নম্বর দেখাও"
+
+msgid "Show customer info"
+msgstr "গ্রাহক তথ্য দেখাও"
+
+msgid "Show Details"
+msgstr "বিবরণ দেখান"
+
+msgid "Show Discount Row"
+msgstr "ছাড়ের সারি দেখাও"
+
+msgid "Show Fee Row"
+msgstr "শুল্কের সারি দেখাও"
+
+msgid "Show Footer"
+msgstr "ফুটার দেখান"
+
+msgid "Show Header"
+msgstr "শিরোনাম দেখাও"
+
+msgid "Show Item Serial"
+msgstr "আইটেম সিরিয়াল দেখাও"
+
+msgid "Show Logo"
+msgstr "লোগো দেখাও"
+
+msgid "Show Order Barcode"
+msgstr "অর্ডার বারকোড দেখান"
+
+msgid "Show order no"
+msgstr "অর্ডার নম্বর দেখাও"
+
+msgid "Show Order Status"
+msgstr "অর্ডার স্ট্যাটাস দেখান"
+
+msgid "Show Order Type"
+msgstr "অর্ডার ধরণ দেখান"
+
+msgid "Show Outlet"
+msgstr "আউটলেট দেখান"
+
+msgid "Show outlet info"
+msgstr "আউটলেট তথ্য দেখাও"
+
+msgid "Show Payment Method"
+msgstr "পেমেন্ট পদ্ধতি দেখাও"
+
+msgid "Show Price"
+msgstr "মূল্য দেখান"
+
+msgid "Show price on barcode label"
+msgstr "বারকোড লেবেলে দাম দেখান"
+
+msgid "Show separate tax"
+msgstr "পৃথক কর দেখান"
+
+msgid "Show Table Info"
+msgstr "টেবিল তথ্য দেখান"
+
+msgid "Show Tax Row"
+msgstr "করের সারি দেখাও"
+
+msgid "Show Unit Cost"
+msgstr "ইউনিট খরচ দেখাও"
+
+msgid "Show Vat Reg no"
+msgstr "ভ্যাট নিবন্ধন নম্বর দেখাও"
+
+msgid "Show Waiter Info"
+msgstr "ওয়েটার তথ্য দেখান"
+
+msgid "Shown on POS.Click to hide"
+msgstr "POS এ দেখানো হয়েছে। লুকানোর জন্য ক্লিক করুন"
+
+msgid "Sidebar"
+msgstr "সাইডবার"
+
+msgid "Sign In"
+msgstr "লগইন করুন"
+
+msgid "Sign in using another account."
+msgstr "অন্য একাউন্ট ব্যবহার করে সাইন ইন করুন।"
+
+msgid "Single cash drawer only support in pro version."
+msgstr "একক ক্যাশ ড্রয়ার শুধুমাত্র প্রো সংস্করণে সমর্থিত।"
+
+msgid "Site Key"
+msgstr "সাইট কী"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "SL"
+msgstr "ক্রমিক নম্বর"
+
+msgid "Slug"
+msgstr "স্লাগ"
+
+msgid ""
+"Soon, we will be adding more options such as Stripe Terminal and Authorize."
+"net to our platform. Thank you for you understanding."
+msgstr ""
+"শীঘ্রই আমরা আমাদের প্ল্যাটফর্মে Stripe Terminal এবং Authorize.net এর মতো আরও "
+"বিকল্প যোগ করব। আপনার বুঝতে পারার জন্য ধন্যবাদ।"
+
+msgid ""
+"Soon, we will be adding more options such as Stripe Terminal and Authorize."
+"net to our platform.Thank you for your understand."
+msgstr ""
+"শীঘ্রই আমরা আমাদের প্ল্যাটফর্মে স্ট্রাইপ টার্মিনাল এবং অথোরাইজ.নেটের মতো আরও "
+"বিকল্প যুক্ত করব। আপনার বুঝতে পারার জন্য ধন্যবাদ।"
+
+msgid "Split payment"
+msgstr "বিভক্ত পেমেন্ট"
+
+msgid ""
+"Split payment requires pro version. For continue this payment please use "
+"only one method."
+msgstr ""
+"বিভক্ত পেমেন্টের জন্য প্রো সংস্করণ প্রয়োজন।  এই পেমেন্ট চালিয়ে যেতে দয়া "
+"করে কেবলমাত্র একটি পদ্ধতি ব্যবহার করুন।"
+
+msgid ""
+"Split payment requires pro version. For continue this payment please use "
+"only one methode."
+msgstr ""
+"বিভক্ত পেমেন্টের জন্য প্রো সংস্করণের প্রয়োজন। এই পেমেন্ট চালিয়ে যেতে "
+"অনুগ্রহ করে শুধুমাত্র একটা পদ্ধতি ব্যবহার করুন।"
+
+msgid "Split payment support in pro version"
+msgstr "প্রো সংস্করণে বিভক্ত পেমেন্ট সমর্থন"
+
+msgid "Standard"
+msgstr "স্ট্যান্ডার্ড"
+
+msgid "Start Preparing"
+msgstr "প্রস্তুতি শুরু করুন"
+
+msgid "Start preparing item"
+msgstr "আইটেম প্রস্তুত করতে শুরু করুন"
+
+msgid "State"
+msgstr "রাষ্ট্র"
+
+msgid "State/District"
+msgstr "রাষ্ট্র / জেলা"
+
+msgid "Status"
+msgstr "অবস্থা"
+
+msgid "Status:"
+msgstr "অবস্থা:"
+
+msgid "Stock"
+msgstr "স্টক"
+
+msgid "Stock Alert"
+msgstr "স্টক সতর্কতা"
+
+msgid "Stock Alert!"
+msgstr "স্টক সতর্কতা!"
+
+msgid "Stock Counter"
+msgstr "স্টক কাউন্টার"
+
+msgid "Stock Details"
+msgstr "স্টক বিবরণ"
+
+msgid "Stock is running low Please purchase item to increase stock"
+msgstr "স্টক কমে যাচ্ছে। দয়া করে স্টক বাড়ানোর জন্য পণ্য ক্রয় করুন"
+
+msgid "Stock List Loading ..."
+msgstr "স্টক তালিকা লোড হচ্ছে..."
+
+msgid "Stock Log"
+msgstr "স্টক লগ"
+
+msgid "Stock management"
+msgstr "স্টক পরিচালনা"
+
+msgid "Stock management support in pro version only."
+msgstr "স্টক পরিচালনা শুধুমাত্র প্রো সংস্করণে সমর্থিত।"
+
+msgid "Stock not updated"
+msgstr "স্টক আপডেট করা হয়নি"
+
+msgid "Stock Quantity"
+msgstr "স্টক পরিমাণ"
+
+msgid ""
+"Stock Receive requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr ""
+"স্টক গ্রহণের জন্য প্রো সংস্করণ প্রয়োজন, দয়া করে এই বৈশিষ্ট্য ব্যবহার করার "
+"জন্য প্রো সংস্করণে আপগ্রেড করুন।"
+
+msgid "Stock Settings"
+msgstr "স্টক সেটিংস"
+
+msgid "Stock Transfer"
+msgstr "স্টক স্থানান্তর"
+
+msgid ""
+"Stock Transfer requires pro version,please upgrade to pro version to use "
+"this feature."
+msgstr ""
+"স্টক স্থানান্তরের জন্য প্রো সংস্করণ প্রয়োজন, দয়া করে এই বৈশিষ্ট্য ব্যবহার "
+"করার জন্য প্রো সংস্করণে আপগ্রেড করুন।"
+
+msgid "Stock transfer(outlet wise)"
+msgstr "স্টক স্থানান্তর (আউটলেট অনুসারে)"
+
+msgid "Stock Type"
+msgstr "স্টক ধরণ"
+
+msgid "Street"
+msgstr "রাস্তা"
+
+msgid "Street Address"
+msgstr "রাস্তার ঠিকানা"
+
+msgid "Stripe"
+msgstr "স্ট্রাইপ"
+
+msgid "stripe"
+msgstr "স্ট্রাইপ"
+
+msgid "Stripe configuration error in server"
+msgstr "সার্ভারে স্ট্রাইপ কনফিগারেশন ত্রুটি"
+
+msgid ""
+"Stripe is not enable, for enable stripe payment method please purchase Pro "
+"Version"
+msgstr ""
+"Stripe সক্রিয় নয়, Stripe পেমেন্ট পদ্ধতি সক্রিয় করার জন্য দয়া করে Pro "
+"Version কিনুন"
+
+msgid "Stripe payment"
+msgstr "স্ট্রাইপ পেমেন্ট"
+
+msgid "Stripe payment support in pro version only."
+msgstr "স্ট্রাইপ পেমেন্ট শুধুমাত্র প্রো সংস্করণে সমর্থিত।"
+
+msgid "Stripe Settings"
+msgstr "স্ট্রাইপ সেটিংস"
+
+msgid "Sub Total"
+msgstr "মোট (Sub Total)"
+
+msgid "Sub-total :"
+msgstr "সাব টোটাল:  "
+
+msgid "Submit"
+msgstr "জমা দিন"
+
+msgid "Successfully added"
+msgstr "সফলভাবে যুক্ত করা হয়েছে"
+
+msgid "Successfully closed"
+msgstr "সফলভাবে বন্ধ করা হয়েছে"
+
+msgid "Successfully created"
+msgstr "সফলভাবে তৈরি করা হয়েছে"
+
+msgid "Successfully deleted"
+msgstr "সফলভাবে মুছে ফেলা হয়েছে"
+
+msgid "Successfully refreshed"
+msgstr "সফলভাবে রিফ্রেশ করা হয়েছে"
+
+msgid "Successfully Updated"
+msgstr "সফলভাবে আপডেট করা হয়েছে"
+
+msgid "Successfully updated"
+msgstr "সফলভাবে আপডেট করা হয়েছে"
+
+msgid "Supplier"
+msgstr "সরবরাহকারী"
+
+msgid "Supplier List"
+msgstr "সরবরাহকারী তালিকা"
+
+msgid "Supplier:"
+msgstr "সরবরাহকারী:"
+
+msgid "Support Expired on"
+msgstr "সাপোর্ট মেয়াদ শেষ হবে"
+
+msgid "swipe"
+msgstr "সোয়াইপ"
+
+msgid "Swipe Machine"
+msgstr "সোয়াইপ মেশিন"
+
+msgid "Sync from database"
+msgstr "ডেটাবেস থেকে সিঙ্ক করুন"
+
+msgid "Sync Orders"
+msgstr "অর্ডার সিঙ্ক করুন"
+
+msgid "Sync restaurant order list"
+msgstr "রেস্তোরাঁর অর্ডার তালিকা সিঙ্ক করুন"
+
+msgid "Syncing offline orders"
+msgstr "অফলাইন অর্ডার সিঙ্কিং"
+
+msgid "TABLE"
+msgstr "টেবিল"
+
+msgid "Table"
+msgstr "টেবিল"
+
+msgid "Table "
+msgstr "টেবিল"
+
+msgid "TABLE :"
+msgstr "টেবিল :"
+
+msgid "Table Description"
+msgstr "টেবিল বিবরণ"
+
+msgid "Table Image"
+msgstr "টেবিল ছবি"
+
+msgid "Table is"
+msgstr "টেবিলটি"
+
+msgid "Table module is supported in pro version"
+msgstr "টেবিল মডিউল প্রো ভার্সনে সমর্থিত।"
+
+msgid "Table orders"
+msgstr "টেবিল অর্ডার"
+
+msgid "Table Panel"
+msgstr "টেবিল প্যানেল"
+
+msgid "Table Title"
+msgstr "টেবিল শিরোনাম"
+
+msgid ""
+"Table wise orders requires pro version,please upgrade to pro version to use "
+"this feature."
+msgstr ""
+"টেবিল অনুযায়ী অর্ডারের জন্য প্রো সংস্করণ প্রয়োজন, দয়া করে এই বৈশিষ্ট্যটি "
+"ব্যবহার করার জন্য প্রো সংস্করণে আপগ্রেড করুন।"
+
+msgid "Table-wise"
+msgstr "টেবিল অনুযায়ী"
+
+msgid "Tables"
+msgstr "টেবিল"
+
+msgid "Tax"
+msgstr "কর"
+
+msgid ""
+"Tax calculation is based on the subtotal of the purchase. Discounts and fees "
+"will be added after the tax calculation."
+msgstr ""
+"কর গণনা ক্রয়ের উপ-মোটের উপর ভিত্তি করে। কর গণনার পরে ছাড় এবং ফি যোগ করা "
+"হবে।"
+
+msgid "Tax Calculation Method"
+msgstr "কর হিসাবের পদ্ধতি"
+
+msgid "Tax calculation methods"
+msgstr "কর গণনা পদ্ধতি"
+
+msgid "Tax Class"
+msgstr "কর শ্রেণী"
+
+msgid "Tax Status"
+msgstr "করের অবস্থা"
+
+msgid "Tax-total"
+msgstr "কর টোটাল"
+
+msgid "Taxable"
+msgstr "করযোগ্য"
+
+msgid "Text"
+msgstr "টেক্সট"
+
+msgid "Textbox"
+msgstr "টেক্সটবক্স"
+
+msgid "Textbox (Multiline)"
+msgstr "টেক্সটবক্স (বহু লাইন)"
+
+msgid "Thank You"
+msgstr "ধন্যবাদ"
+
+msgid "Thank You For Purchasing"
+msgstr "ক্রয়ের জন্য ধন্যবাদ"
+
+msgid ""
+"The admin can add some settings in the admin panel, such as: Outlet Create, "
+"Counter Create, Roll Access Management, Custom Invoice, Barcode Settings and "
+"License Panel."
+msgstr ""
+"অ্যাডমিন অ্যাডমিন প্যানেলে কিছু সেটিংস যোগ করতে পারে, যেমন: আউটলেট তৈরি, "
+"কাউন্টার তৈরি, রোল অ্যাক্সেস ম্যানেজমেন্ট, কাস্টম ইনভয়েস, বারকোড সেটিংস এবং "
+"লাইসেন্স প্যানেল।"
+
+msgid ""
+"The new badge will display up to %{dayset} days from product creation date."
+msgstr "নতুন ব্যাজ পণ্য তৈরির তারিখ থেকে %{dayset} দিন পর্যন্ত প্রদর্শিত হবে।"
+
+msgid "The page is redirecting to home page withing few seconds"
+msgstr "পৃষ্ঠাটি কয়েক সেকেন্ডের মধ্যে হোম পেজে রিডাইরেক্ট হচ্ছে"
+
+msgid "The role user can change any users password"
+msgstr "ভূমিকার ব্যবহারকারী যেকোনো ব্যবহারকারীর পাসওয়ার্ড পরিবর্তন করতে পারে"
+
+msgid "The role user can create any outlets user if get this access"
+msgstr ""
+"এই অ্যাক্সেস পেলে ভূমিকার ব্যবহারকারী যেকোনো আউটলেট ব্যবহারকারী তৈরি করতে "
+"পারে"
+
+msgid ""
+"The stock of this selected outlet product will serve as the inventory for "
+"your online orders"
+msgstr ""
+"এই নির্বাচিত আউটলেট পণ্যের স্টক আপনার অনলাইন অর্ডারের জন্য ইনভেন্টরি হিসেবে "
+"কাজ করবে"
+
+msgid ""
+"The stock of this selected outlet product will serve as the inventory for "
+"your online orders."
+msgstr ""
+"এই নির্বাচিত আউটলেট পণ্যের স্টক আপনার অনলাইন অর্ডারের জন্য ইনভেন্টরি হিসেবে "
+"কাজ করবে।"
+
+msgid ""
+"The Ultimate Coupon Management System.Point of sale (POS) plugin for "
+"wordpress and Woocommerce"
+msgstr ""
+"ওয়ার্ডপ্রেস এবং Woocommerce এর জন্য আলটিমেট কুপন ম্যানেজমেন্ট "
+"সিস্টেম।পয়েন্ট অফ সেল (POS) প্লাগইন"
+
+msgid "Then select the menu App Keys"
+msgstr "তারপর অ্যাপ কী মেনু নির্বাচন করুন"
+
+msgid "This drawer will close on create new drawer."
+msgstr "নতুন ড্রয়ার তৈরি করার সময় এই ড্রয়ারটি বন্ধ হয়ে যাবে।"
+
+msgid "This email already exist"
+msgstr "এই ইমেল ইতিমধ্যেই বিদ্যমান"
+
+msgid "This Feature is available in pro version only."
+msgstr "এই বৈশিষ্ট্য শুধুমাত্র প্রো সংস্করণে উপলব্ধ।"
+
+msgid "This mobile number is already exist"
+msgstr "এই মোবাইল নম্বর ইতিমধ্যেই বিদ্যমান"
+
+msgid "This module is not support in offline"
+msgstr "এই মডিউল অফলাইনে সমর্থিত নয়"
+
+msgid ""
+"This plugin adds a beautiful mini cart feature to your WooCommerce website, "
+"allowing easy customization to match your preferences."
+msgstr ""
+"এই প্লাগইন আপনার WooCommerce ওয়েবসাইটে একটি সুন্দর মিনি কার্ট বৈশিষ্ট্য "
+"যুক্ত করে, যা আপনার পছন্দ অনুসারে সহজে কাস্টমাইজেশনের অনুমতি দেয়।"
+
+msgid "This product already added in the list"
+msgstr "এই পণ্যটি ইতিমধ্যেই তালিকায় যুক্ত করা হয়েছে"
+
+msgid "This product stock can not be increased"
+msgstr "এই পণ্যের স্টক বৃদ্ধি করা যাবে না"
+
+msgid "This Property Should not be update"
+msgstr "এই সম্পত্তি আপডেট করা উচিত নয়"
+
+msgid "This roles user can change their password"
+msgstr "এই ভূমিকার ব্যবহারকারী তাদের পাসওয়ার্ড পরিবর্তন করতে পারে"
+
+msgid "This roles user can see payment notes on order details"
+msgstr "এই ভূমিকার ব্যবহারকারী অর্ডার বিবরণে পেমেন্ট নোট দেখতে পারে"
+
+msgid "This username already exist"
+msgstr "এই ইউজারনেম ইতিমধ্যেই বিদ্যমান"
+
+msgid ""
+"This will close all drawers previously opened except the last drawer opened "
+"in any counter."
+msgstr ""
+"এটি আগে খোলা সমস্ত ড্রয়ার বন্ধ করে দেবে, কেবল যেকোন কাউন্টারে সর্বশেষ খোলা "
+"ড্রয়ার ব্যতীত।"
+
+msgid ""
+"This would be a temporary password.The user have to change their password on "
+"first login."
+msgstr ""
+"এটি একটি অস্থায়ী পাসওয়ার্ড হবে। ব্যবহারকারীকে প্রথম লগইন করার সময় তাদের "
+"পাসওয়ার্ড পরিবর্তন করতে হবে।"
+
+msgid "Time"
+msgstr "সময়"
+
+msgid "Time Zone"
+msgstr "টাইম জোন"
+
+msgid "Title"
+msgstr "শিরোনাম"
+
+msgid "Title is required"
+msgstr "শিরোনাম আবশ্যক"
+
+msgid "Title/Label"
+msgstr "শিরোনাম/লেবেল"
+
+msgid "To"
+msgstr "থেকে"
+
+msgid "To change color you need pro version"
+msgstr "রঙ পরিবর্তন করতে আপনার প্রো সংস্করণ প্রয়োজন"
+
+msgid ""
+"To delete role, you need to move current users of this roles to another role."
+" Please choose move to role below"
+msgstr ""
+"ভূমিকা মুছে ফেলার জন্য, আপনাকে এই ভূমিকার বর্তমান ব্যবহারকারীদের অন্য কোনো "
+"ভূমিকায় স্থানান্তর করতে হবে। দয়া করে নীচের ভূমিকায় স্থানান্তর করার জন্য "
+"নির্বাচন করুন"
+
+msgid "To get a complete idea of what your agent needs to do to run an outlet "
+msgstr ""
+"একটি আউটলেট চালানোর জন্য আপনার এজেন্টকে কী করতে হবে সে সম্পর্কে সম্পূর্ণ "
+"ধারণা পেতে"
+
+msgid "To get pusher server key follow this instruction"
+msgstr "পুশার সার্ভার কি পেতে এই নির্দেশাবলী অনুসরণ করুন"
+
+msgid "To Kitchen"
+msgstr "রান্নাঘরে পাঠান"
+
+msgid "To Outlet"
+msgstr "আউটলেটে"
+
+msgid "To Outlet:"
+msgstr "আউটলেটে: "
+
+msgid "To POS"
+msgstr "POS এ"
+
+msgid ""
+"To process order offline please ask your admin to enable offline order "
+"feature."
+msgstr ""
+"অফলাইনে অর্ডার প্রক্রিয়া করার জন্য, দয়া করে আপনার অ্যাডমিনকে অফলাইন অর্ডার "
+"বৈশিষ্ট্য সক্রিয় করতে বলুন।"
+
+msgid "To watch our all video tutorial click on the button"
+msgstr "আমাদের সকল ভিডিও টিউটোরিয়াল দেখতে বোতামটি ক্লিক করুন"
+
+msgid "Top"
+msgstr "শীর্ষ"
+
+msgid "Top,Bottom"
+msgstr "উপরে,নীচে"
+
+msgid "Total"
+msgstr "মোট"
+
+msgid "Total Amount"
+msgstr "মোট পরিমাণ"
+
+msgid "Total Cost"
+msgstr "মোট খরচ"
+
+msgid "Total cost"
+msgstr "মোট খরচ"
+
+msgid "Total Discount :"
+msgstr "মোট ছাড়:  "
+
+msgid "Total Income"
+msgstr "মোট আয়"
+
+msgid "Total Orders"
+msgstr "মোট অর্ডার"
+
+msgid "Total Outlet:"
+msgstr "মোট আউটলেট:"
+
+msgid "Total Outlets"
+msgstr "মোট আউটলেট"
+
+msgid "Total Quantity"
+msgstr "মোট পরিমাণ"
+
+msgid "Traditional"
+msgstr "ঐতিহ্যবাহী"
+
+msgid "Traditional / Pay first mode"
+msgstr "ঐতিহ্যবাহী / প্রথমে পরিশোধ মোড"
+
+msgid "Transfer"
+msgstr "স্থানান্তর"
+
+msgid "Transfer by"
+msgstr "ট্রান্সফার করেছেন: "
+
+msgid "Transfer By:"
+msgstr "ট্রান্সফার করেছেন: "
+
+msgid "Transfer current online stocks to"
+msgstr "বর্তমান অনলাইন স্টকগুলো স্থানান্তর করুন"
+
+msgid "Transfer Date"
+msgstr "স্থানান্তরের তারিখ"
+
+msgid "Transfer date:"
+msgstr "ট্রান্সফারের তারিখ: "
+
+msgid "Transfer Details"
+msgstr "ট্রান্সফার বিবরণ"
+
+msgid "Transfer Item*"
+msgstr "স্থানান্তর আইটেম*"
+
+msgid "Transfer List Loading ..."
+msgstr "স্থানান্তর তালিকা লোড হচ্ছে..."
+
+msgid "Transfer Note"
+msgstr "ট্রান্সফার নোট"
+
+msgid "Transfer Quantity"
+msgstr "স্থানান্তর পরিমাণ"
+
+msgid "Transfer Status:"
+msgstr "ট্রান্সফার স্ট্যাটাস: "
+
+msgid "Transfer Stock"
+msgstr "স্টক স্থানান্তর করুন"
+
+msgid "Transfer to %{outletname}"
+msgstr "%{outletname} এ স্থানান্তর করুন"
+
+msgid "Transferred Items"
+msgstr "ট্রান্সফারকৃত আইটেমসমূহ"
+
+msgid "Type"
+msgstr "প্রকার"
+
+msgid "Type to search"
+msgstr "অনুসন্ধান করার জন্য টাইপ করুন"
+
+msgid "Types"
+msgstr "প্রকার"
+
+msgid "Unknown"
+msgstr "অজানা"
+
+msgid "Unlimited"
+msgstr "অসীম"
+
+msgid "Unlimited counter"
+msgstr "অসীম কাউন্টার"
+
+msgid "Unlimited outlets"
+msgstr "অসীম আউটলেট"
+
+msgid "Unpaid"
+msgstr "আনপেইড "
+
+msgid "Up Sale"
+msgstr "আপ সেল"
+
+msgid "Up Sells"
+msgstr "আপ সেল"
+
+msgid "Update"
+msgstr "আপডেট করুন"
+
+msgid "Update Failed"
+msgstr "আপডেট ব্যর্থ"
+
+msgid "Update failed"
+msgstr "আপডেট ব্যর্থ"
+
+msgid "Update failed try again"
+msgstr "আপডেট ব্যর্থ, আবার চেষ্টা করুন"
+
+msgid "Update failed unknown error"
+msgstr "আপডেট ব্যর্থ অজানা ত্রুটি"
+
+msgid "Update Note"
+msgstr "আপডেট নোট"
+
+msgid "Update order"
+msgstr "অর্ডার আপডেট করুন"
+
+msgid "Update Prices"
+msgstr "মূল্য আপডেট করুন"
+
+msgid "Update Product Price"
+msgstr "পণ্যের দাম আপডেট করুন"
+
+msgid "Update Status?"
+msgstr "স্ট্যাটাস আপডেট করবেন?"
+
+msgid "Updating Custom Fields"
+msgstr "কাস্টম ক্ষেত্র আপডেট করা হচ্ছে"
+
+msgid "Updating Customer"
+msgstr "গ্রাহক আপডেট করছেন"
+
+msgid "Updating message..."
+msgstr "বার্তা আপডেট হচ্ছে..."
+
+msgid ""
+"Updating price requires pro version,please upgrade to pro version to use "
+"this feature."
+msgstr ""
+"মূল্য আপডেট করার জন্য প্রো সংস্করণ প্রয়োজন, দয়া করে এই বৈশিষ্ট্য ব্যবহার "
+"করার জন্য প্রো সংস্করণে আপগ্রেড করুন।"
+
+msgid "Updating Role Details"
+msgstr "ভূমিকা বিবরণ আপডেট করা হচ্ছে"
+
+msgid "Upload a Feature Image"
+msgstr "একটি বৈশিষ্ট্য চিত্র আপলোড করুন"
+
+msgid "Upload Image For This Variation"
+msgstr "এই ভ্যারিয়েশনের জন্য ছবি আপলোড করুন"
+
+msgid "Upload More Images For This Product"
+msgstr "এই পণ্যের জন্য আরও ছবি আপলোড করুন"
+
+msgid "Upload Table Image"
+msgstr "টেবিল ছবি আপলোড করুন"
+
+msgid "Use camera on barcode scanning"
+msgstr "বারকোড স্ক্যান করার জন্য ক্যামেরা ব্যবহার করুন"
+
+msgid "Use For Variation"
+msgstr "ভ্যারিয়েশনের জন্য ব্যবহার করুন"
+
+msgid "User"
+msgstr "ব্যবহারকারী"
+
+msgid "User added to this outlet"
+msgstr "এই আউটলেটে ব্যবহারকারী যুক্ত করা হয়েছে"
+
+msgid "User List"
+msgstr "ইউজার তালিকা"
+
+msgid "User List Loading ..."
+msgstr "ব্যবহারকারী তালিকা লোড হচ্ছে..."
+
+msgid "User loading ..."
+msgstr "ব্যবহারকারী লোড হচ্ছে ..."
+
+msgid "User Move to"
+msgstr "ব্যবহারকারী স্থানান্তর"
+
+msgid "User Name:"
+msgstr "ব্যবহারকারীর নাম:"
+
+msgid "User privilege error"
+msgstr "ব্যবহারকারী সুযোগ ত্রুটি"
+
+msgid "User removed from this outlet"
+msgstr "এই আউটলেট থেকে ব্যবহারকারী অপসারণ করা হয়েছে"
+
+msgid "User Role"
+msgstr "ইউজার ভূমিকা"
+
+msgid "Username"
+msgstr "ব্যবহারকারীর নাম"
+
+msgid "Username already exist"
+msgstr "ইউজারনেম ইতিমধ্যেই বিদ্যমান"
+
+msgid "Username already exist."
+msgstr "ইউজারনেম ইতিমধ্যেই বিদ্যমান।"
+
+msgid "Username is required"
+msgstr "ইউজারনেম প্রয়োজন"
+
+msgid "Username or Email address"
+msgstr "ইউজারনেম বা ইমেইল ঠিকানা"
+
+msgid "Users"
+msgstr "ব্যবহারকারীরা"
+
+msgid "Valid"
+msgstr "বৈধ"
+
+msgid "Value"
+msgstr "মান"
+
+msgid "Vat/Tax No"
+msgstr "ভ্যাট/কর নম্বর"
+
+msgid "Vat/Tax No Label"
+msgstr "ভ্যাট/কর নম্বর লেবেল"
+
+msgid "Vendor"
+msgstr "বিক্রেতা"
+
+msgid "Vendor delete failed"
+msgstr "বিক্রেতা মুছে ফেলতে ব্যর্থ হয়েছে"
+
+msgid "Vendor deleted successfully"
+msgstr "বিক্রেতা সফলভাবে মুছে ফেলা হয়েছে"
+
+msgid "Vendor Description"
+msgstr "বিক্রেতা বিবরণ"
+
+msgid "Vendor List Loading ..."
+msgstr "বিক্রেতা তালিকা লোড হচ্ছে..."
+
+msgid "Version"
+msgstr "সংস্করণ"
+
+msgid "Video Tutorial"
+msgstr "ভিডিও টিউটোরিয়াল"
+
+msgid "Videos"
+msgstr "ভিডিও"
+
+msgid "View All Outlet"
+msgstr "সকল আউটলেট দেখুন"
+
+msgid "View all Role List"
+msgstr "সকল ভূমিকা তালিকা দেখুন"
+
+msgid "View All Settings"
+msgstr "সকল সেটিংস দেখুন"
+
+msgid "View POS"
+msgstr "POS দেখুন"
+
+msgid "Viewing %{ startRecord } to %{ endRecord } of %{ totalRecord } records"
+msgstr ""
+"%{ totalRecord } রেকর্ডের মধ্যে %{ startRecord } থেকে %{ endRecord } দেখা "
+"হচ্ছে"
+
+msgid "Visit"
+msgstr "ভিজিট করুন"
+
+msgid ""
+"Vite Coupon is a comprehensive coupon management system designed to simplify "
+"the creation, distribution, and tracking of discount coupons for online "
+"businesses."
+msgstr ""
+"ভাইট কুপন হল একটি সম্পূর্ণ কুপন ব্যবস্থাপনা সিস্টেম যা অনলাইন ব্যবসার জন্য "
+"ডিসকাউন্ট কুপন তৈরি, বিতরণ এবং ট্র্যাকিং সহজতর করার জন্য ডিজাইন করা হয়েছে।"
+
+msgid ""
+"Vitepos is a POS specialized software which is the right solution for your "
+"business."
+msgstr ""
+"ভাইটপোস হল একটি POS বিশেষায়িত সফটওয়্যার যা আপনার ব্যবসার জন্য সঠিক সমাধান।"
+
+msgid "Vitepos Login"
+msgstr "Vitepos লগইন"
+
+msgid "Vitepos Only"
+msgstr "কেবল Vitepos"
+
+msgid ""
+"Vitepos will use the WooCommerce stock, ensuring that a single stock is used "
+"both on the website and in the POS system."
+msgstr ""
+"Vitepos WooCommerce স্টক ব্যবহার করবে, এটি নিশ্চিত করে যে ওয়েবসাইট এবং POS "
+"সিস্টেম উভয় ক্ষেত্রেই একটি একক স্টক ব্যবহার করা হয়।"
+
+msgid "Waiter"
+msgstr "ওয়েটার"
+
+msgid "Waiter Panel"
+msgstr "ওয়েটার প্যানেল"
+
+msgid "Waiter panel"
+msgstr "ওয়েটার প্যানেল"
+
+msgid "Waiter POS"
+msgstr "ওয়েটার POS"
+
+msgid "Waiter requested to cancel"
+msgstr "ওয়েটার বাতিল করার জন্য অনুরোধ করেছেন"
+
+msgid "Waiting"
+msgstr "অপেক্ষা করছে"
+
+msgid "Want to clear cache and logout?"
+msgstr "ক্যাশে পরিষ্কার করে লগ আউট করতে চান?"
+
+msgid "Want to close cash drawer?"
+msgstr "আপনি কি ক্যাশ ড্রয়ার বন্ধ করতে চান?"
+
+msgid "Want You like to do with current cart ?"
+msgstr "আপনি বর্তমান কার্টের সাথে কি করতে চান?"
+
+msgid "Warning, all role access will be deleted for this role."
+msgstr "সতর্কতা, এই ভূমিকার জন্য সমস্ত ভূমিকা অ্যাক্সেস মুছে ফেলা হবে।"
+
+msgid ""
+"Warning, offline orders are stored in the database of browser (Chrome, "
+"Firefox, Opera, etc.) . And as soon as the app comes online, it syncs with "
+"the main server. If someone deletes the database  of browser before syncing, "
+"the order will no longer sync. In this case, the order information will be "
+"deleted forever."
+msgstr ""
+"সতর্কতা, অফলাইন অর্ডার ব্রাউজারের ডাটাবেসে (ক্রোম, ফায়ারফক্স, অপেরা, "
+"ইত্যাদি) সংরক্ষণ করা হয়। এবং অ্যাপটি অনলাইনে আসার সাথে সাথে এটি প্রধান "
+"সার্ভারের সাথে সিঙ্ক হয়ে যায়। কেউ সিঙ্ক করার আগে ব্রাউজারের ডাটাবেস মুছে "
+"ফেললে, অর্ডারটি আর সিঙ্ক হবে না। এই ক্ষেত্রে, অর্ডার তথ্য চিরতরে মুছে ফেলা "
+"হবে."
+
+msgid ""
+"Warning, vitepos lock screen might not work properly if 2FA is enabled on "
+"login."
+msgstr ""
+"সাবধানতা, যদি লগইন করার সময় 2FA সক্রিয় থাকে তবে vitepos লক স্ক্রিন "
+"সঠিকভাবে কাজ নাও করতে পারে।"
+
+msgid "Watch tutorial"
+msgstr "টিউটোরিয়াল দেখুন"
+
+msgid ""
+"We're sorry but pos doesn't work properly without JavaScript enabled. Please "
+"enable it to continue."
+msgstr ""
+"আমরা দুঃখিত কিন্তু জাভাস্ক্রিপ্ট সক্রিয় না থাকলে POS সঠিকভাবে কাজ করে না।  "
+"দয়া করে এটি সক্রিয় করুন।"
+
+msgid "Weight"
+msgstr "ওজন"
+
+msgid "Welcome to"
+msgstr "স্বাগতম"
+
+msgid "Where will show"
+msgstr "কোথায় দেখানো হবে"
+
+msgid "Why are denying this order?"
+msgstr "আপনি কেন এই অর্ডারটি অস্বীকার করছেন?"
+
+msgid "Why are you denying this item?"
+msgstr "আপনি এই আইটেমটি কেন অস্বীকার করছেন?"
+
+msgid "Width"
+msgstr "প্রস্থ"
+
+msgid "Withdraw"
+msgstr "উত্তোলন"
+
+msgid "Withdraw amount"
+msgstr "উত্তোলনের পরিমাণ"
+
+msgid "Withdraw and close"
+msgstr "উত্তোলন করুন এবং বন্ধ করুন"
+
+msgid "Withdraw from cash drawer"
+msgstr "নগদ ড্রয়ার থেকে উত্তোলন করুন"
+
+msgid "Withdraw is not possible, no cash drawer found"
+msgstr "উত্তোলন করা সম্ভব নয়, কোন ক্যাশ ড্রয়ার পাওয়া যায়নি"
+
+msgid "Withdraw Note"
+msgstr "উত্তোলন নোট"
+
+msgid "Withdraw processing"
+msgstr "উত্তোলন প্রক্রিয়া"
+
+msgid "Withdrawn"
+msgstr "উত্তোলন করা হয়েছে"
+
+msgid "Woocommerce stock (Single stock)"
+msgstr "Woocommerce স্টক (একক স্টক)"
+
+msgid "WordPress Login"
+msgstr "ওয়ার্ডপ্রেস লগইন"
+
+msgid "WordPress Login URL"
+msgstr "ওয়ার্ডপ্রেস লগইন ইউআরএল"
+
+msgid "Write your message"
+msgstr "আপনার বার্তা লিখুন"
+
+msgid "Yes"
+msgstr "হ্যাঁ"
+
+msgid "You are Connected"
+msgstr "আপনি সংযুক্ত আছেন"
+
+msgid "You are not connected"
+msgstr "আপনি সংযুক্ত নন"
+
+msgid "You can not add this much of discount"
+msgstr "তুমি এত বেশি ছাড় যোগ করতে পারো না"
+
+msgid "You can not checkout this in current status"
+msgstr "আপনি বর্তমান অবস্থায় এটি চেকআউট করতে পারবেন না"
+
+msgid "You can not close current cash drawer"
+msgstr "আপনি বর্তমান ক্যাশ ড্রয়ার বন্ধ করতে পারবেন না"
+
+msgid "You can not disable branding in lite version."
+msgstr "আপনি লাইট সংস্করণে ব্র্যান্ডিং বন্ধ করতে পারবেন না।"
+
+msgid "You can not give this much discount"
+msgstr "আপনি এত ছাড় দিতে পারবেন না"
+
+msgid "You can not order less than 0 amount"
+msgstr "আপনি 0 টাকার কম অর্ডার করতে পারবেন না"
+
+msgid ""
+"You can select the default customer for order processing. If not selected "
+"then the order will be processed as a guest user. Note that, if the customer "
+"is selected from the POS, that customer will remain in the selected state."
+msgstr ""
+"আপনি অর্ডার প্রক্রিয়াকরণের জন্য ডিফল্ট গ্রাহক নির্বাচন করতে পারেন। যদি "
+"নির্বাচন না করা হয় তবে অর্ডারটি গেস্ট ব্যবহারকারী হিসেবে প্রক্রিয়া করা "
+"হবে। মনে রাখবেন, যদি গ্রাহক POS থেকে নির্বাচন করা হয়, তবে সেই গ্রাহক "
+"নির্বাচিত অবস্থায় থাকবে।"
+
+msgid ""
+"You do not have permission of add customer, contact your admin to get this "
+"permission."
+msgstr ""
+"আপনার গ্রাহক যুক্ত করার অনুমতি নেই, এই অনুমতি পেতে আপনার অ্যাডমিনের সাথে "
+"যোগাযোগ করুন।"
+
+msgid "You do not have permission to access this link"
+msgstr "আপনার এই লিঙ্কে অ্যাক্সেস করার অনুমতি নেই"
+
+msgid "You do not have permission to do this"
+msgstr "আপনার এটি করার অনুমতি নেই"
+
+msgid "You do not have permission to give discount"
+msgstr "আপনার ছাড় দেওয়ার অনুমতি নেই"
+
+msgid "You do not have permission to have fees"
+msgstr "আপনার ফি রাখার অনুমতি নেই"
+
+msgid "You don't have permission to access this link"
+msgstr "আপনার এই লিঙ্কে অ্যাক্সেস করার অনুমতি নেই"
+
+msgid "You don't have permission to view details of this outlet"
+msgstr "আপনার এই আউটলেটের বিশদ দেখার অনুমতি নেই"
+
+msgid "You don't have permission to view user of this outlet"
+msgstr "আপনার এই আউটলেটের ব্যবহারকারী দেখার অনুমতি নেই"
+
+msgid "You have only one outlet and counter,so you can not change outlet."
+msgstr ""
+"আপনার কেবলমাত্র একটি আউটলেট এবং কাউন্টার রয়েছে, তাই আপনি আউটলেট পরিবর্তন "
+"করতে পারবেন না।"
+
+msgid "You Need To Check Your Connection"
+msgstr "আপনার সংযোগ পরীক্ষা করুন"
+
+msgid ""
+"You will get separate stock for each outlet, stock transfer, receive feature "
+"will be available in the vitepos.You need to purchase or add stock product "
+"for each outlet"
+msgstr ""
+"আপনি প্রতিটি আউটলেটের জন্য পৃথক স্টক পাবেন, স্টক স্থানান্তর, গ্রহণ বৈশিষ্ট্য "
+"Vitepos-এ উপলব্ধ থাকবে। আপনার প্রতিটি আউটলেটের জন্য পণ্য ক্রয় বা স্টক যোগ "
+"করতে হবে।"
+
+msgid "Your License Key"
+msgstr "আপনার লাইসেন্স কী"
+
+msgid "Zero rate"
+msgstr "শূন্য হার"
+
+msgid "Zip Code"
+msgstr "পোস্ট কোড"

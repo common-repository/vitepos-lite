@@ -1,0 +1,4624 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VitePOS\n"
+"POT-Creation-Date: 2024-10-24 04:31+0000\n"
+"PO-Revision-Date: 2024-10-24 07:09+0000\n"
+"Last-Translator: Anthony L. Moore\n"
+"Language-Team: Spanish (Chile)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: ;__;_e;_ee;___;add_error;add_info;SetTitle;AddInfo;"
+"AddError;SetSubtitle;___;AddModel;AddModelNonSearchable\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+"X-Poedit-SearchPathExcluded-2: dbscript\n"
+"X-Poedit-SearchPathExcluded-3: languages\n"
+"X-Poedit-SearchPathExcluded-4: tmp\n"
+"X-Poedit-SearchPathExcluded-5: node_modules\n"
+"X-Poedit-SearchPathExcluded-6: release\n"
+"X-Poedit-SearchPathExcluded-7: logs\n"
+"X-Poedit-SearchPathExcluded-8: template/client\n"
+"X-Poedit-SearchPathExcluded-9: template/main\n"
+"X-Poedit-SearchPathExcluded-10: dev_files\n"
+"X-Poedit-SearchPathExcluded-11: adminpanel\n"
+"X-Poedit-SearchPathExcluded-12: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: es_CL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2"
+
+#, php-format
+msgid " %s are required"
+msgstr "%s son obligatorios"
+
+#, php-format
+msgid " %s is required"
+msgstr "%s es obligatorio"
+
+#, php-format
+msgid " %s should be less than %s"
+msgstr "%s debe ser menor que %s"
+
+msgid " Point of sale (POS) plugin for wordpress and Woocommerce"
+msgstr "Plugin de punto de venta (POS) para WordPress y Woocommerce"
+
+msgid " should be hexadecimal"
+msgstr "debe ser hexadecimal"
+
+#, php-format
+msgid "%s out of stock"
+msgstr "%s fuera de stock"
+
+#, php-format
+msgid "%s should be a valid email address"
+msgstr "%s debe ser una dirección de correo electrónico válida"
+
+#, php-format
+msgid "%s should be digit"
+msgstr "%s debe ser un dígito"
+
+#, php-format
+msgid "%s should be numeric"
+msgstr "%s debe ser numérico"
+
+msgid "%{ row } rows"
+msgstr "%{ fila } filas"
+
+msgid "%{col} Products Per Row"
+msgstr "%{col} productos por fila"
+
+msgid "%{fld_name} does not match with its password"
+msgstr "%{fld_name} no coincide con su contraseña"
+
+msgid "%{fld_name} is invalid"
+msgstr "%{fld_name} no es válido"
+
+msgid "%{fld_name} is required"
+msgstr "%{fld_name} es obligatorio"
+
+msgid "%{qty} of %{items}"
+msgstr "%{qty} de %{items}"
+
+msgid "(Items : %{totalItem} and quantity : %{totalQty} )"
+msgstr "(Artículos: %{totalItem} y cantidad: %{totalQty})"
+
+msgid "[Coming Soon]"
+msgstr "[Muy pronto]"
+
+msgid "About"
+msgstr "Acerca de"
+
+msgid "About VitePos"
+msgstr "Acerca de VitePos"
+
+msgid "Accept"
+msgstr "Aceptar"
+
+msgid "Accept Cancel Request"
+msgstr "Aceptar solicitud de cancelación"
+
+msgid "Accepted Cancel"
+msgstr "Cancelación aceptada"
+
+msgid "Access control"
+msgstr "Control de acceso"
+
+msgid "Action"
+msgstr "Acción"
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "Activate Pro"
+msgstr "Activar Pro"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Active Barcode Search"
+msgstr "Búsqueda de código de barras activa"
+
+msgid "Active Product Search"
+msgstr "Búsqueda de producto activa"
+
+msgid "Add"
+msgstr "Agregar"
+
+msgid "Add Addon"
+msgstr "Agregar complemento"
+
+msgid "Add Addons"
+msgstr "Agregar complementos"
+
+msgid "Add Attributes"
+msgstr "Agregar Atributos"
+
+msgid "Add Counter"
+msgstr "Agregar mostrador"
+
+msgid "Add Custom Field"
+msgstr "Agregar campo personalizado"
+
+msgid "Add Customer"
+msgstr "Agregar Cliente"
+
+msgid "Add Deny Reason"
+msgstr "Agregar motivo de denegación"
+
+msgid "Add Discount"
+msgstr "Agregar Descuento"
+
+msgid "Add extra input field if require"
+msgstr "Añadir un campo de entrada adicional si es necesario"
+
+msgid "Add Fee"
+msgstr "Agregar Cargo"
+
+msgid "Add Field"
+msgstr "Agregar campo"
+
+msgid "Add Input"
+msgstr "Añadir entrada"
+
+msgid "Add items to add fee"
+msgstr "Agregar artículos para agregar cargo"
+
+msgid "Add items to give discount"
+msgstr "Agregar artículos para dar descuento"
+
+msgid "Add Message"
+msgstr "Agregar Mensaje"
+
+msgid "Add message"
+msgstr "Agregar mensaje"
+
+msgid "Add Note"
+msgstr "Agregar Nota"
+
+msgid "Add note befor decline"
+msgstr "Agregar nota antes de rechazar"
+
+msgid "Add Option"
+msgstr "Agregar opción"
+
+msgid "Add Options"
+msgstr "Agregar Opciones"
+
+msgid "Add Outlet"
+msgstr "Agregar sucursal"
+
+msgid "Add page break counter"
+msgstr "Agregar contador de saltos de página"
+
+msgid "Add payment note"
+msgstr "Agregar nota de pago"
+
+msgid "Add Product"
+msgstr "Agregar Producto"
+
+msgid ""
+"Add product requires pro version, you need to upgrade to pro version for use "
+"this feature."
+msgstr ""
+"Agregar producto requiere la versión pro, necesitas actualizar a la versión "
+"pro para usar esta función."
+
+msgid "Add Purchase"
+msgstr "Agregar Compra"
+
+msgid "Add Role"
+msgstr "Agregar rol"
+
+msgid "Add Rules"
+msgstr "Agregar reglas"
+
+msgid "Add Rules Group"
+msgstr "Agregar grupo de reglas"
+
+msgid "Add Shortcut Message"
+msgstr "Agregar mensaje abreviado"
+
+msgid "Add Stock"
+msgstr "Agregar stock"
+
+msgid "Add Supplier"
+msgstr "Agregar Proveedor"
+
+msgid "Add Table"
+msgstr "Agregar Mesa"
+
+msgid "Add To Cart"
+msgstr "Agregar al carrito"
+
+msgid "Add to Cart"
+msgstr "Agregar al carrito"
+
+msgid "Add to cart"
+msgstr "Agregar al carrito"
+
+msgid "Add To Cart ("
+msgstr "Agregar al carrito ("
+
+msgid "Add to this outlet"
+msgstr "Agregar a este punto de venta"
+
+msgid "Add User"
+msgstr "Agregar Usuario"
+
+msgid "Add Variation"
+msgstr "Agregar Variación"
+
+msgid "Add Variations"
+msgstr "Agregar Variaciones"
+
+msgid "Add Vendor"
+msgstr "Agregar Proveedor"
+
+msgid "Add/Search Customer.."
+msgstr "Agregar/Buscar Cliente.."
+
+msgid "Adding Role"
+msgstr "Agregar rol"
+
+msgid "Addon is supported in pro version"
+msgstr "Addon está disponible en la versión pro."
+
+msgid "Addon Panel"
+msgstr "Panel de complementos"
+
+msgid "Addons"
+msgstr "Complementos"
+
+msgid "Addons List Loading..."
+msgstr "Cargando lista de complementos..."
+
+msgid "Addons Panel"
+msgstr "Panel de complementos"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Address:"
+msgstr "Dirección:"
+
+msgid "Administrator"
+msgstr "Administrador"
+
+msgid "Administrator can not be reset"
+msgstr "El administrador no se puede restablecer"
+
+msgid "All"
+msgstr "Todo"
+
+msgid "All Categories"
+msgstr "Todas las Categorías"
+
+msgid "All Category"
+msgstr "Todas las Categorías"
+
+msgid "All items refunded"
+msgstr "Todos los ítems fueron reembolsados"
+
+msgid "Allowed Ip"
+msgstr "IP permitida"
+
+msgid ""
+"Allowing the order to be completed by the chef rather than by the cashier."
+msgstr "Permitir que la orden sea completada por el chef en lugar del cajero."
+
+msgid ""
+"Alternatively, you can be link your online sales to a specific outlet, and "
+"the system will use the stock from the linked outlet for online sales."
+msgstr ""
+"Alternativamente, puede vincular sus ventas en línea a un local específico, "
+"y el sistema utilizará el stock del local vinculado para las ventas en línea."
+
+msgid "Amount"
+msgstr "Monto"
+
+msgid "Amount:"
+msgstr "Monto:"
+
+msgid "AND"
+msgstr "Y"
+
+msgid "And More.."
+msgstr "Y más..."
+
+msgid "and person count"
+msgstr "y el conteo de personas"
+
+msgid "Any Options"
+msgstr "Cualquier opción"
+
+msgid "App ID"
+msgstr "ID de la aplicación"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Aprox"
+msgstr "Aprox."
+
+msgid "Are sure to accept cancel?"
+msgstr "¿Está seguro de aceptar la cancelación?"
+
+msgid "Are sure to deny cancel request?"
+msgstr "¿Está seguro de rechazar la solicitud de cancelación?"
+
+msgid "Are you sure clear cart?"
+msgstr "¿Estás seguro de limpiar el carrito?"
+
+msgid "Are you sure order is ready to serve?"
+msgstr "¿Estás seguro de que la orden está lista para servir?"
+
+msgid "Are you sure to %{status}?"
+msgstr "¿Estás seguro de %{status}?"
+
+msgid "Are you sure to accept cancel for this item?"
+msgstr "¿Está seguro de que desea aceptar la cancelación para este ítem?"
+
+msgid "Are you sure to cancel the order?"
+msgstr "¿Estás seguro de querer cancelar el pedido?"
+
+msgid "Are you sure to delete this counter: %{counter}?"
+msgstr "¿Estás seguro de eliminar este contador: %{counter}?"
+
+msgid "Are you sure to delete this custom field?"
+msgstr "¿Estás seguro de que quieres eliminar este campo personalizado?"
+
+msgid "Are you sure to delete this Customer: %{customer}?"
+msgstr "¿Está seguro de eliminar este cliente: %{customer}?"
+
+msgid "Are you sure to delete this deny message?"
+msgstr "¿Estás seguro de eliminar este mensaje de denegación?"
+
+msgid "Are you sure to delete this message?"
+msgstr "¿Estás seguro de eliminar este mensaje?"
+
+msgid "Are you sure to delete this outlet: %{outlet}?"
+msgstr "¿Estás seguro de eliminar esta salida: %{outlet}?"
+
+msgid "Are you sure to delete this page style?"
+msgstr "¿Está seguro de eliminar este estilo de página?"
+
+msgid "Are you sure to delete this product: %{product}?"
+msgstr "¿Estás seguro de eliminar este producto: %{product}?"
+
+msgid "Are you sure to delete this Table: %{table}?"
+msgstr "¿Está seguro de eliminar esta tabla: %{table}?"
+
+msgid "Are you sure to delete this user: %{user}?"
+msgstr "¿Estás seguro de eliminar este usuario: %{user}?"
+
+msgid "Are you sure to delete this vendor: %{vendor}?"
+msgstr "¿Está seguro de eliminar este proveedor: %{vendor}?"
+
+msgid "Are you sure to deny cancel for this item?"
+msgstr "¿Está seguro de que desea denegar la cancelación para este ítem?"
+
+msgid "Are you sure to disable %{name}?"
+msgstr "¿Estás seguro de deshabilitar %{name}?"
+
+msgid "Are you sure to enable %{name}?"
+msgstr "¿Estás seguro de habilitar %{name}?"
+
+msgid "Are you sure to give access to %{role}?"
+msgstr "¿Estás seguro de dar acceso a %{role}?"
+
+msgid "Are you sure to ignore this update of price ?"
+msgstr "¿Está seguro de que desea ignorar esta actualización de precio?"
+
+msgid "Are you sure to make this active??"
+msgstr "¿Estás seguro de activar esto?"
+
+msgid "Are you sure to make this field hidden?"
+msgstr "¿Está seguro de que desea ocultar este campo?"
+
+msgid "Are you sure to make this field not required?"
+msgstr "¿Está seguro de que desea que este campo no sea obligatorio?"
+
+msgid "Are you sure to make this inactive?"
+msgstr "¿Estás seguro de desactivar esto?"
+
+msgid "Are you sure to make this main branch?"
+msgstr "¿Está seguro de convertir esto en la rama principal?"
+
+msgid "Are you sure to make this product favorite"
+msgstr "¿Está seguro de que desea marcar este producto como favorito?"
+
+msgid "Are you sure to remove ?"
+msgstr "¿Está seguro de que desea eliminar?"
+
+msgid "Are you sure to remove access from %{role}?"
+msgstr "¿Está seguro de eliminar el acceso de %{role}?"
+
+msgid "Are you sure to remove all item from cart?"
+msgstr "¿Está seguro de eliminar todos los artículos del carrito?"
+
+msgid "Are you sure to remove it?"
+msgstr "¿Está seguro de eliminarlo?"
+
+msgid "Are you sure to remove item from cart?"
+msgstr "¿Estás seguro de eliminar el artículo del carrito?"
+
+msgid "Are you sure to remove item from Holds?"
+msgstr "¿Está seguro de eliminar el artículo de las retenciones?"
+
+msgid "Are you sure to remove this item?"
+msgstr "¿Está seguro de que desea eliminar este ítem?"
+
+msgid "Are you sure to remove this user from this outlet ?"
+msgstr "¿Está seguro de eliminar a este usuario de este local?"
+
+msgid "Are you sure to serve the order?"
+msgstr "¿Estás seguro de servir la orden?"
+
+msgid "Are you sure to transfer online stock to  %{outlet}?"
+msgstr "¿Estás seguro de transferir stock en línea a %{outlet}?"
+
+msgid "Are you sure you are starting?"
+msgstr "¿Estás seguro de que estás comenzando?"
+
+msgid "Are you sure,want to make cancel request for this item?"
+msgstr ""
+"¿Está seguro de que quiere hacer una solicitud de cancelación para este ítem?"
+
+msgid "Are you sure,want to make cancel request?"
+msgstr "¿Está seguro que desea realizar una solicitud de cancelación?"
+
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+msgid "Attributes List"
+msgstr "Lista de Atributos"
+
+msgid "Attributes Loading"
+msgstr "Cargando Atributos"
+
+msgid "Authorize Settings"
+msgstr "Configuración de autorización"
+
+msgid "Auto capture on payment auth"
+msgstr "Captura automática en autorización de pago"
+
+msgid "Back"
+msgstr "Atrás"
+
+msgid "Balance"
+msgstr "Saldo"
+
+msgid "Bar Code"
+msgstr "Código de Barras"
+
+msgid "Barcode"
+msgstr "Código de barras"
+
+msgid "Barcode customization"
+msgstr "Personalización del código de barras"
+
+msgid "Barcode Field"
+msgstr "Campo de código de barras"
+
+msgid "Barcode Height"
+msgstr "Alto del código de barras"
+
+msgid "Barcode on invoice"
+msgstr "Código de barras en factura"
+
+msgid "Barcode Position"
+msgstr "Posición del Código de Barras"
+
+msgid "Barcode Value"
+msgstr "Valor del código de barras"
+
+msgid "Barcode width"
+msgstr "Ancho del código de barras"
+
+msgid "Based on outlet order(s)"
+msgstr "Basado en el/los pedido(s) del punto de venta"
+
+msgid "Basic Help"
+msgstr "Ayuda básica"
+
+msgid "Basic Settings"
+msgstr "Configuración básica"
+
+msgid "Best size is %{logoWidth} in width and %{logoHeight} in height."
+msgstr "El mejor tamaño es %{logoWidth} de ancho y %{logoHeight} de alto."
+
+msgid "Best size is 100px in width and 60px in height."
+msgstr "El mejor tamaño es de 100 px de ancho y 60 px de alto."
+
+msgid "Best size is 166px in width and 60px in height."
+msgstr "El tamaño ideal es de 166px de ancho y 60px de alto."
+
+msgid "Blank for auto"
+msgstr "En blanco para automático"
+
+msgid "Bottom"
+msgstr "Abajo"
+
+msgid "Brand"
+msgstr "Marca"
+
+msgid "Branding"
+msgstr "Imagen de marca"
+
+msgid "Build :"
+msgstr "Versión: "
+
+msgid "Built-in"
+msgstr "Predeterminado"
+
+msgid "Calculate tax after discounts and fees"
+msgstr "Calcular el impuesto después de los descuentos y las tarifas"
+
+msgid "Calculate tax before discounts and fees"
+msgstr "Calcular el impuesto antes de los descuentos y las tarifas"
+
+msgid "Calculator"
+msgstr "Calculadora"
+
+msgid "Can create & manage unlimited counter for each outlet"
+msgstr ""
+"Puede crear y administrar un número ilimitado de mostradores para cada punto "
+"de venta"
+
+msgid "Can create & manage unlimited outlets"
+msgstr "Puede crear y administrar un número ilimitado de puntos de venta"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Cancel requested"
+msgstr "Cancelación solicitada"
+
+msgid "Canceled"
+msgstr "Cancelado"
+
+msgid "Cancelled"
+msgstr "Cancelado"
+
+msgid "Captcha error, please try again"
+msgstr "Error de captcha, intenta de nuevo"
+
+msgid "Capture Method"
+msgstr "Método de Captura"
+
+msgid "Capture on order complete"
+msgstr "Capturar al completar el pedido"
+
+msgid "Card"
+msgstr "Tarjeta"
+
+msgid "Cart"
+msgstr "Carro"
+
+msgid "Cash"
+msgstr "Efectivo"
+
+msgid "Cash Drawer"
+msgstr "Caja"
+
+msgid "Cash Drawer Balance"
+msgstr "Saldo de la caja"
+
+msgid "Cash Drawer Balance:"
+msgstr "Saldo de la caja:"
+
+msgid "Cash Drawer details"
+msgstr "Detalles de la Caja"
+
+msgid "Cash drawer loading..."
+msgstr "Cargando caja..."
+
+msgid "Cash Information"
+msgstr "Información del efectivo"
+
+msgid "Cash Summary"
+msgstr "Resumen de efectivo"
+
+msgid "Cash withdraw failed"
+msgstr "Error al retirar efectivo"
+
+msgid "Cash withdraw succeeded"
+msgstr "Retiro de efectivo exitoso"
+
+msgid "Cash withdraw succeeded and closed"
+msgstr "Retiro de efectivo exitoso y cerrado"
+
+msgid "Cashier"
+msgstr "Cajero"
+
+msgid "Cashier Panel"
+msgstr "Panel de Caja"
+
+msgid "Cashier panel"
+msgstr "Panel del cajero"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Category Loading"
+msgstr "Cargando Categoría"
+
+msgid "Change"
+msgstr "Cambiar"
+
+msgid "Change Outlet"
+msgstr "Cambiar punto de venta"
+
+msgid "Change Password"
+msgstr "Cambiar contraseña"
+
+msgid "Change password required"
+msgstr "Se requiere cambiar la contraseña"
+
+msgid "Changed Amount"
+msgstr "Cantidad cambiada"
+
+msgid "Channels"
+msgstr "Canales"
+
+msgid ""
+"check for add this product to update price list, if need to update product "
+"price"
+msgstr ""
+"verificar para agregar este producto para actualizar la lista de precios, si "
+"necesita actualizar el precio del producto"
+
+msgid "Checkbox"
+msgstr "Casilla de verificación"
+
+msgid "Checkout"
+msgstr "Pagar"
+
+msgid "Checkout Page"
+msgstr "Página de pago"
+
+msgid "Chef"
+msgstr "Chef"
+
+msgid "Choose a Outlet"
+msgstr "Elija un punto de venta"
+
+msgid "Choose a paper settings"
+msgstr "Elija una configuración de papel"
+
+msgid "Choose category"
+msgstr "Elegir categoría"
+
+msgid "Choose date"
+msgstr "Elegir fecha"
+
+msgid "Choose favorite type"
+msgstr "Elegir tipo favorito"
+
+msgid "Choose item(s) to refund"
+msgstr "Elija los artículos que desea reembolsar"
+
+msgid "Choose option"
+msgstr "Elegir opción"
+
+msgid "Choose Outlet"
+msgstr "Elija punto de venta"
+
+msgid "Choose Panel"
+msgstr "Elegir Panel"
+
+msgid "Choose property"
+msgstr "Elegir propiedad"
+
+msgid "Choose Role"
+msgstr "Elija rol"
+
+msgid "Choose Table"
+msgstr "Elegir mesa"
+
+msgid "Choose table and persons"
+msgstr "Elige la mesa y las personas"
+
+msgid "Choose Table to enter person"
+msgstr "Elige la mesa para ingresar personas"
+
+msgid "Choose type of code"
+msgstr "Elija el tipo de código"
+
+msgid "Choose Waiters"
+msgstr "Elegir meseros"
+
+msgid "Choose/Search Product"
+msgstr "Elegir/buscar producto"
+
+msgid "Chose Operator"
+msgstr "Elegir operador"
+
+msgid "City"
+msgstr "Ciudad"
+
+msgid "Clear"
+msgstr "Limpiar"
+
+msgid "Clear Cache"
+msgstr "Limpiar caché"
+
+msgid "Clear Cart"
+msgstr "Limpiar carrito"
+
+msgid "Click here"
+msgstr "Haz clic aquí"
+
+msgid "click here"
+msgstr "haga clic aquí"
+
+msgid "Click the box to select or remove %{fileName}."
+msgstr "Haga clic en el cuadro para seleccionar o eliminar %{fileName}."
+
+msgid "Click to change sound settings"
+msgstr "Haga clic para cambiar la configuración de sonido"
+
+msgid "Click to see offline order"
+msgstr "Haga clic para ver el pedido fuera de línea"
+
+msgid "Click to set custom price"
+msgstr "Haga clic para establecer un precio personalizado"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Close & Create New"
+msgstr "Cerrar y crear nueva"
+
+msgid "Close & Logout"
+msgstr "Cerrar y cerrar sesión"
+
+msgid "Close :"
+msgstr "Cerrado :"
+
+msgid "Close Drawer"
+msgstr "Cerrar Cajón"
+
+msgid "Close fullscreen"
+msgstr "Cerrar pantalla completa"
+
+msgid "Closed"
+msgstr "Cerrado"
+
+msgid "Closed By"
+msgstr "Cerrado Por"
+
+msgid "Closing Balance"
+msgstr "Saldo de Cierre"
+
+msgid "Closing Time"
+msgstr "Hora de Cierre"
+
+msgid "Cluster"
+msgstr "Clúster"
+
+msgid "Code Type"
+msgstr "Tipo de Código"
+
+msgid "Code type is required"
+msgstr "Se requiere el tipo de código"
+
+msgid "Color customization"
+msgstr "Personalización de color"
+
+msgid "Completed"
+msgstr "Completado"
+
+msgid "Contact Author"
+msgstr "Contactar al autor"
+
+msgid "Contact Info"
+msgstr "Información de Contacto"
+
+msgid "Contact No"
+msgstr "Número de contacto"
+
+msgid "Contact no already exist."
+msgstr "El número de contacto ya existe."
+
+msgid "Contact Support Team"
+msgstr "Contactar al equipo de soporte"
+
+msgid "Contact:"
+msgstr "Contacto:"
+
+msgid "Container Margin"
+msgstr "Margen del contenedor"
+
+msgid "Container Size"
+msgstr "Tamaño del contenedor"
+
+msgid "Copy from"
+msgstr "Copiar de"
+
+msgid "Copy role"
+msgstr "Copiar rol"
+
+msgid "Copy Role Permission"
+msgstr "Copiar permiso de rol"
+
+msgid "Copy to"
+msgstr "Copiar a"
+
+msgid "Copying role permission"
+msgstr "Copiar permisos de rol"
+
+msgid "Counter"
+msgstr "Mostrador"
+
+msgid "Counter :"
+msgstr "Mostrador:"
+
+msgid "Counter Info"
+msgstr "Información del mostrador"
+
+msgid "Counter Information"
+msgstr "Información del mostrador"
+
+msgid "Counter Name"
+msgstr "Nombre del mostrador"
+
+msgid "Counter No"
+msgstr "Número de mostrador"
+
+msgid "Counter No Label"
+msgstr "Etiqueta N° de mostrador"
+
+msgid "Counter Number"
+msgstr "Número de mostrador"
+
+msgid "Counter Operator Label"
+msgstr "Etiqueta del operador del mostrador"
+
+msgid "Counters"
+msgstr "Mostradores"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Coupon"
+msgstr "Cupón"
+
+msgid "Coupon can be only usable with Vite Coupon Pro and Vitepos Pro."
+msgstr "El cupón solo se puede usar con Vite Coupon Pro y Vitepos Pro."
+
+msgid "Coupon Can not applied on offline mode"
+msgstr "El cupón no se puede aplicar en modo fuera de línea"
+
+msgid "Create"
+msgstr "Crear"
+
+msgid "Create a channel or manage existing channel"
+msgstr "Crea un canal o gestiona un canal existente"
+
+msgid "Create New"
+msgstr "Crear Nuevo"
+
+msgid "Create New Order"
+msgstr "Crear nuevo pedido"
+
+msgid "Create Order"
+msgstr "Crear pedido"
+
+msgid "Create Purchase"
+msgstr "Crear Compra"
+
+msgid "Created Time"
+msgstr "Tiempo de creación"
+
+msgid "Creating Customer"
+msgstr "Creando Cliente"
+
+msgid "Credentials not matched ! !"
+msgstr "¡Credenciales no coinciden!"
+
+msgid "Cross Sells"
+msgstr "Ventas Cruzadas"
+
+msgid "Current"
+msgstr "Actual"
+
+msgid "Current Balance"
+msgstr "Saldo actual"
+
+msgid "Current Cash"
+msgstr "Efectivo actual"
+
+msgid "Current Cash Drawer Information"
+msgstr "Información actual de la caja"
+
+msgid "Current cash drawer order list"
+msgstr "Lista de pedidos de la caja actual"
+
+msgid "Current Cost"
+msgstr "Costo actual"
+
+msgid "Current Outlet:"
+msgstr "Local Actual:"
+
+msgid "Current password"
+msgstr "Contraseña Actual"
+
+msgid "Current purchase cost :"
+msgstr "Costo de compra actual:"
+
+msgid "Current Purchase Price"
+msgstr "Precio de compra actual"
+
+msgid "Current Status"
+msgstr "Estado actual"
+
+msgid "Current Stock"
+msgstr "Stock actual"
+
+msgid "Custom"
+msgstr "Personalizado"
+
+msgid "Custom Barcode"
+msgstr "Código de Barras Personalizado"
+
+msgid "Custom Field"
+msgstr "Campo personalizado"
+
+msgid "custom field"
+msgstr "campo personalizado"
+
+msgid "Custom Field List"
+msgstr "Lista de campos personalizados"
+
+msgid "Custom Field Settings"
+msgstr "Configuración de campos personalizados"
+
+msgid "Custom Fields"
+msgstr "Campos personalizados"
+
+msgid "Custom fields support in pro version only."
+msgstr ""
+"El soporte de campos personalizados solo está disponible en la versión pro."
+
+msgid "Custom Method"
+msgstr "Método personalizado"
+
+msgid "Custom Methods"
+msgstr "Métodos personalizados"
+
+msgid "Custom payment methode support in pro version only."
+msgstr "Soporte para métodos de pago personalizados solo en la versión Pro."
+
+msgid "Custom Price"
+msgstr "Precio Personalizado"
+
+msgid "Custom Size Title"
+msgstr "Título de tamaño personalizado"
+
+msgid "Customer"
+msgstr "Cliente"
+
+msgid "customer"
+msgstr "cliente"
+
+msgid "Customer add not supported in offline"
+msgstr "La adición de clientes no es compatible en modo fuera de línea"
+
+msgid "Customer Address"
+msgstr "Dirección del cliente"
+
+msgid "Customer Custom Fields"
+msgstr "Campos personalizados del cliente"
+
+msgid "Customer display"
+msgstr "Pantalla del cliente"
+
+msgid "Customer display supported in Pro Version"
+msgstr "La pantalla del cliente está disponible en la versión Pro."
+
+msgid "Customer Form Fields"
+msgstr "Campos del formulario del cliente"
+
+msgid "Customer Id"
+msgstr "ID del cliente"
+
+msgid "Customer Id Label"
+msgstr "Etiqueta ID del cliente"
+
+msgid "Customer Info"
+msgstr "Información del cliente"
+
+msgid "Customer info"
+msgstr "Información del cliente"
+
+msgid "Customer Info Label"
+msgstr "Etiqueta Información del cliente"
+
+msgid "Customer List"
+msgstr "Lista de Clientes"
+
+msgid "Customer Loading ..."
+msgstr "Cargando cliente..."
+
+msgid "Customer Name"
+msgstr "Nombre del cliente"
+
+msgid "Customer Phone"
+msgstr "Teléfono del cliente"
+
+msgid "Customer Phone Label"
+msgstr "Etiqueta Teléfono del cliente"
+
+msgid "Customer View"
+msgstr "Vista del Cliente"
+
+msgid "Customers"
+msgstr "Clientes"
+
+msgid "Customization"
+msgstr "Personalización"
+
+msgid "Customization of color support in pro version"
+msgstr "Personalización del color compatible en la versión Pro"
+
+msgid "Customize payment"
+msgstr "Personalizar pago"
+
+msgid "Dashboard"
+msgstr "Panel de control"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Date Between"
+msgstr "Fecha Entre"
+
+msgid "days"
+msgstr "días"
+
+msgid "Deactivate License"
+msgstr "Desactivar licencia"
+
+msgid "Decline"
+msgstr "Rechazar"
+
+msgid "Declined By"
+msgstr "Rechazado por"
+
+msgid "Declined Note"
+msgstr "Nota de rechazo"
+
+msgid "Default"
+msgstr "Predeterminado"
+
+msgid "Default Customer (Optional)"
+msgstr "Cliente predeterminado (opcional)"
+
+msgid "Default value"
+msgstr "Valor predeterminado"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Delete custom page size"
+msgstr "Eliminar tamaño de página personalizado"
+
+msgid "Delete failed"
+msgstr "Error al eliminar"
+
+msgid "Delete failed try again"
+msgstr "Error al eliminar, intenta de nuevo"
+
+msgid ""
+"Delete product requires pro version, Please upgrade to pro version for use "
+"this feature."
+msgstr ""
+"Eliminar el producto requiere la versión pro, por favor actualice a la "
+"versión pro para usar esta función."
+
+msgid "Delete Role"
+msgstr "Eliminar rol"
+
+msgid "Delete Role Details"
+msgstr "Detalles de eliminación de rol"
+
+msgid "Denied"
+msgstr "Denegado"
+
+msgid "Deny"
+msgstr "Rechazar"
+
+msgid "Deny Cancel Request"
+msgstr "Denegar solicitud de cancelación"
+
+msgid "Deny item"
+msgstr "Denegar ítem"
+
+msgid "Deny Message"
+msgstr "Mensaje de denegación"
+
+msgid "Deny Order"
+msgstr "Rechazar pedido"
+
+msgid "Deny order"
+msgstr "Rechazar orden"
+
+msgid "Deny Reason"
+msgstr "Motivo de denegación"
+
+msgid "deny reason"
+msgstr "Motivo de denegación"
+
+msgid "Deny reason is required"
+msgstr "Se requiere un motivo de denegación"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Designation"
+msgstr "Designación"
+
+msgid "Designation:"
+msgstr "Cargo:"
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "Dimension and Tax"
+msgstr "Dimensión e Impuesto"
+
+msgid "Dimension as Parent"
+msgstr "Dimensión como padre"
+
+msgid "Disable"
+msgstr "Deshabilitar"
+
+msgid "Discount"
+msgstr "Descuento"
+
+msgid "Discount "
+msgstr "Descuento"
+
+msgid "Do you want to close cash drawer & logout?"
+msgstr "¿Desea cerrar la caja y cerrar sesión?"
+
+msgid "Do you want to close current cash drawer & create new cash drawer?"
+msgstr "¿Desea cerrar la caja actual y crear una nueva?"
+
+msgid "Done"
+msgstr "Listo"
+
+msgid "Download"
+msgstr "Descargar"
+
+msgid "Download "
+msgstr "Descargar"
+
+msgid "Download PDF"
+msgstr "Descargar PDF"
+
+msgid "Draft"
+msgstr "Borrador"
+
+msgid "Drawer close failed"
+msgstr "Error al cerrar la caja"
+
+msgid "Drawer closed successfully"
+msgstr "Caja cerrada correctamente"
+
+msgid "Drawer list not found"
+msgstr "Lista de cajones no encontrada"
+
+msgid "Drawer Log"
+msgstr "Registro de Cajón"
+
+msgid "Drawer Log Loading ..."
+msgstr "Cargando Registro de Cajón ..."
+
+msgid "drawer logs"
+msgstr "registros de cajón"
+
+msgid "Drawer Opened"
+msgstr "Cajón Abierto"
+
+msgid "Dropdown"
+msgstr "Desplegable"
+
+msgid "E004"
+msgstr "E004"
+
+msgid "Easy product manage (add,update,delete) based on role"
+msgstr ""
+"Gestión de productos fácil (agregar, actualizar, eliminar) en función del rol"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Edit Counter"
+msgstr "Editar mostrador"
+
+msgid "Edit custom page size"
+msgstr "Editar tamaño de página personalizado"
+
+msgid "Edit Customer"
+msgstr "Editar Cliente"
+
+msgid "Edit Deny Reason"
+msgstr "Editar motivo de denegación"
+
+msgid "Edit Message"
+msgstr "Editar mensaje"
+
+msgid "Edit Outlet"
+msgstr "Editar sucursal"
+
+msgid "Edit Product"
+msgstr "Editar Producto"
+
+msgid ""
+"Edit product requires pro version, Please upgrade to pro version for use "
+"this feature."
+msgstr ""
+"Editar el producto requiere la versión pro, por favor actualice a la versión "
+"pro para usar esta función."
+
+msgid "Edit Role"
+msgstr "Editar rol"
+
+msgid "Edit Table"
+msgstr "Editar Mesa"
+
+msgid "Edit User"
+msgstr "Editar Usuario"
+
+msgid "Edit Vendor"
+msgstr "Editar proveedor"
+
+msgid "Email"
+msgstr "Correo electrónico"
+
+msgid "Email already exist"
+msgstr "El correo electrónico ya existe."
+
+msgid "Email already exist."
+msgstr "El correo electrónico ya existe."
+
+msgid "Email:"
+msgstr "Correo Electrónico:"
+
+msgid "Empowering Your WooCommerce Store with Vitepos"
+msgstr "Empoderando tu tienda WooCommerce con Vitepos"
+
+msgid "Empty"
+msgstr "Vacío"
+
+msgid "Empty intend id"
+msgstr "ID de intención vacío"
+
+msgid "Empty order id"
+msgstr "ID de pedido vacío"
+
+msgid "Empty seat:"
+msgstr "Asiento vacío:"
+
+msgid "Enable"
+msgstr "Habilitar"
+
+msgid "Enable %{brand} Payment"
+msgstr "Habilitar el pago %{brand}"
+
+msgid "Enable %{brand} Payment support in pro version only."
+msgstr "Habilitar el soporte de pago de %{brand} solo en la versión pro."
+
+msgid "Enable full stock management"
+msgstr "Habilitar la gestión completa del stock"
+
+msgid "Enable Other Method"
+msgstr "Habilitar otro método"
+
+msgid "Enable reCaptcha V3"
+msgstr "Habilitar reCaptcha V3"
+
+msgid "Enable RTL"
+msgstr "Habilitar RTL"
+
+msgid "Enable Single Cash Drawer"
+msgstr "Habilitar cajón de efectivo único"
+
+msgid "Enable Stripe Payment support in pro version only."
+msgstr "Habilitar el pago con Stripe solo está disponible en la versión pro."
+
+msgid "Enable Stripe Terminal Payment support in pro version only."
+msgstr ""
+"Habilita la compatibilidad con el pago de Stripe Terminal solo en la versión "
+"Pro."
+
+msgid "Enable Swipe Payment"
+msgstr "Habilitar pago con tarjeta"
+
+msgid "Enabling barcode on invoice requires pro version."
+msgstr "Habilitar código de barras en la factura requiere la versión pro."
+
+msgid "Enabling customer custom fields on invoice requires pro version."
+msgstr ""
+"Habilitar los campos personalizados del cliente en la factura requiere la "
+"versión pro."
+
+msgid "Enabling order custom fields on invoice requires pro version."
+msgstr ""
+"Habilitar campos personalizados del pedido en la factura requiere la versión "
+"Pro."
+
+msgid "Enabling the Kitchen Involvement, It does not support offline order."
+msgstr ""
+"Activar la Participación de la Cocina, no admite pedidos fuera de línea."
+
+msgid ""
+"Enabling the toggle button below can incorporate the kitchen procedure, "
+"allowing the order to be completed by the chef rather than by the cashier. "
+"Additionally, the order status can be displayed on a large screen for easy "
+"tracking."
+msgstr ""
+"Habilitar el botón de alternar a continuación puede incorporar el "
+"procedimiento de la cocina, permitiendo que el pedido sea completado por el "
+"chef en lugar del cajero. Además, el estado del pedido se puede mostrar en "
+"una pantalla grande para un fácil seguimiento."
+
+msgid ""
+"Enabling the toggle button, below can incorporate the kitchen procedure, "
+"allowing the order to be completed by the chef rather than by the cashier. "
+"Additionally, the order status can be displayed on a large screen for easy "
+"tracking."
+msgstr ""
+"Activar el botón de alternancia, a continuación, se puede incorporar el "
+"procedimiento de cocina, permitiendo que la orden sea completada por el chef "
+"en lugar del cajero. Además, el estado de la orden se puede mostrar en una "
+"pantalla grande para facilitar el seguimiento."
+
+msgid "Enabling this feature, will enable RTL mode on POS."
+msgstr "Habilitar esta función, activará el modo RTL en el POS."
+
+msgid ""
+"Enabling this feature, will enable single cash drawer by outlet and counter."
+"After enabling this feature you can not create multiple cash drawer on same "
+"outlet with same counter."
+msgstr ""
+"Habilitar esta característica habilitará un cajón de efectivo único por "
+"local y mostrador. Después de habilitar esta característica, no podrá crear "
+"varios cajones de efectivo en el mismo local con el mismo mostrador."
+
+msgid ""
+"Enabling this feature, will enable user to change price of any product while "
+"ordering (on cart)."
+msgstr ""
+"Habilitar esta función, permitirá al usuario cambiar el precio de cualquier "
+"producto al realizar el pedido (en el carrito)."
+
+msgid ""
+"Enabling this feature, will trigger an email to be sent to the customer once "
+"their order is complete."
+msgstr ""
+"Habilitar esta característica, activará un correo electrónico que se enviará "
+"al cliente una vez que su pedido esté completo."
+
+msgid ""
+"Enabling this feature, will trigger an email to be sent to the user who will "
+"completed the order form vitepos."
+msgstr ""
+"Habilitar esta función, activará el envío de un correo electrónico al "
+"usuario que completará el formulario de pedido de vitepos."
+
+msgid ""
+"Enabling this will allow item wise interaction for a single order where the "
+"status of that order items can be change individually"
+msgstr ""
+"Habilitar esto permitirá la interacción por artículo para un solo pedido "
+"donde el estado de los artículos del pedido se puede cambiar individualmente"
+
+msgid "Enter amount"
+msgstr "Ingresar cantidad"
+
+msgid "Enter Barcode/Scan"
+msgstr "Ingresar código de barras/Escanear"
+
+msgid "Enter name"
+msgstr "Ingresar nombre"
+
+msgid "Enter SKU"
+msgstr "Ingresar SKU"
+
+msgid "Enter value"
+msgstr "Ingresar valor"
+
+msgid "Enter/scan coupon code"
+msgstr "Ingrese/escanee el código del cupón"
+
+msgid "Equal to"
+msgstr "Igual a"
+
+msgid "Example `Color`"
+msgstr "Ejemplo `Color`"
+
+msgid "Example Red|Blue|Green "
+msgstr "Ejemplo Rojo|Azul|Verde"
+
+msgid "Failed"
+msgstr "Fallido"
+
+msgid "Failed to reset try again"
+msgstr "Error al restablecer, intenta de nuevo"
+
+msgid "Failed to update"
+msgstr "Error al actualizar"
+
+msgid "Favicon"
+msgstr "Favicon"
+
+msgid "Favorite"
+msgstr "Favorito"
+
+msgid "Feature Image"
+msgstr "Imagen Destacada"
+
+msgid "Fee"
+msgstr "Cargo"
+
+msgid "Field label"
+msgstr "Etiqueta del campo"
+
+msgid "Field Name"
+msgstr "Nombre del campo"
+
+msgid "Fields"
+msgstr "Campos"
+
+msgid "First Name"
+msgstr "Nombre"
+
+msgid ""
+"First, It calculate the subtotal including any discounts and fees, and then "
+"it apply the tax based on the discounted price."
+msgstr ""
+"Primero, calcula el subtotal incluyendo cualquier descuento y tarifa, y "
+"luego aplica el impuesto basado en el precio con descuento."
+
+msgid "Font Size"
+msgstr "Tamaño de fuente"
+
+msgid "Footer"
+msgstr "Pie de página"
+
+msgid "Footer Panel"
+msgstr "Panel de pie de página"
+
+msgid "For add more than two counter it requires pro version."
+msgstr "Para agregar más de dos mostradores, se requiere la versión Pro."
+
+msgid "for more details please visit"
+msgstr "para más detalles, visita"
+
+msgid "For multiple outlet you need to active pro version."
+msgstr "Para tener varios puntos de venta, necesita activar la versión Pro."
+
+msgid "Form Customization"
+msgstr "Personalización de Formulario"
+
+msgid "Form customization support in pro version only."
+msgstr ""
+"La personalización del formulario solo está disponible en la versión pro."
+
+msgid "Form is not valid"
+msgstr "El formulario no es válido"
+
+msgid "From"
+msgstr "Desde"
+
+msgid "From Outlet"
+msgstr "Desde el local"
+
+msgid "From outlet"
+msgstr "Desde el punto de venta"
+
+msgid "From Outlet:"
+msgstr "Desde el punto de venta:"
+
+msgid "Full Refund"
+msgstr "Reembolso completo"
+
+msgid "Full stock management support in pro version only."
+msgstr "La gestión completa del stock solo está disponible en la versión pro."
+
+msgid "Full Withdraw"
+msgstr "Retiro Completo"
+
+msgid "Full-screen/Normal-screen"
+msgstr "Pantalla completa/Pantalla normal"
+
+msgid "Generate Barcodes"
+msgstr "Generar códigos de barras"
+
+msgid "Generated by"
+msgstr "Generado por"
+
+msgid "Get Pro"
+msgstr "Obtener Pro"
+
+msgid "Get pro"
+msgstr "Obtener Pro"
+
+msgid "Getting user list"
+msgstr "Obteniendo lista de usuarios"
+
+msgid "Given Amount"
+msgstr "Cantidad entregada"
+
+msgid "Go Back"
+msgstr "Volver"
+
+msgid "Go pro"
+msgstr "Hágase Pro"
+
+msgid "Go to Pos"
+msgstr "Ir a POS"
+
+msgid "Go To Purchase"
+msgstr "Ir a la compra"
+
+msgid "Go With Current Balance"
+msgstr "Ir con el saldo actual"
+
+msgid "Go With Current Drawer"
+msgstr "Ir con el Cajón Actual"
+
+msgid "Grand Total"
+msgstr "Total General"
+
+msgid "Grand-total :"
+msgstr "Total general :"
+
+msgid "Grocery"
+msgstr "Supermercado"
+
+msgid "Grocery mode"
+msgstr "Modo de supermercado"
+
+msgid "Half Field"
+msgstr "Campo de medio ancho"
+
+msgid "have two sides. One admin panel and another is client panel."
+msgstr ""
+"tiene dos lados. Un panel de administración y otro es el panel de clientes."
+
+msgid "Header"
+msgstr "Encabezado"
+
+msgid "Header Panel"
+msgstr "Panel de encabezado"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Hello,"
+msgstr "Hola,"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Help and info"
+msgstr "Ayuda e información"
+
+msgid "Help text"
+msgstr "Texto de ayuda"
+
+msgid "Hide"
+msgstr "Ocultar"
+
+msgid "Hide on POS.Click to show"
+msgstr "Ocultar en el Punto de Venta. Haga clic para mostrar"
+
+msgid "Hold"
+msgstr "Mantener"
+
+msgid "Hold cart"
+msgstr "Retener carrito"
+
+msgid "Hold cart applicable in pro version"
+msgstr "Carritos de espera aplicables en la versión Pro"
+
+msgid ""
+"Hold cart requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr ""
+"Mantener el carrito requiere la versión pro, actualiza a la versión pro para "
+"usar esta función."
+
+msgid "Hold Cart Supported In Pro Version"
+msgstr "La retención del carrito es compatible en la versión Pro"
+
+msgid "hold items"
+msgstr "mantener artículos"
+
+msgid "Hold List"
+msgstr "Lista de Espera"
+
+msgid "Hold no : %{holdNo}"
+msgstr "No se puede retener: %{holdNo}"
+
+msgid "Hold Sale"
+msgstr "Venta en Espera"
+
+msgid "Home"
+msgstr "Inicio"
+
+msgid ""
+"I agree to delete the %{rolename} and move all users of %{rolename} to the "
+"selected role"
+msgstr ""
+"Acepto eliminar %{rolename} y mover todos los usuarios de %{rolename} al rol "
+"seleccionado"
+
+msgid "Icons"
+msgstr "Iconos"
+
+msgid ""
+"If you have previously used an older version or if you have not enabled the "
+"stockable feature before, you may need to transfer your online inventory to "
+"your linked outlet to %{outletname}"
+msgstr ""
+"Si anteriormente ha utilizado una versión anterior o si no ha habilitado la "
+"función de stock antes, es posible que deba transferir su inventario en "
+"línea a su punto de venta vinculado a %{outletname}"
+
+msgid ""
+"If you want to transfer your current online stock to %{outletname} then "
+"click the button below"
+msgstr ""
+"Si desea transferir su stock actual en línea a %{outletname}, haga clic en "
+"el botón a continuación"
+
+msgid "Ignore"
+msgstr "Ignorar"
+
+msgid "Ignore Update"
+msgstr "Ignorar actualización"
+
+msgid ""
+"Ignore update requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr ""
+"Ignorar la actualización requiere la versión pro, por favor actualice a la "
+"versión pro para usar esta función."
+
+msgid "Image"
+msgstr "Imagen"
+
+msgid ""
+"In case of any problem, get in touch with the Vitepos team. We always "
+"support our clients until their satisfaction comes. And that is our "
+"responsibility and duty."
+msgstr ""
+"En caso de cualquier problema, póngase en contacto con el equipo de Vitepos. "
+"Siempre apoyamos a nuestros clientes hasta que estén satisfechos. Y esa es "
+"nuestra responsabilidad y deber."
+
+msgid "In Dine"
+msgstr "En el local"
+
+msgid "In Kitchen"
+msgstr "En la cocina"
+
+msgid ""
+"In the traditional procedure, a waiter takes the customers order and sends "
+"it to the kitchen. Once the kitchen has prepared the order, the waiter is "
+"notified to serve it. After the order has been served, the cashier can "
+"process the payment."
+msgstr ""
+"En el procedimiento tradicional, un mesero toma el pedido del cliente y lo "
+"envía a la cocina. Una vez que la cocina ha preparado el pedido, se le "
+"notifica al mesero para que lo sirva. Después de que el pedido ha sido "
+"servido, el cajero puede procesar el pago."
+
+msgid "In-stock"
+msgstr "En stock"
+
+msgid "Inactive"
+msgstr "Inactivo"
+
+msgid "Input is empty"
+msgstr "La entrada está vacía"
+
+msgid "Input Name"
+msgstr "Nombre de la entrada"
+
+msgid "Install"
+msgstr "Instalar"
+
+msgid "Invalid login information"
+msgstr "Información de inicio de sesión inválida"
+
+msgid "Invalid param"
+msgstr "Parámetro inválido"
+
+msgid "Invalid Request"
+msgstr "Solicitud inválida"
+
+msgid "Invalid request"
+msgstr "Solicitud inválida"
+
+msgid "Invalid request!!"
+msgstr "¡Solicitud inválida!"
+
+msgid "Invalid request3"
+msgstr "Solicitud inválida 3"
+
+msgid "invalid requiest"
+msgstr "solicitud inválida"
+
+msgid "Invoice"
+msgstr "Factura"
+
+msgid "Invoice Print Settings"
+msgstr "Configuración de Impresión de Factura"
+
+msgid "Is Calculable"
+msgstr "¿Es calculable?"
+
+msgid "Is Mergeable?"
+msgstr "¿Es fusionable?"
+
+msgid "Is Required"
+msgstr "¿Es requerido?"
+
+msgid "Is Required?"
+msgstr "¿Es requerido?"
+
+msgid "Is Selected?"
+msgstr "¿Está seleccionado?"
+
+msgid "Is Separate Tax?"
+msgstr "¿Es un Impuesto Separado?"
+
+msgid "Is Show In Receipt"
+msgstr "¿Mostrar en el recibo?"
+
+msgid "It is custom barcode data of woocommerce for vitepos"
+msgstr ""
+"Son datos de código de barras personalizados de WooCommerce para VitePOS"
+
+msgid "It requires woocommerce, please install woocommerce first"
+msgstr "Se requiere WooCommerce, por favor instale WooCommerce primero"
+
+msgid ""
+"It will allow you to take payment using %{brand} Payment gateway, make sure "
+"you have added %{brand} api info in %{brand} settings tab."
+msgstr ""
+"Le permitirá aceptar pagos mediante la pasarela de pago %{brand}, asegúrese "
+"de haber agregado la información de la API %{brand} en la pestaña de "
+"configuración %{brand}."
+
+msgid "It will allows to take payment using others method."
+msgstr "Permitirá tomar pagos utilizando otros métodos."
+
+msgid "It will allows to take payment using swipe machine."
+msgstr "Permitirá tomar pagos utilizando una máquina de tarjeta."
+
+msgid "It will protect order if there is not stock of the item"
+msgstr "Protegerá el pedido si no hay stock del artículo"
+
+msgid "Item"
+msgstr "Artículo"
+
+msgid "Item denied from kitchen"
+msgstr "El ítem fue denegado desde la cocina"
+
+msgid "Item Details"
+msgstr "Detalles del artículo"
+
+msgid "Item has been cancelled"
+msgstr "El ítem ha sido cancelado"
+
+msgid "Item is ready"
+msgstr "El ítem está listo"
+
+msgid "Item is ready to serve"
+msgstr "El ítem está listo para servir"
+
+msgid "Item Name"
+msgstr "Nombre del Artículo"
+
+msgid "Item no"
+msgstr "Número de artículo"
+
+msgid "Item started successfully"
+msgstr "El ítem se inició correctamente"
+
+msgid "Item wise interaction"
+msgstr "Interacción por artículo"
+
+msgid "Items empty"
+msgstr "Artículos vacíos"
+
+msgid "Items Price"
+msgstr "Precio de los artículos"
+
+msgid "Keep blank for auto height"
+msgstr "Deje en blanco para la altura automática"
+
+msgid "Keep blank to use default WordPress login."
+msgstr ""
+"Deje en blanco para utilizar el inicio de sesión predeterminado de WordPress."
+
+msgid ""
+"Keep in mind that this procedure will reset the stock of the WooCommerce "
+"product to zero."
+msgstr ""
+"Tenga en cuenta que este procedimiento restablecerá el stock del producto "
+"WooCommerce a cero."
+
+msgid "Key"
+msgstr "Clave"
+
+msgid "Kitchen"
+msgstr "Cocina"
+
+msgid "Kitchen Involvement"
+msgstr "Participación de la Cocina"
+
+msgid "Kitchen Involvement support in pro version only."
+msgstr ""
+"El soporte de participación de la cocina solo está disponible en la versión "
+"pro."
+
+msgid "Kitchen Panel"
+msgstr "Panel de Cocina"
+
+msgid "Kitchen panel"
+msgstr "Panel de la cocina"
+
+msgid "Label"
+msgstr "Etiqueta"
+
+msgid "Large Screen"
+msgstr "Pantalla grande"
+
+msgid "Last 4 Digit:"
+msgstr "Últimos 4 dígitos:"
+
+msgid "Last 5 Purchase History"
+msgstr "Historial de las últimas 5 compras"
+
+msgid "Last 7 days cash drawer logs"
+msgstr "Registros de cajón de los últimos 7 días"
+
+msgid "Last Four Digit of card"
+msgstr "Últimos cuatro dígitos de la tarjeta"
+
+msgid "Last Name"
+msgstr "Apellido"
+
+msgid "Last sync :"
+msgstr "Última sincronización:"
+
+msgid "Left,Right"
+msgstr "Izquierda, Derecha"
+
+msgid "Length"
+msgstr "Largo"
+
+msgid "License Expired on"
+msgstr "Licencia caduca el"
+
+msgid "License Info"
+msgstr "Información de licencia"
+
+msgid "License Status"
+msgstr "Estado de la licencia"
+
+msgid "License Type"
+msgstr "Tipo de licencia"
+
+msgid "Loaded"
+msgstr "Cargado"
+
+msgid "Loading"
+msgstr "Cargando"
+
+msgid "Loading ..."
+msgstr "Cargando..."
+
+msgid "Loading Addon Details..."
+msgstr "Cargando detalles de complementos..."
+
+msgid "Loading cash drawer details..."
+msgstr "Cargando detalles de la caja registradora..."
+
+msgid "Loading Custom Field Details"
+msgstr "Cargando detalles del campo personalizado"
+
+msgid "Loading Custom Fields"
+msgstr "Cargando Campos Personalizados"
+
+msgid "Loading Custom Fields..."
+msgstr "Cargando campos personalizados..."
+
+msgid "Loading Customer Details..."
+msgstr "Cargando detalles del cliente..."
+
+msgid "Loading Data"
+msgstr "Cargando datos"
+
+msgid "Loading Deny Reasons..."
+msgstr "Cargando Razones de Denegación..."
+
+msgid "Loading From"
+msgstr "Cargando desde"
+
+msgid "Loading Message Details..."
+msgstr "Cargando detalles del mensaje..."
+
+msgid "Loading Messages"
+msgstr "Cargando Mensajes"
+
+msgid "Loading Messages..."
+msgstr "Cargando mensajes..."
+
+msgid "Loading order details..."
+msgstr "Cargando detalles de la orden..."
+
+msgid "Loading orders..."
+msgstr "Cargando órdenes..."
+
+msgid "Loading Outlet"
+msgstr "Cargando punto de venta"
+
+msgid "Loading Outlet Details"
+msgstr "Cargando Detalles del Punto de Venta"
+
+msgid "Loading Product Details..."
+msgstr "Cargando detalles del producto..."
+
+msgid "Loading Purchase Details..."
+msgstr "Cargando detalles de la compra..."
+
+msgid "Loading Role Access"
+msgstr "Cargando acceso al rol"
+
+msgid "Loading Roles"
+msgstr "Cargando roles"
+
+msgid "Loading Settings"
+msgstr "Cargando configuración"
+
+msgid "Loading Stock Logs..."
+msgstr "Cargando registros de stock..."
+
+msgid "Loading Table Details..."
+msgstr "Cargando Detalles de Mesa..."
+
+msgid "Loading Transfer Details..."
+msgstr "Cargando detalles de transferencia..."
+
+msgid "Loading User Details..."
+msgstr "Cargando detalles del usuario..."
+
+msgid "Loading Vendor Details..."
+msgstr "Cargando detalles del proveedor..."
+
+msgid "Loading.."
+msgstr "Cargando..."
+
+msgid "Loading..."
+msgstr "Cargando..."
+
+msgid "Lock"
+msgstr "Bloquear"
+
+msgid "Lock Screen"
+msgstr "Pantalla de bloqueo"
+
+msgid "Log"
+msgstr "Registro"
+
+msgid "Login to pusher.com"
+msgstr "Inicia sesión en pusher.com"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+msgid "Main Branch"
+msgstr "Sucursal principal"
+
+msgid "Make Active"
+msgstr "Activar"
+
+msgid "Make Completed"
+msgstr "Marcar como Completado"
+
+msgid "Make favorite"
+msgstr "Marcar como favorito"
+
+msgid "Make Inactive"
+msgstr "Desactivar"
+
+msgid "Make Main"
+msgstr "Convertir en principal"
+
+msgid "Make Serve"
+msgstr "Preparar para servir"
+
+msgid ""
+"Making favorite product requires pro version, Please upgrade to pro version "
+"for use this feature."
+msgstr ""
+"Crear productos favoritos requiere la versión Pro. Por favor, actualice a la "
+"versión Pro para usar esta función."
+
+msgid "Manage Barcode"
+msgstr "Administrar código de barras"
+
+msgid "Manage Customer"
+msgstr "Administrar Cliente"
+
+msgid "Manage Drawer Log"
+msgstr "Administrar registro de cajón"
+
+msgid "Manage Orders"
+msgstr "Administrar Pedidos"
+
+msgid "Manage Product"
+msgstr "Administrar Producto"
+
+msgid "Manage Profile"
+msgstr "Administrar Perfil"
+
+msgid "Manage Purchases"
+msgstr "Gestionar Compras"
+
+msgid "Manage Stock"
+msgstr "Administrar Stock"
+
+msgid "Manage User"
+msgstr "Administrar Usuario"
+
+msgid "Manage Vendor"
+msgstr "Gestionar Proveedor"
+
+msgid "Margin Left"
+msgstr "Margen izquierdo"
+
+msgid "Margin Right"
+msgstr "Margen derecho"
+
+msgid "Max"
+msgstr "Máx"
+
+msgid "Max Discount"
+msgstr "Descuento máximo"
+
+msgid "Max Limit"
+msgstr "Límite máximo"
+
+msgid "Menu"
+msgstr "Menú"
+
+msgid "Message"
+msgstr "Mensaje"
+
+msgid "Message Type"
+msgstr "Tipo de mensaje"
+
+msgid "Messages"
+msgstr "Mensajes"
+
+msgid "Method Name"
+msgstr "Nombre del método"
+
+msgid "Min"
+msgstr "Mín"
+
+msgid "Missing dependency"
+msgstr "Falta dependencia"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Mobile"
+msgstr "Móvil"
+
+msgid "Mobile Screen"
+msgstr "Pantalla móvil"
+
+msgid "Module"
+msgstr "Módulo"
+
+msgid "More Details"
+msgstr "Más detalles"
+
+msgid "Move to Role "
+msgstr "Pasar a rol"
+
+msgid "Move to role does not exists"
+msgstr "El rol de destino no existe"
+
+msgid "Mute"
+msgstr "Silenciar"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Name :"
+msgstr "Nombre :"
+
+msgid "Need to close cash drawer to change outlet. Do you want to close now?"
+msgstr ""
+"Es necesario cerrar la caja para cambiar de local. ¿Desea cerrarla ahora?"
+
+msgid "Net Unit Cost"
+msgstr "Costo Unitario Neto"
+
+msgid "new"
+msgstr "nuevo"
+
+msgid "New Drawer"
+msgstr "Nuevo Cajón"
+
+msgid "New Field"
+msgstr "Nuevo campo"
+
+msgid "New Order"
+msgstr "Nuevo pedido"
+
+msgid "New password"
+msgstr "Nueva Contraseña"
+
+msgid "New Product Badge Duration"
+msgstr "Duración de la insignia de nuevo producto"
+
+msgid "New sale"
+msgstr "Nueva venta"
+
+msgid "No"
+msgstr "No"
+
+msgid "No %{type} found"
+msgstr "No se encontró %{type}"
+
+msgid "No action initialize"
+msgstr "No se inicializó ninguna acción"
+
+msgid "No active orders found"
+msgstr "No se encontraron pedidos activos"
+
+msgid "No address found"
+msgstr "No se encontró dirección"
+
+msgid "No barcode found for this product"
+msgstr "No se encontró código de barras para este producto"
+
+msgid "No cancelled order found"
+msgstr "No se encontró ningún pedido cancelado"
+
+msgid "No cash drawer info found"
+msgstr "No se encontró información sobre la caja"
+
+msgid "No cash drawer information found"
+msgstr "No se encontró información de la caja"
+
+msgid "No change for update"
+msgstr "Sin cambios para actualizar"
+
+msgid "No counter found with these ids"
+msgstr "No se encontró ningún mostrador con estos IDs"
+
+msgid "No custom field found with these ids"
+msgstr "No se encontró ningún campo personalizado con estos IDs"
+
+msgid "No Customer found"
+msgstr "No se encontró ningún cliente"
+
+msgid "No customer found"
+msgstr "No se encontró ningún cliente"
+
+msgid "No customer found to add"
+msgstr "No se encontró ningún cliente para agregar"
+
+msgid "No data found with request param"
+msgstr "No se encontraron datos con el parámetro de solicitud"
+
+msgid "No designation found"
+msgstr "Designación no encontrada"
+
+msgid "No expiry"
+msgstr "Sin caducidad"
+
+msgid "No fields Added"
+msgstr "No se agregaron campos"
+
+msgid "No history found"
+msgstr "No se encontró historial"
+
+msgid "No item found"
+msgstr "No se encontró ningún artículo"
+
+msgid "No item found for this category or search"
+msgstr "No se encontraron artículos para esta categoría o búsqueda"
+
+msgid "No logged in user"
+msgstr "No hay usuario conectado"
+
+msgid "No logs found for this product"
+msgstr "No se encontraron registros para este producto"
+
+msgid "No message found"
+msgstr "No se encontró ningún mensaje"
+
+msgid "No name found"
+msgstr "Nombre no encontrado"
+
+msgid "No number found"
+msgstr "Número no encontrado"
+
+msgid "No Offline order for restaurent"
+msgstr "No hay pedidos sin conexión para el restaurante"
+
+msgid "No offline outlet and counter found"
+msgstr "No se encontró ninguna sucursal ni mostrador fuera de línea"
+
+msgid "No option added"
+msgstr "No se ha agregado ninguna opción"
+
+msgid "No order found"
+msgstr "No se encontró ninguna orden"
+
+msgid "No outlet found"
+msgstr "No se encontró ningún punto de venta"
+
+msgid "No Outlet found with these ids"
+msgstr "No se encontró ningún punto de venta con estos IDs"
+
+msgid "No outlet found:"
+msgstr "No se encontró ningún punto de venta:"
+
+msgid "No permission to add discount"
+msgstr "No tiene permiso para agregar descuento"
+
+msgid "No record found"
+msgstr "No se encontraron registros"
+
+msgid "No role data found"
+msgstr "No se encontraron datos de rol"
+
+msgid "No role found with this request param"
+msgstr "No se encontró ningún rol con este parámetro de solicitud"
+
+msgid "No Rules Added"
+msgstr "No se agregaron reglas"
+
+msgid "No Rules Group Added"
+msgstr "No se agregaron grupos de reglas"
+
+msgid "No short messages found"
+msgstr "No se encontraron mensajes cortos"
+
+msgid "No table found please add some table"
+msgstr "No se encontró ninguna tabla, agregue alguna tabla"
+
+msgid "No Table found please add table first"
+msgstr "No se encontró ninguna mesa, agregue una mesa primero"
+
+msgid "No transfer %{type} found"
+msgstr "No se encontró ninguna transferencia %{type}"
+
+msgid "No Variants Selected"
+msgstr "No hay variantes seleccionadas"
+
+msgid "No variations"
+msgstr "No hay variaciones"
+
+msgid "No vendor found with this param"
+msgstr "No se encontró ningún proveedor con este parámetro"
+
+msgid "Non editable role"
+msgstr "Rol no editable"
+
+msgid "Nonce error"
+msgstr "Error de Nonce"
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "Not equal to"
+msgstr "Diferente de"
+
+msgid "Not Received yet"
+msgstr "Aún no recibido"
+
+msgid "Not saved yet"
+msgstr "Aún no guardado"
+
+msgid "Not updated"
+msgstr "No actualizado"
+
+msgid "Note"
+msgstr "Nota"
+
+msgid "Note :"
+msgstr "Nota:"
+
+msgid "NOTE : Regular price is less than purchase price"
+msgstr "NOTA: El precio regular es menor que el precio de compra"
+
+msgid "Note:"
+msgstr "Nota:"
+
+msgid "Notes"
+msgstr "Notas"
+
+msgid "Notification details"
+msgstr "Detalles de notificación"
+
+msgid ""
+"Now each outlet will have its own separate stock in Vitepos. For online "
+"sales on your website, the system will use the default stock from "
+"WooCommerce. To manage online sales stock, simply add stock from the "
+"WooCommerce admin panel. Vitepos purchase or add stock will not work for "
+"online stock."
+msgstr ""
+"Ahora cada local tendrá su propio stock separado en Vitepos. Para las ventas "
+"en línea en su sitio web, el sistema utilizará el stock predeterminado de "
+"WooCommerce. Para administrar el stock de ventas en línea, simplemente "
+"agregue stock desde el panel de administración de WooCommerce. La compra o "
+"adición de stock de Vitepos no funcionará para el stock en línea."
+
+msgid "Number"
+msgstr "Número"
+
+msgid "Number of barcode in a page"
+msgstr "Número de códigos de barras en una página"
+
+msgid "Number of person"
+msgstr "Número de personas"
+
+msgid "Offline"
+msgstr "Sin conexión"
+
+msgid "Offline feature support in pro version only."
+msgstr "La función sin conexión solo está disponible en la versión Pro."
+
+msgid "Offline Order"
+msgstr "Pedido sin conexión"
+
+msgid "Offline Sale"
+msgstr "Venta Offline"
+
+msgid "Offline sale allowed in pro version"
+msgstr "Venta sin conexión permitida en la versión Pro"
+
+msgid ""
+"Offline sale requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr ""
+"La venta fuera de línea requiere la versión pro, actualiza a la versión pro "
+"para usar esta función."
+
+msgid "On going"
+msgstr "En curso"
+
+msgid "On hold"
+msgstr "En espera"
+
+msgid "On POS"
+msgstr "En el Punto de Venta"
+
+msgid ""
+"On the other hand, on the client side, you can set the outlet agents you "
+"want, according to their role."
+msgstr ""
+"Por otro lado, en el lado del cliente, puedes configurar los agentes del "
+"punto de venta que desees, de acuerdo con su rol."
+
+msgid "Once Weekly"
+msgstr "Una vez por semana"
+
+msgid "Online"
+msgstr "En línea"
+
+msgid "Online and Offline sale"
+msgstr "Venta en línea y fuera de línea"
+
+msgid ""
+"Online sale requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr ""
+"La venta en línea requiere la versión pro, actualiza a la versión pro para "
+"usar esta función."
+
+msgid "Online stock link with outlet"
+msgstr "Enlace de stock en línea con el local"
+
+msgid "Online Stock Outlet"
+msgstr "Local de Stock en Línea"
+
+msgid "Oops !! "
+msgstr "Ups !!"
+
+msgid "Open"
+msgstr "Abierto"
+
+msgid "Open :"
+msgstr "Abierto :"
+
+msgid "Open fullscreen"
+msgstr "Abrir pantalla completa"
+
+msgid "Opened By"
+msgstr "Abierto Por"
+
+msgid "Opening - Closing"
+msgstr "Apertura - Cierre"
+
+msgid "Opening Balance"
+msgstr "Saldo de Apertura"
+
+msgid "Opening Cash"
+msgstr "Apertura de caja"
+
+msgid "Opening Date"
+msgstr "Fecha de Apertura"
+
+msgid "Opening time"
+msgstr "Hora de Apertura"
+
+msgid "Operate By"
+msgstr "Operado Por"
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "OR"
+msgstr "O"
+
+msgid "Order"
+msgstr "Pedido"
+
+msgid "Order # %{ordNumber}"
+msgstr "Pedido n.° %{ordNumber}"
+
+msgid "Order already in completed status, it is not cancelable"
+msgstr "El pedido ya está en estado completado, no se puede cancelar"
+
+msgid "Order cancellation is not possible"
+msgstr "La cancelación del pedido no es posible"
+
+msgid "Order Custom Fields"
+msgstr "Campos personalizados del pedido"
+
+msgid "Order Details"
+msgstr "Detalles del pedido"
+
+msgid "Order Details Loading..."
+msgstr "Cargando detalles del pedido..."
+
+msgid "Order Has been refunded successfully"
+msgstr "La orden ha sido reembolsada exitosamente"
+
+msgid "Order Info"
+msgstr "Información del Pedido"
+
+msgid "Order info"
+msgstr "Información del pedido"
+
+msgid "Order is cancelled"
+msgstr "La orden fue cancelada"
+
+msgid "Order is loading..."
+msgstr "Cargando pedido..."
+
+msgid "Order List Loading ..."
+msgstr "Cargando lista de pedidos..."
+
+msgid "Order No"
+msgstr "N° de pedido"
+
+msgid "Order no label"
+msgstr "Etiqueta N° de pedido"
+
+msgid "Order No:"
+msgstr "Número de pedido:"
+
+msgid "Order not found"
+msgstr "Pedido no encontrado"
+
+msgid "Order Note"
+msgstr "Nota de la orden"
+
+msgid "Order Refund(Full/Partial)"
+msgstr "Reembolso de pedido (completo/parcial)"
+
+msgid "Order requires payment process"
+msgstr "El pedido requiere un proceso de pago"
+
+msgid "Order Status :"
+msgstr "Estado del Pedido :"
+
+msgid "Order successfully completed"
+msgstr "Pedido completado exitosamente"
+
+msgid "Order successfully sent to kitchen"
+msgstr "Pedido enviado exitosamente a la cocina"
+
+msgid "Order Tax"
+msgstr "Impuesto del Pedido"
+
+msgid "Order Time"
+msgstr "Hora del pedido"
+
+msgid "Order Total"
+msgstr "Total del pedido"
+
+msgid "Order Type"
+msgstr "Tipo de orden"
+
+msgid "Orders"
+msgstr "Pedidos"
+
+msgid "Orders Details"
+msgstr "Detalles de los pedidos"
+
+msgid "Orders Item*"
+msgstr "Artículo de Pedido*"
+
+msgid "Other"
+msgstr "Otro"
+
+msgid "Others"
+msgstr "Otros"
+
+msgid "others"
+msgstr "otros"
+
+msgid "Out of Stock"
+msgstr "Sin stock"
+
+msgid "Out of stock"
+msgstr "Fuera de stock"
+
+msgid "Outlet"
+msgstr "Punto de venta"
+
+msgid "outlet"
+msgstr "punto de venta"
+
+msgid "Outlet - Counter"
+msgstr "Punto de Venta - Mostrador"
+
+msgid "Outlet :"
+msgstr "Local:"
+
+msgid "Outlet Address"
+msgstr "Dirección del punto de venta"
+
+msgid "Outlet Details"
+msgstr "Detalles de la sucursal"
+
+msgid "Outlet Email"
+msgstr "Correo electrónico del punto de venta"
+
+msgid "Outlet Info"
+msgstr "Información del punto de venta"
+
+msgid "Outlet Information"
+msgstr "Información del local"
+
+msgid "Outlet Manager"
+msgstr "Gerente de punto de venta"
+
+msgid "Outlet Name"
+msgstr "Nombre de la sucursal"
+
+msgid "Outlet Phone"
+msgstr "Teléfono del punto de venta"
+
+msgid "Outlet User List"
+msgstr "Lista de usuarios del punto de venta"
+
+msgid "Outlet wise stock (Multi stocks)"
+msgstr "Stock por local (Stocks múltiples)"
+
+msgid "Outlet:"
+msgstr "Punto de venta:"
+
+msgid "Page"
+msgstr "Página"
+
+msgid "Page break counter"
+msgstr "Contador de saltos de página"
+
+msgid "Page Height"
+msgstr "Altura de la página"
+
+msgid "Page Padding"
+msgstr "Relleno de página"
+
+msgid "Page Settings"
+msgstr "Configuración de la página"
+
+msgid "Page Width"
+msgstr "Ancho de la página"
+
+msgid "Paid"
+msgstr "Pagado"
+
+msgid "Paid amount must be greater or equal to grand total amount"
+msgstr "El monto pagado debe ser mayor o igual al monto total"
+
+msgid "Paper Size"
+msgstr "Tamaño del papel"
+
+msgid "Parcel"
+msgstr "Paquete"
+
+msgid "Parcel mode is chosen"
+msgstr "Se ha elegido el modo de paquete"
+
+msgid "Partial"
+msgstr "Parcial"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Password can not be set as empty"
+msgstr "La contraseña no puede estar vacía"
+
+msgid "Password changed successfully."
+msgstr "Contraseña cambiada exitosamente."
+
+msgid "Pay"
+msgstr "Pagar"
+
+msgid "Pay First"
+msgstr "Pagar primero"
+
+msgid ""
+"Pay first procedure, customers are required to pay for their meal upfront at "
+"a designated location, typically at the cashiers counter, before they are "
+"seated or served. After paying, the customer is given a receipt or a token, "
+"which they can then present to the server to receive their food."
+msgstr ""
+"Procedimiento de pago primero, se requiere que los clientes paguen su comida "
+"por adelantado en un lugar designado, normalmente en el mostrador del cajero,"
+" antes de ser sentados o atendidos. Después de pagar, el cliente recibe un "
+"recibo o un token, que puede presentar al mesero para recibir su comida."
+
+msgid "Pay Now"
+msgstr "Pagar Ahora"
+
+msgid "Payment"
+msgstr "Pago"
+
+msgid "Payment Amount"
+msgstr "Monto del pago"
+
+msgid "Payment and Tax"
+msgstr "Pago e Impuesto"
+
+msgid "Payment data missing"
+msgstr "Faltan datos de pago"
+
+msgid "Payment Method"
+msgstr "Método de pago"
+
+msgid "Payment Note"
+msgstr "Nota de pago"
+
+msgid "Payment processing ..."
+msgstr "Procesando pago..."
+
+msgid "Payment Settings"
+msgstr "Configuración de pagos"
+
+msgid "Payment Status:"
+msgstr "Estado de Pago:"
+
+msgid "Pending"
+msgstr "Pendiente"
+
+msgid "Pending payment"
+msgstr "Pago pendiente"
+
+msgid "Personal Information"
+msgstr "Información personal"
+
+msgid "Phone"
+msgstr "Teléfono"
+
+msgid "Place to show"
+msgstr "Lugar para mostrar"
+
+msgid "Placeholder"
+msgstr "Marca de posición"
+
+msgid "Please add a width for paper size"
+msgstr "Por favor, agregue un ancho para el tamaño del papel"
+
+msgid "Please add items to add coupons"
+msgstr "Por favor, agregue artículos para agregar cupones"
+
+msgid "Please login again,no user found logged in."
+msgstr ""
+"Por favor, inicia sesión nuevamente, no se encontró ningún usuario conectado."
+
+msgid "Please return amount"
+msgstr "Por favor, devuelva el monto"
+
+msgid "Please wait .."
+msgstr "Por favor espere..."
+
+msgid "Plugin Activated"
+msgstr "Plugin Activado"
+
+msgid "Plugin installation failed!"
+msgstr "¡Error en la instalación del plugin!"
+
+msgid "Plugin installed and activated successfully!"
+msgstr "¡Plugin instalado y activado correctamente!"
+
+msgid "Plugin not found"
+msgstr "Plugin no encontrado"
+
+msgid "POS"
+msgstr "Punto de Venta"
+
+msgid "POS Color"
+msgstr "Color del POS"
+
+msgid "POS Link"
+msgstr "Enlace del POS"
+
+msgid "POS Link Type"
+msgstr "Tipo de enlace del POS"
+
+msgid "POS Link:"
+msgstr "Enlace POS:"
+
+msgid "POS Login Type"
+msgstr "Tipo de inicio de sesión del POS"
+
+msgid "POS Logo"
+msgstr "Logo del POS"
+
+msgid "Pos Menu"
+msgstr "Menú POS"
+
+msgid "POS Mode"
+msgstr "Modo POS"
+
+msgid "POS Page"
+msgstr "Página del POS"
+
+msgid "POS Products Per Row"
+msgstr "Productos de punto de venta por fila"
+
+msgid "Post Code"
+msgstr "Código Postal"
+
+msgid "Premium Support"
+msgstr "Soporte Premium"
+
+msgid "Preparing"
+msgstr "Preparando"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Previous Balance"
+msgstr "Saldo anterior"
+
+msgid "Previous Balance :"
+msgstr "Saldo Anterior :"
+
+msgid "Previous Cost"
+msgstr "Costo anterior"
+
+msgid "Previous purchase cost :"
+msgstr "Costo de compra anterior:"
+
+msgid "Previous Purchase Price"
+msgstr "Precio de compra anterior"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Price :"
+msgstr "Precio :"
+
+msgid "Price Customization"
+msgstr "Personalización de precios"
+
+msgid "Price customization on cart only support in pro version."
+msgstr ""
+"La personalización de precios en el carrito solo está disponible en la "
+"versión pro."
+
+msgid "Price Update"
+msgstr "Actualización de precios"
+
+msgid "Price Update list"
+msgstr "Lista de actualización de precios"
+
+msgid "price updated product"
+msgstr "Producto con precio actualizado"
+
+msgid "Price will be "
+msgstr "El precio será"
+
+msgid "Print"
+msgstr "Imprimir"
+
+msgid "Print Order"
+msgstr "Imprimir orden"
+
+msgid "Print Receipt"
+msgstr "Imprimir recibo"
+
+msgid "Print Settings"
+msgstr "Configuración de impresión"
+
+msgid "Private"
+msgstr "Privado"
+
+msgid "Pro"
+msgstr "Pro"
+
+msgid "Pro version required"
+msgstr "Se requiere la versión Pro"
+
+msgid "Pro Version Required for this feature"
+msgstr "Se requiere la versión Pro para esta función"
+
+msgid "Processed By"
+msgstr "Procesado por"
+
+msgid "Processing"
+msgstr "Procesando"
+
+msgid "Product"
+msgstr "Producto"
+
+msgid "Product Details"
+msgstr "Detalles del Producto"
+
+msgid ""
+"Product hide on POS requires pro version, Please upgrade to pro version for "
+"use this feature."
+msgstr ""
+"Ocultar el producto en el POS requiere la versión pro, actualice a la "
+"versión pro para usar esta función."
+
+msgid "Product ID"
+msgstr "ID del producto"
+
+msgid "Product List"
+msgstr "Lista de Productos"
+
+msgid "Product Loading"
+msgstr "Cargando Producto"
+
+msgid "Product Loading ..."
+msgstr "Cargando producto..."
+
+msgid "Product manage"
+msgstr "Administrar producto"
+
+msgid "Product Name"
+msgstr "Nombre del Producto"
+
+msgid "Product name :"
+msgstr "Nombre del producto:"
+
+msgid "Product Status"
+msgstr "Estado del producto"
+
+msgid "Product Stock Logs"
+msgstr "Registros de Stock de Producto"
+
+msgid "Product Syncing"
+msgstr "Sincronización de Productos"
+
+msgid "Product Syncing."
+msgstr "Sincronización de Productos."
+
+msgid "Product Unit"
+msgstr "Unidad del Producto"
+
+msgid "Product Videos"
+msgstr "Videos del Producto"
+
+msgid "Products"
+msgstr "Productos"
+
+msgid "products"
+msgstr "productos"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Profile Info"
+msgstr "Información de Perfil"
+
+msgid "Property"
+msgstr "Propiedad"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "Publishable key"
+msgstr "Clave pública"
+
+msgid "Published"
+msgstr "Publicado"
+
+msgid "Purchase"
+msgstr "Compra"
+
+msgid "Purchase Date"
+msgstr "Fecha de compra"
+
+msgid "Purchase Details"
+msgstr "Detalles de la compra"
+
+msgid "Purchase List"
+msgstr "Lista de Compras"
+
+msgid "Purchase List Loading ..."
+msgstr "Cargando lista de compras..."
+
+msgid "Purchase Price"
+msgstr "Precio de Compra"
+
+msgid "Purchased By:"
+msgstr "Comprado Por:"
+
+msgid "Purchased Date:"
+msgstr "Fecha de Compra:"
+
+msgid "Purchased failed"
+msgstr "Error al comprar"
+
+msgid "Purchased Items"
+msgstr "Artículos Comprados"
+
+msgid "Purchased No:"
+msgstr "Número de Compra:"
+
+msgid "Push Settings"
+msgstr "Configuración de notificaciones push"
+
+msgid "Pusher mode support in pro version only."
+msgstr "El modo Pusher solo está disponible en la versión pro."
+
+msgid "px"
+msgstr "px"
+
+msgid "QR-code"
+msgstr "Código QR"
+
+msgid "Qrcode"
+msgstr "Código QR"
+
+msgid "Qty:"
+msgstr "Cant.:"
+
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgid "quantity is"
+msgstr "la cantidad es"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Re-type New password"
+msgstr "Vuelva a escribir la nueva contraseña"
+
+msgid "Ready"
+msgstr "Listo"
+
+msgid "Ready to Serve"
+msgstr "Listo para servir"
+
+msgid "Ready to serve"
+msgstr "Listo para servir"
+
+msgid "Receive"
+msgstr "Recibir"
+
+msgid "Receive By"
+msgstr "Recibido por"
+
+msgid "Receive Date"
+msgstr "Fecha de recepción"
+
+msgid "Receive Note:"
+msgstr "Nota de recepción:"
+
+msgid "Receive Transfer"
+msgstr "Recibir transferencia"
+
+msgid "Receiving Stocks"
+msgstr "Recepción de existencias"
+
+msgid "Recommend logo height %{logoHeight}."
+msgstr "Recomendar altura del logotipo %{logoHeight}."
+
+msgid "Recommend logo height 60px."
+msgstr "Se recomienda una altura de logotipo de 60 px."
+
+msgid "Reduced rate"
+msgstr "Tasa reducida"
+
+msgid "Ref"
+msgstr "Ref"
+
+msgid "Refresh App"
+msgstr "Actualizar aplicación"
+
+msgid "Refund"
+msgstr "Reembolso"
+
+msgid "Refund Discount:"
+msgstr "Descuento del Reembolso:"
+
+msgid "Refund Fee :"
+msgstr "Comisión del Reembolso:"
+
+msgid "Refund Grand-total :"
+msgstr "Total General del Reembolso:"
+
+msgid "Refund Id "
+msgstr "Identificación de reembolso"
+
+msgid "Refund Info"
+msgstr "Información de Reembolso"
+
+msgid "Refund List"
+msgstr "Lista de reembolsos"
+
+msgid "Refund Orders"
+msgstr "Reembolsar pedidos"
+
+msgid "Refund Qty"
+msgstr "Cantidad de reembolso"
+
+msgid "Refund Reason"
+msgstr "Motivo del reembolso"
+
+msgid ""
+"Refund requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr ""
+"Los reembolsos requieren la versión Pro. Por favor, actualice a la versión "
+"Pro para usar esta función."
+
+msgid "Refund Sub-total :"
+msgstr "Subtotal del Reembolso:"
+
+msgid "Refund Tax-total :"
+msgstr "Total de Impuestos del Reembolso:"
+
+msgid "Refunded"
+msgstr "Reembolsado"
+
+msgid "Refunding Order..."
+msgstr "Reembolsando pedido..."
+
+msgid ""
+"Refunds requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr ""
+"Los reembolsos requieren la versión pro, actualiza a la versión pro para "
+"usar esta función."
+
+msgid "Regular Price"
+msgstr "Precio Regular"
+
+msgid "Regular unit price: %{reg_price}, sale price: %{sale}"
+msgstr "Precio unitario regular: %{reg_price}, precio de oferta: %{sale}"
+
+msgid "Related App"
+msgstr "Aplicación relacionada"
+
+msgid "Related Apps"
+msgstr "Aplicaciones relacionadas"
+
+msgid "Reload Caps"
+msgstr "Recargar tapas"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Remove from cart?"
+msgstr "¿Eliminar del carrito?"
+
+msgid "Remove from favorite"
+msgstr "Eliminar de favoritos"
+
+msgid "Remove from hold"
+msgstr "Quitar de la retención"
+
+msgid "Remove Item"
+msgstr "Eliminar ítem"
+
+msgid "Remove item"
+msgstr "Eliminar ítem"
+
+msgid "Request Cancel"
+msgstr "Solicitar cancelación"
+
+msgid "Request canceled"
+msgstr "Solicitud cancelada"
+
+msgid "Request failed: %{errorMsg}"
+msgstr "Solicitud fallida: %{errorMsg}"
+
+msgid "Request outlet or counter empty"
+msgstr "La solicitud de sucursal o mostrador está vacía"
+
+msgid "Request to cancel order"
+msgstr "Solicitud de cancelación de pedido"
+
+msgid "Request to cancel this item"
+msgstr "Solicitar cancelar este ítem"
+
+msgid "Requested Cancel"
+msgstr "Cancelación solicitada"
+
+msgid "Requested for cancel"
+msgstr "Solicitado para cancelar"
+
+msgid "Requested to cancel"
+msgstr "Solicitado para cancelar"
+
+msgid "Required"
+msgstr "Obligatorio"
+
+msgid "Requires pro version"
+msgstr "Requiere la versión pro."
+
+msgid "Reset"
+msgstr "Restablecer"
+
+msgid "Reset has been successfully done"
+msgstr "El restablecimiento se ha realizado correctamente"
+
+msgid "Reset Role"
+msgstr "Restablecer rol"
+
+msgid "Resetting role"
+msgstr "Restablecer rol"
+
+msgid "Restaurant"
+msgstr "Restaurante"
+
+msgid "Restaurant deny message support in pro version only."
+msgstr ""
+"El mensaje de denegación del restaurante solo está disponible en la versión "
+"pro."
+
+msgid "Restaurant mode"
+msgstr "Modo restaurante"
+
+msgid "Restaurant mode support in pro version only."
+msgstr ""
+"El soporte del modo restaurante solo está disponible en la versión pro."
+
+msgid "Restaurant Payment Type"
+msgstr "Tipo de pago en restaurante"
+
+msgid "Restaurant shortcut message support in pro version only."
+msgstr ""
+"El soporte de mensajes de acceso directo para restaurantes solo está "
+"disponible en la versión pro."
+
+msgid "Restaurant traditional support in pro version only."
+msgstr ""
+"El soporte tradicional del restaurante solo está disponible en la versión "
+"pro."
+
+msgid "Restore From Hold"
+msgstr "Restaurar de la retención"
+
+msgid "Return"
+msgstr "Devolución"
+
+msgid "Role"
+msgstr "Rol"
+
+msgid "Role :"
+msgstr "Rol :"
+
+msgid "Role Access"
+msgstr "Acceso al rol"
+
+msgid "Role copied successfully"
+msgstr "Rol copiado correctamente"
+
+msgid "Role Description"
+msgstr "Descripción del rol"
+
+msgid "Role does not exists"
+msgstr "El rol no existe"
+
+msgid "Role List"
+msgstr "Lista de roles"
+
+msgid "Role Name"
+msgstr "Nombre del rol"
+
+msgid "Role wise discount manage"
+msgstr "Administración de descuentos por rol"
+
+msgid "Roles"
+msgstr "Roles"
+
+msgid "Roles Loading"
+msgstr "Cargando Roles"
+
+msgid "RTL only support in pro version."
+msgstr "RTL solo es compatible con la versión pro."
+
+msgid "Rule Group"
+msgstr "Grupo de reglas"
+
+msgid "Rules"
+msgstr "Reglas"
+
+msgid "Sale History"
+msgstr "Historial de Ventas"
+
+msgid "Sale Price"
+msgstr "Precio de Venta"
+
+msgid "Sale Tax"
+msgstr "Impuesto de Venta"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Saved Successfully"
+msgstr "Guardado correctamente"
+
+msgid "Saving Custom Field"
+msgstr "Guardando campo personalizado"
+
+msgid "Saving message..."
+msgstr "Guardando mensaje..."
+
+msgid "Scan"
+msgstr "Escanear"
+
+msgid "Scan barcode..."
+msgstr "Escanear código de barras..."
+
+msgid "Scan Product"
+msgstr "Escanear producto"
+
+msgid "Scan to search"
+msgstr "Escanear para buscar"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Search Again"
+msgstr "Buscar nuevamente"
+
+msgid "Search or add a tag"
+msgstr "Buscar o agregar una etiqueta"
+
+msgid "Search Product"
+msgstr "Buscar Producto"
+
+msgid "Search products..."
+msgstr "Buscar productos..."
+
+msgid "Search/Choose Category"
+msgstr "Buscar/Elegir Categoría"
+
+msgid "Search/Choose country"
+msgstr "Buscar/Elegir país"
+
+msgid "Search/Choose customer"
+msgstr "Buscar/Elegir cliente"
+
+msgid "Search/Choose Page"
+msgstr "Buscar/Elegir página"
+
+msgid "Search/Choose Time Zone"
+msgstr "Buscar/Elegir Zona Horaria"
+
+msgid "Search/Select Country"
+msgstr "Buscar/Seleccionar País"
+
+msgid "Seat Capability"
+msgstr "Capacidad de Asientos"
+
+msgid "Seat capacity : %{seat_cap}"
+msgstr "Capacidad de asientos: %{seat_cap}"
+
+msgid "Seat capacity is low than person number"
+msgstr "La capacidad de asientos es menor que el número de personas"
+
+msgid "Secret"
+msgstr "Secreto"
+
+msgid "Secret Key"
+msgstr "Clave Secreta"
+
+msgid "See Details"
+msgstr "Ver Detalles"
+
+msgid "See/edit table and person info"
+msgstr "Ver/editar información de la mesa y la persona"
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid "Select / Custom Attributes"
+msgstr "Seleccionar/Atributos personalizados"
+
+msgid "Select a Role to Reset"
+msgstr "Seleccione un rol para restablecer"
+
+msgid "Select Addons"
+msgstr "Seleccionar complementos"
+
+msgid "Select Category"
+msgstr "Seleccionar Categoría"
+
+msgid "Select Counter"
+msgstr "Seleccionar Caja"
+
+msgid "Select Country"
+msgstr "Seleccionar país"
+
+msgid "Select Module"
+msgstr "Seleccionar módulo"
+
+msgid "Select Options"
+msgstr "Seleccionar Opciones"
+
+msgid "Select Outlet"
+msgstr "Seleccionar Punto de Venta"
+
+msgid "Select Panel"
+msgstr "Seleccionar Panel"
+
+msgid "Select Role"
+msgstr "Seleccionar Rol"
+
+msgid "Select State"
+msgstr "Seleccionar estado"
+
+msgid "Select Status"
+msgstr "Seleccionar estado"
+
+msgid "Select Sub-category"
+msgstr "Seleccionar Subcategoría"
+
+msgid "Select Supplier"
+msgstr "Seleccionar Proveedor"
+
+msgid "Select Type"
+msgstr "Seleccionar tipo"
+
+msgid "Select variation"
+msgstr "Seleccionar variación"
+
+msgid "Select Variations"
+msgstr "Seleccionar Variaciones"
+
+msgid "Select Vendor"
+msgstr "Seleccionar proveedor"
+
+msgid "Select Waiters"
+msgstr "Seleccionar meseros"
+
+msgid "Select/Search Country"
+msgstr "Seleccionar/Buscar país"
+
+msgid "Select/Search Product"
+msgstr "Seleccionar/Buscar Producto"
+
+msgid "Select/Search Role"
+msgstr "Seleccionar/Buscar rol"
+
+msgid "Select/Search role copy from"
+msgstr "Seleccionar/Buscar rol para copiar desde"
+
+msgid "Select/Search role copy to"
+msgstr "Seleccionar/Buscar rol para copiar a"
+
+msgid "Select/Search State or Dist"
+msgstr "Seleccionar/Buscar región o distrito"
+
+msgid "Select/Search Timezone"
+msgstr "Seleccionar/Buscar zona horaria"
+
+msgid "Select/Search user to add"
+msgstr "Seleccionar / Buscar usuario para agregar"
+
+msgid "Selected Product"
+msgstr "Producto Seleccionado"
+
+msgid "Seller"
+msgstr "Vendedor"
+
+msgid "Send Email To Cashier"
+msgstr "Enviar correo electrónico al cajero"
+
+msgid "Send Email To Cashier only support in pro version."
+msgstr ""
+"Enviar correo electrónico al cajero solo está disponible en la versión pro."
+
+msgid "Send Email To Customer"
+msgstr "Enviar correo electrónico al cliente"
+
+msgid "Separate tax requires pro version."
+msgstr "El impuesto separado requiere la versión pro."
+
+msgid "Serve this item"
+msgstr "Servir este ítem"
+
+msgid "Served"
+msgstr "Servido"
+
+msgid "Served By"
+msgstr "Servido por"
+
+msgid "Set Password"
+msgstr "Establecer Contraseña"
+
+msgid "Set password"
+msgstr "Establecer contraseña"
+
+msgid "Set the duration in days for new badge on product"
+msgstr "Establezca la duración en días para la nueva insignia en el producto"
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "Settings Loading"
+msgstr "Cargando Configuración"
+
+msgid "Shipment"
+msgstr "Envío"
+
+msgid "Shipping"
+msgstr "Envío"
+
+msgid "Shipping and Tax Will be same as Parent"
+msgstr "El envío y el impuesto serán los mismos que el padre"
+
+msgid "Shipping Cost"
+msgstr "Costo de Envío"
+
+msgid "Shipping only"
+msgstr "Solo envío"
+
+msgid "Shortcut"
+msgstr "Atajo"
+
+msgid "Shortcut Message"
+msgstr "Mensaje abreviado"
+
+msgid "shortcut message"
+msgstr "Mensaje de acceso directo"
+
+msgid "Shortcut Message Settings"
+msgstr "Configuración de mensajes abreviados"
+
+msgid "Shortcut Messages"
+msgstr "Mensajes abreviados"
+
+msgid "Shortcuts"
+msgstr "Atajos"
+
+msgid "Show cash drawer log"
+msgstr "Mostrar registro del cajón"
+
+msgid "Show Counter info"
+msgstr "Mostrar información del mostrador"
+
+msgid "Show Counter No"
+msgstr "Mostrar N° de mostrador"
+
+msgid "Show customer info"
+msgstr "Mostrar información del cliente"
+
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+msgid "Show Discount Row"
+msgstr "Mostrar fila de descuento"
+
+msgid "Show Fee Row"
+msgstr "Mostrar fila de tarifa"
+
+msgid "Show Footer"
+msgstr "Mostrar pie de página"
+
+msgid "Show Header"
+msgstr "Mostrar encabezado"
+
+msgid "Show Item Serial"
+msgstr "Mostrar número de serie del artículo"
+
+msgid "Show Logo"
+msgstr "Mostrar logotipo"
+
+msgid "Show Order Barcode"
+msgstr "Mostrar código de barras del pedido"
+
+msgid "Show order no"
+msgstr "Mostrar N° de pedido"
+
+msgid "Show Order Status"
+msgstr "Mostrar el estado del pedido"
+
+msgid "Show Order Type"
+msgstr "Mostrar el tipo de pedido"
+
+msgid "Show Outlet"
+msgstr "Mostrar Punto de Venta"
+
+msgid "Show outlet info"
+msgstr "Mostrar información del punto de venta"
+
+msgid "Show Payment Method"
+msgstr "Mostrar método de pago"
+
+msgid "Show Price"
+msgstr "Mostrar Precio"
+
+msgid "Show price on barcode label"
+msgstr "Mostrar precio en la etiqueta de código de barras"
+
+msgid "Show separate tax"
+msgstr "Mostrar impuesto separado"
+
+msgid "Show Table Info"
+msgstr "Mostrar información de la mesa"
+
+msgid "Show Tax Row"
+msgstr "Mostrar fila de impuesto"
+
+msgid "Show Unit Cost"
+msgstr "Mostrar costo unitario"
+
+msgid "Show Vat Reg no"
+msgstr "Mostrar N° de Registro de IVA"
+
+msgid "Show Waiter Info"
+msgstr "Mostrar información del Garzón"
+
+msgid "Shown on POS.Click to hide"
+msgstr "Se muestra en el Punto de Venta. Haga clic para ocultar"
+
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+msgid "Sign In"
+msgstr "Iniciar sesión"
+
+msgid "Sign in using another account."
+msgstr "Inicie sesión con otra cuenta."
+
+msgid "Single cash drawer only support in pro version."
+msgstr "El cajón de efectivo único solo es compatible en la versión Pro."
+
+msgid "Site Key"
+msgstr "Clave del Sitio"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "SL"
+msgstr "SL"
+
+msgid "Slug"
+msgstr "Slug"
+
+msgid ""
+"Soon, we will be adding more options such as Stripe Terminal and Authorize."
+"net to our platform. Thank you for you understanding."
+msgstr ""
+"Pronto, agregaremos más opciones como Stripe Terminal y Authorize.net a "
+"nuestra plataforma. Gracias por su comprensión."
+
+msgid ""
+"Soon, we will be adding more options such as Stripe Terminal and Authorize."
+"net to our platform.Thank you for your understand."
+msgstr ""
+"Pronto agregaremos más opciones como Stripe Terminal y Authorize.net a "
+"nuestra plataforma. Gracias por tu comprensión."
+
+msgid "Split payment"
+msgstr "Pago dividido"
+
+msgid ""
+"Split payment requires pro version. For continue this payment please use "
+"only one method."
+msgstr ""
+"La división del pago requiere la versión Pro. Para continuar con este pago, "
+"utilice solo un método."
+
+msgid ""
+"Split payment requires pro version. For continue this payment please use "
+"only one methode."
+msgstr ""
+"El pago dividido requiere la versión pro. Para continuar con este pago, "
+"utiliza solo un método."
+
+msgid "Split payment support in pro version"
+msgstr "Soporte de pago dividido en la versión Pro"
+
+msgid "Standard"
+msgstr "Estándar"
+
+msgid "Start Preparing"
+msgstr "Comenzar a preparar"
+
+msgid "Start preparing item"
+msgstr "Comenzar a preparar ítem"
+
+msgid "State"
+msgstr "Región"
+
+msgid "State/District"
+msgstr "Región/Distrito"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Status:"
+msgstr "Estado:"
+
+msgid "Stock"
+msgstr "Stock"
+
+msgid "Stock Alert"
+msgstr "Alerta de Stock"
+
+msgid "Stock Alert!"
+msgstr "¡Alerta de stock!"
+
+msgid "Stock Counter"
+msgstr "Contador de existencias"
+
+msgid "Stock Details"
+msgstr "Detalles de Stock"
+
+msgid "Stock is running low Please purchase item to increase stock"
+msgstr "El stock está bajo. Compre el artículo para aumentar el stock"
+
+msgid "Stock List Loading ..."
+msgstr "Cargando lista de stock..."
+
+msgid "Stock Log"
+msgstr "Registro de existencias"
+
+msgid "Stock management"
+msgstr "Gestión de stock"
+
+msgid "Stock management support in pro version only."
+msgstr "El soporte de gestión de stock solo está disponible en la versión pro."
+
+msgid "Stock not updated"
+msgstr "El inventario no se actualizó"
+
+msgid "Stock Quantity"
+msgstr "Cantidad en Stock"
+
+msgid ""
+"Stock Receive requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr ""
+"La recepción de stock requiere la versión pro, actualiza a la versión pro "
+"para usar esta función."
+
+msgid "Stock Settings"
+msgstr "Configuración de inventario"
+
+msgid "Stock Transfer"
+msgstr "Transferencia de stock"
+
+msgid ""
+"Stock Transfer requires pro version,please upgrade to pro version to use "
+"this feature."
+msgstr ""
+"La transferencia de stock requiere la versión pro, actualiza a la versión "
+"pro para usar esta función."
+
+msgid "Stock transfer(outlet wise)"
+msgstr "Transferencia de stock (por local)"
+
+msgid "Stock Type"
+msgstr "Tipo de stock"
+
+msgid "Street"
+msgstr "Calle"
+
+msgid "Street Address"
+msgstr "Dirección"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "stripe"
+msgstr "stripe"
+
+msgid "Stripe configuration error in server"
+msgstr "Error de configuración de Stripe en el servidor"
+
+msgid ""
+"Stripe is not enable, for enable stripe payment method please purchase Pro "
+"Version"
+msgstr ""
+"Stripe no está habilitado, para habilitar el método de pago de Stripe, "
+"compre la versión Pro."
+
+msgid "Stripe payment"
+msgstr "Pago con Stripe"
+
+msgid "Stripe payment support in pro version only."
+msgstr "El soporte de pago con Stripe solo está disponible en la versión pro."
+
+msgid "Stripe Settings"
+msgstr "Configuración de Stripe"
+
+msgid "Sub Total"
+msgstr "Subtotal"
+
+msgid "Sub-total :"
+msgstr "Subtotal :"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Successfully added"
+msgstr "Agregado correctamente"
+
+msgid "Successfully closed"
+msgstr "Cerrado exitosamente"
+
+msgid "Successfully created"
+msgstr "Creado correctamente"
+
+msgid "Successfully deleted"
+msgstr "Eliminado correctamente"
+
+msgid "Successfully refreshed"
+msgstr "Actualizado correctamente"
+
+msgid "Successfully Updated"
+msgstr "Actualizado correctamente"
+
+msgid "Successfully updated"
+msgstr "Actualizado correctamente"
+
+msgid "Supplier"
+msgstr "Proveedor"
+
+msgid "Supplier List"
+msgstr "Lista de Proveedores"
+
+msgid "Supplier:"
+msgstr "Proveedor:"
+
+msgid "Support Expired on"
+msgstr "Soporte caduca el"
+
+msgid "swipe"
+msgstr "deslizar"
+
+msgid "Swipe Machine"
+msgstr "Máquina de Tarjeta"
+
+msgid "Sync from database"
+msgstr "Sincronizar desde la base de datos"
+
+msgid "Sync Orders"
+msgstr "Sincronizar pedidos"
+
+msgid "Sync restaurant order list"
+msgstr "Sincronizar la lista de pedidos del restaurante"
+
+msgid "Syncing offline orders"
+msgstr "Sincronizando pedidos fuera de línea"
+
+msgid "TABLE"
+msgstr "MESA"
+
+msgid "Table"
+msgstr "Mesa"
+
+msgid "Table "
+msgstr "Mesa"
+
+msgid "TABLE :"
+msgstr "MESA:"
+
+msgid "Table Description"
+msgstr "Descripción de Mesa"
+
+msgid "Table Image"
+msgstr "Imagen de Mesa"
+
+msgid "Table is"
+msgstr "La mesa es"
+
+msgid "Table module is supported in pro version"
+msgstr "El módulo de mesa está disponible en la versión pro."
+
+msgid "Table orders"
+msgstr "Órdenes de mesa"
+
+msgid "Table Panel"
+msgstr "Panel de Mesa"
+
+msgid "Table Title"
+msgstr "Título de Mesa"
+
+msgid ""
+"Table wise orders requires pro version,please upgrade to pro version to use "
+"this feature."
+msgstr ""
+"Los pedidos por mesa requieren la versión Pro. Por favor, actualice a la "
+"versión Pro para usar esta función."
+
+msgid "Table-wise"
+msgstr "Por mesa"
+
+msgid "Tables"
+msgstr "Mesas"
+
+msgid "Tax"
+msgstr "Impuesto"
+
+msgid ""
+"Tax calculation is based on the subtotal of the purchase. Discounts and fees "
+"will be added after the tax calculation."
+msgstr ""
+"El cálculo del impuesto se basa en el subtotal de la compra. Los descuentos "
+"y las tarifas se agregarán después del cálculo del impuesto."
+
+msgid "Tax Calculation Method"
+msgstr "Método de cálculo de impuestos"
+
+msgid "Tax calculation methods"
+msgstr "Métodos de cálculo de impuestos"
+
+msgid "Tax Class"
+msgstr "Clase de Impuesto"
+
+msgid "Tax Status"
+msgstr "Estado de Impuestos"
+
+msgid "Tax-total"
+msgstr "Total de impuestos"
+
+msgid "Taxable"
+msgstr "Gravable"
+
+msgid "Text"
+msgstr "Texto"
+
+msgid "Textbox"
+msgstr "Caja de texto"
+
+msgid "Textbox (Multiline)"
+msgstr "Caja de texto (múltiple línea)"
+
+msgid "Thank You"
+msgstr "Gracias"
+
+msgid "Thank You For Purchasing"
+msgstr "Gracias por su compra"
+
+msgid ""
+"The admin can add some settings in the admin panel, such as: Outlet Create, "
+"Counter Create, Roll Access Management, Custom Invoice, Barcode Settings and "
+"License Panel."
+msgstr ""
+"El administrador puede agregar algunas configuraciones en el panel de "
+"administración, como: Creación de Puntos de Venta, Creación de mostradores, "
+"Administración de acceso a roles, Factura personalizada, Configuración de "
+"código de barras y Panel de licencias."
+
+msgid ""
+"The new badge will display up to %{dayset} days from product creation date."
+msgstr ""
+"La nueva insignia se mostrará hasta %{dayset} días desde la fecha de "
+"creación del producto."
+
+msgid "The page is redirecting to home page withing few seconds"
+msgstr "La página se está redirigiendo a la página de inicio en unos segundos"
+
+msgid "The role user can change any users password"
+msgstr "El usuario del rol puede cambiar la contraseña de cualquier usuario"
+
+msgid "The role user can create any outlets user if get this access"
+msgstr ""
+"El usuario del rol puede crear usuarios de cualquier punto de venta si "
+"obtiene este acceso"
+
+msgid ""
+"The stock of this selected outlet product will serve as the inventory for "
+"your online orders"
+msgstr ""
+"El stock de este producto de la sucursal seleccionada servirá como "
+"inventario para tus pedidos en línea"
+
+msgid ""
+"The stock of this selected outlet product will serve as the inventory for "
+"your online orders."
+msgstr ""
+"El stock de este producto del local seleccionado servirá como inventario "
+"para sus pedidos en línea."
+
+msgid ""
+"The Ultimate Coupon Management System.Point of sale (POS) plugin for "
+"wordpress and Woocommerce"
+msgstr ""
+"El sistema de gestión de cupones definitivo. Plugin de punto de venta (POS) "
+"para WordPress y WooCommerce"
+
+msgid "Then select the menu App Keys"
+msgstr "Luego selecciona el menú Claves de la aplicación"
+
+msgid "This drawer will close on create new drawer."
+msgstr "Este cajón se cerrará al crear un nuevo cajón."
+
+msgid "This email already exist"
+msgstr "Este correo electrónico ya existe"
+
+msgid "This Feature is available in pro version only."
+msgstr "Esta función solo está disponible en la versión pro."
+
+msgid "This mobile number is already exist"
+msgstr "Este número de móvil ya existe"
+
+msgid "This module is not support in offline"
+msgstr "Este módulo no es compatible en modo fuera de línea"
+
+msgid ""
+"This plugin adds a beautiful mini cart feature to your WooCommerce website, "
+"allowing easy customization to match your preferences."
+msgstr ""
+"Este plugin agrega una hermosa característica de mini carrito a tu sitio web "
+"de WooCommerce, lo que permite una fácil personalización para que coincida "
+"con tus preferencias."
+
+msgid "This product already added in the list"
+msgstr "Este producto ya está agregado a la lista"
+
+msgid "This product stock can not be increased"
+msgstr "El inventario de este producto no se puede aumentar"
+
+msgid "This Property Should not be update"
+msgstr "Esta propiedad no debe actualizarse"
+
+msgid "This roles user can change their password"
+msgstr "Los usuarios de este rol pueden cambiar su contraseña"
+
+msgid "This roles user can see payment notes on order details"
+msgstr ""
+"El usuario de este rol puede ver las notas de pago en los detalles del pedido"
+
+msgid "This username already exist"
+msgstr "Este nombre de usuario ya existe"
+
+msgid ""
+"This will close all drawers previously opened except the last drawer opened "
+"in any counter."
+msgstr ""
+"Esto cerrará todos los cajones que se abrieron anteriormente, excepto el "
+"último cajón abierto en cualquier mostrador."
+
+msgid ""
+"This would be a temporary password.The user have to change their password on "
+"first login."
+msgstr ""
+"Esta sería una contraseña temporal. El usuario deberá cambiar su contraseña "
+"en el primer inicio de sesión."
+
+msgid "Time"
+msgstr "Tiempo"
+
+msgid "Time Zone"
+msgstr "Zona horaria"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Title is required"
+msgstr "Se requiere el título"
+
+msgid "Title/Label"
+msgstr "Título/Etiqueta"
+
+msgid "To"
+msgstr "Hasta"
+
+msgid "To change color you need pro version"
+msgstr "Para cambiar el color, necesita la versión Pro"
+
+msgid ""
+"To delete role, you need to move current users of this roles to another role."
+" Please choose move to role below"
+msgstr ""
+"Para eliminar el rol, debe mover los usuarios actuales de este rol a otro "
+"rol. Por favor, elija el rol al que moverlos a continuación."
+
+msgid "To get a complete idea of what your agent needs to do to run an outlet "
+msgstr ""
+"Para tener una idea completa de lo que su agente debe hacer para administrar "
+"un establecimiento"
+
+msgid "To get pusher server key follow this instruction"
+msgstr "Para obtener la clave del servidor pusher, sigue estas instrucciones"
+
+msgid "To Kitchen"
+msgstr "A la cocina"
+
+msgid "To Outlet"
+msgstr "Hacia el local"
+
+msgid "To Outlet:"
+msgstr "Al punto de venta:"
+
+msgid "To POS"
+msgstr "A POS"
+
+msgid ""
+"To process order offline please ask your admin to enable offline order "
+"feature."
+msgstr ""
+"Para procesar pedidos fuera de línea, pídale a su administrador que habilite "
+"la función de pedidos fuera de línea."
+
+msgid "To watch our all video tutorial click on the button"
+msgstr "Para ver todos nuestros tutoriales en vídeo, haga clic en el botón."
+
+msgid "Top"
+msgstr "Arriba"
+
+msgid "Top,Bottom"
+msgstr "Arriba, Abajo"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total Amount"
+msgstr "Cantidad Total"
+
+msgid "Total Cost"
+msgstr "Costo Total"
+
+msgid "Total cost"
+msgstr "Costo total"
+
+msgid "Total Discount :"
+msgstr "Descuento total :"
+
+msgid "Total Income"
+msgstr "Ingreso Total"
+
+msgid "Total Orders"
+msgstr "Total de Pedidos"
+
+msgid "Total Outlet:"
+msgstr "Total de Locales:"
+
+msgid "Total Outlets"
+msgstr "Total de Puntos de Venta"
+
+msgid "Total Quantity"
+msgstr "Cantidad Total"
+
+msgid "Traditional"
+msgstr "Tradicional"
+
+msgid "Traditional / Pay first mode"
+msgstr "Modo tradicional/Pagar primero"
+
+msgid "Transfer"
+msgstr "Transferir"
+
+msgid "Transfer by"
+msgstr "Transferir por"
+
+msgid "Transfer By:"
+msgstr "Transferido por:"
+
+msgid "Transfer current online stocks to"
+msgstr "Transferir acciones en línea actuales a"
+
+msgid "Transfer Date"
+msgstr "Fecha de transferencia"
+
+msgid "Transfer date:"
+msgstr "Fecha de transferencia:"
+
+msgid "Transfer Details"
+msgstr "Detalles de transferencia"
+
+msgid "Transfer Item*"
+msgstr "Transferir artículo*"
+
+msgid "Transfer List Loading ..."
+msgstr "Cargando lista de transferencias..."
+
+msgid "Transfer Note"
+msgstr "Nota de transferencia"
+
+msgid "Transfer Quantity"
+msgstr "Cantidad de transferencia"
+
+msgid "Transfer Status:"
+msgstr "Estado de transferencia:"
+
+msgid "Transfer Stock"
+msgstr "Transferencia de stock"
+
+msgid "Transfer to %{outletname}"
+msgstr "Transferencia a %{outletname}"
+
+msgid "Transferred Items"
+msgstr "Artículos transferidos"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Type to search"
+msgstr "Escriba para buscar"
+
+msgid "Types"
+msgstr "Tipos"
+
+msgid "Unknown"
+msgstr "Desconocido"
+
+msgid "Unlimited"
+msgstr "Ilimitado"
+
+msgid "Unlimited counter"
+msgstr "Contador ilimitado"
+
+msgid "Unlimited outlets"
+msgstr "Locales ilimitados"
+
+msgid "Unpaid"
+msgstr "No Pagado"
+
+msgid "Up Sale"
+msgstr "Venta Adicional"
+
+msgid "Up Sells"
+msgstr "Ventas Cruzadas"
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "Update Failed"
+msgstr "Error al actualizar"
+
+msgid "Update failed"
+msgstr "Actualización fallida"
+
+msgid "Update failed try again"
+msgstr "Error al actualizar, intenta de nuevo"
+
+msgid "Update failed unknown error"
+msgstr "Actualización fallida, error desconocido"
+
+msgid "Update Note"
+msgstr "Nota de Actualización"
+
+msgid "Update order"
+msgstr "Actualizar pedido"
+
+msgid "Update Prices"
+msgstr "Actualizar precios"
+
+msgid "Update Product Price"
+msgstr "Actualizar precio del producto"
+
+msgid "Update Status?"
+msgstr "¿Actualizar estado?"
+
+msgid "Updating Custom Fields"
+msgstr "Actualizando campos personalizados"
+
+msgid "Updating Customer"
+msgstr "Actualizando Cliente"
+
+msgid "Updating message..."
+msgstr "Actualizando mensaje..."
+
+msgid ""
+"Updating price requires pro version,please upgrade to pro version to use "
+"this feature."
+msgstr ""
+"Actualizar el precio requiere la versión pro, por favor actualice a la "
+"versión pro para usar esta función."
+
+msgid "Updating Role Details"
+msgstr "Actualizando detalles de rol"
+
+msgid "Upload a Feature Image"
+msgstr "Cargar una imagen destacada"
+
+msgid "Upload Image For This Variation"
+msgstr "Cargar imagen para esta variación"
+
+msgid "Upload More Images For This Product"
+msgstr "Subir más imágenes para este producto"
+
+msgid "Upload Table Image"
+msgstr "Cargar Imagen de Mesa"
+
+msgid "Use camera on barcode scanning"
+msgstr "Usar cámara en el escaneo de código de barras"
+
+msgid "Use For Variation"
+msgstr "Usar para Variación"
+
+msgid "User"
+msgstr "Usuario"
+
+msgid "User added to this outlet"
+msgstr "Usuario agregado a este punto de venta"
+
+msgid "User List"
+msgstr "Lista de Usuarios"
+
+msgid "User List Loading ..."
+msgstr "Cargando lista de usuarios..."
+
+msgid "User loading ..."
+msgstr "Cargando usuario..."
+
+msgid "User Move to"
+msgstr "Mover usuario a"
+
+msgid "User Name:"
+msgstr "Nombre de Usuario:"
+
+msgid "User privilege error"
+msgstr "Error de privilegio de usuario"
+
+msgid "User removed from this outlet"
+msgstr "Usuario eliminado de este punto de venta"
+
+msgid "User Role"
+msgstr "Rol de usuario"
+
+msgid "Username"
+msgstr "Nombre de Usuario"
+
+msgid "Username already exist"
+msgstr "El nombre de usuario ya existe."
+
+msgid "Username already exist."
+msgstr "El nombre de usuario ya existe."
+
+msgid "Username is required"
+msgstr "Se requiere el nombre de usuario"
+
+msgid "Username or Email address"
+msgstr "Nombre de usuario o dirección de correo electrónico"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "Valid"
+msgstr "Válido"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "Vat/Tax No"
+msgstr "N° de IVA/Impuesto"
+
+msgid "Vat/Tax No Label"
+msgstr "Etiqueta N° de IVA/Impuesto"
+
+msgid "Vendor"
+msgstr "Proveedor"
+
+msgid "Vendor delete failed"
+msgstr "Error al eliminar el proveedor"
+
+msgid "Vendor deleted successfully"
+msgstr "Proveedor eliminado exitosamente"
+
+msgid "Vendor Description"
+msgstr "Descripción del Proveedor"
+
+msgid "Vendor List Loading ..."
+msgstr "Cargando lista de proveedores..."
+
+msgid "Version"
+msgstr "Versión"
+
+msgid "Video Tutorial"
+msgstr "Tutorial en vídeo"
+
+msgid "Videos"
+msgstr "Vídeos"
+
+msgid "View All Outlet"
+msgstr "Ver todos los puntos de venta"
+
+msgid "View all Role List"
+msgstr "Ver toda la lista de roles"
+
+msgid "View All Settings"
+msgstr "Ver todas las configuraciones"
+
+msgid "View POS"
+msgstr "Ver punto de venta"
+
+msgid "Viewing %{ startRecord } to %{ endRecord } of %{ totalRecord } records"
+msgstr ""
+"Visualización de %{ startRecord } a %{ endRecord } de %{ totalRecord } "
+"registros"
+
+msgid "Visit"
+msgstr "Visita"
+
+msgid ""
+"Vite Coupon is a comprehensive coupon management system designed to simplify "
+"the creation, distribution, and tracking of discount coupons for online "
+"businesses."
+msgstr ""
+"Vite Coupon es un sistema integral de gestión de cupones diseñado para "
+"simplificar la creación, distribución y seguimiento de cupones de descuento "
+"para negocios en línea."
+
+msgid ""
+"Vitepos is a POS specialized software which is the right solution for your "
+"business."
+msgstr ""
+"Vitepos es un software POS especializado que es la solución correcta para su "
+"negocio."
+
+msgid "Vitepos Login"
+msgstr "Inicio de sesión de Vitepos"
+
+msgid "Vitepos Only"
+msgstr "Solo Vitepos"
+
+msgid ""
+"Vitepos will use the WooCommerce stock, ensuring that a single stock is used "
+"both on the website and in the POS system."
+msgstr ""
+"Vitepos utilizará el stock de WooCommerce, asegurando que se use un solo "
+"stock tanto en el sitio web como en el sistema POS."
+
+msgid "Waiter"
+msgstr "Mesero"
+
+msgid "Waiter Panel"
+msgstr "Panel de Mesero"
+
+msgid "Waiter panel"
+msgstr "Panel del mesero"
+
+msgid "Waiter POS"
+msgstr "POS del mesero"
+
+msgid "Waiter requested to cancel"
+msgstr "El mesero solicitó la cancelación"
+
+msgid "Waiting"
+msgstr "Esperando"
+
+msgid "Want to clear cache and logout?"
+msgstr "¿Quiere limpiar el caché y cerrar sesión?"
+
+msgid "Want to close cash drawer?"
+msgstr "¿Desea cerrar la caja?"
+
+msgid "Want You like to do with current cart ?"
+msgstr "¿Qué quieres hacer con el carrito actual?"
+
+msgid "Warning, all role access will be deleted for this role."
+msgstr "Advertencia, todos los accesos de rol se eliminarán para este rol."
+
+msgid ""
+"Warning, offline orders are stored in the database of browser (Chrome, "
+"Firefox, Opera, etc.) . And as soon as the app comes online, it syncs with "
+"the main server. If someone deletes the database  of browser before syncing, "
+"the order will no longer sync. In this case, the order information will be "
+"deleted forever."
+msgstr ""
+"Atención, los pedidos offline se almacenan en la base de datos del navegador "
+"(Chrome, Firefox, Opera, etc.). Y tan pronto como la aplicación se pone en "
+"línea, se sincroniza con el servidor principal. Si alguien borra la base de "
+"datos del navegador antes de la sincronización, el pedido ya no se "
+"sincronizará. En este caso, la información del pedido se eliminará para "
+"siempre."
+
+msgid ""
+"Warning, vitepos lock screen might not work properly if 2FA is enabled on "
+"login."
+msgstr ""
+"Advertencia: la pantalla de bloqueo de vitepos podría no funcionar "
+"correctamente si la autenticación de dos factores (2FA) está habilitada en "
+"el inicio de sesión."
+
+msgid "Watch tutorial"
+msgstr "Ver tutorial"
+
+msgid ""
+"We're sorry but pos doesn't work properly without JavaScript enabled. Please "
+"enable it to continue."
+msgstr ""
+"Lo sentimos, pero el POS no funciona correctamente sin JavaScript habilitado."
+" Habilítelo para continuar."
+
+msgid "Weight"
+msgstr "Peso"
+
+msgid "Welcome to"
+msgstr "Bienvenido a"
+
+msgid "Where will show"
+msgstr "Dónde se mostrará"
+
+msgid "Why are denying this order?"
+msgstr "¿Por qué estás rechazando esta orden?"
+
+msgid "Why are you denying this item?"
+msgstr "¿Por qué está denegando este ítem?"
+
+msgid "Width"
+msgstr "Ancho"
+
+msgid "Withdraw"
+msgstr "Retirar"
+
+msgid "Withdraw amount"
+msgstr "Monto a retirar"
+
+msgid "Withdraw and close"
+msgstr "Retirar y cerrar"
+
+msgid "Withdraw from cash drawer"
+msgstr "Retirar del cajón"
+
+msgid "Withdraw is not possible, no cash drawer found"
+msgstr "No es posible retirar, no se encontró ninguna caja"
+
+msgid "Withdraw Note"
+msgstr "Nota de Retiro"
+
+msgid "Withdraw processing"
+msgstr "Procesando retiro"
+
+msgid "Withdrawn"
+msgstr "Retirado"
+
+msgid "Woocommerce stock (Single stock)"
+msgstr "Stock de Woocommerce (Stock único)"
+
+msgid "WordPress Login"
+msgstr "Inicio de sesión de WordPress"
+
+msgid "WordPress Login URL"
+msgstr "URL de inicio de sesión de WordPress"
+
+msgid "Write your message"
+msgstr "Escribe tu mensaje"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "You are Connected"
+msgstr "Estás conectado"
+
+msgid "You are not connected"
+msgstr "No está conectado"
+
+msgid "You can not add this much of discount"
+msgstr "No puede agregar tanto descuento"
+
+msgid "You can not checkout this in current status"
+msgstr "No puedes finalizar la compra en este estado actual"
+
+msgid "You can not close current cash drawer"
+msgstr "No puede cerrar la caja actual"
+
+msgid "You can not disable branding in lite version."
+msgstr "No puedes deshabilitar la marca en la versión lite."
+
+msgid "You can not give this much discount"
+msgstr "No puedes dar tanto descuento"
+
+msgid "You can not order less than 0 amount"
+msgstr "No puedes pedir menos de 0 cantidad"
+
+msgid ""
+"You can select the default customer for order processing. If not selected "
+"then the order will be processed as a guest user. Note that, if the customer "
+"is selected from the POS, that customer will remain in the selected state."
+msgstr ""
+"Puedes seleccionar el cliente predeterminado para el procesamiento de "
+"pedidos. Si no se selecciona, el pedido se procesará como un usuario "
+"invitado. Ten en cuenta que, si se selecciona el cliente desde el POS, ese "
+"cliente permanecerá en estado seleccionado."
+
+msgid ""
+"You do not have permission of add customer, contact your admin to get this "
+"permission."
+msgstr ""
+"No tiene permiso para agregar clientes, contacte a su administrador para "
+"obtener este permiso."
+
+msgid "You do not have permission to access this link"
+msgstr "No tiene permiso para acceder a este enlace"
+
+msgid "You do not have permission to do this"
+msgstr "No tienes permiso para hacer esto"
+
+msgid "You do not have permission to give discount"
+msgstr "No tienes permiso para dar descuento"
+
+msgid "You do not have permission to have fees"
+msgstr "No tienes permiso para tener comisiones"
+
+msgid "You don't have permission to access this link"
+msgstr "No tienes permiso para acceder a este enlace"
+
+msgid "You don't have permission to view details of this outlet"
+msgstr "No tiene permiso para ver los detalles de esta sucursal"
+
+msgid "You don't have permission to view user of this outlet"
+msgstr "No tienes permiso para ver el usuario de esta sucursal"
+
+msgid "You have only one outlet and counter,so you can not change outlet."
+msgstr ""
+"Solo tienes una sucursal y un mostrador, por lo que no puedes cambiar de "
+"sucursal."
+
+msgid "You Need To Check Your Connection"
+msgstr "Necesitas verificar tu conexión"
+
+msgid ""
+"You will get separate stock for each outlet, stock transfer, receive feature "
+"will be available in the vitepos.You need to purchase or add stock product "
+"for each outlet"
+msgstr ""
+"Obtendrá stock separado para cada local, la función de transferencia de "
+"stock, recepción estará disponible en vitepos. Necesita comprar o agregar un "
+"producto de stock para cada local."
+
+msgid "Your License Key"
+msgstr "Tu clave de licencia"
+
+msgid "Zero rate"
+msgstr "Tasa cero"
+
+msgid "Zip Code"
+msgstr "Código postal"

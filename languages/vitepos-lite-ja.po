@@ -1,0 +1,4457 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VitePOS\n"
+"POT-Creation-Date: 2024-10-24 04:54+0000\n"
+"PO-Revision-Date: 2024-10-24 07:11+0000\n"
+"Last-Translator: Anthony L. Moore\n"
+"Language-Team: Japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: ;__;_e;_ee;___;add_error;add_info;SetTitle;AddInfo;"
+"AddError;SetSubtitle;___;AddModel;AddModelNonSearchable\n"
+"X-Poedit-Flags-xgettext: --no-location\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+"X-Poedit-SearchPathExcluded-2: dbscript\n"
+"X-Poedit-SearchPathExcluded-3: languages\n"
+"X-Poedit-SearchPathExcluded-4: tmp\n"
+"X-Poedit-SearchPathExcluded-5: node_modules\n"
+"X-Poedit-SearchPathExcluded-6: release\n"
+"X-Poedit-SearchPathExcluded-7: logs\n"
+"X-Poedit-SearchPathExcluded-8: template/client\n"
+"X-Poedit-SearchPathExcluded-9: template/main\n"
+"X-Poedit-SearchPathExcluded-10: dev_files\n"
+"X-Poedit-SearchPathExcluded-11: adminpanel\n"
+"X-Poedit-SearchPathExcluded-12: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2"
+
+#, php-format
+msgid "%s should be digit"
+msgstr "%s は数字である必要があります"
+
+#, php-format
+msgid "%s should be numeric"
+msgstr "%s は数値である必要があります"
+
+#, php-format
+msgid " %s should be less than %s"
+msgstr "%s は %s より小さくなければなりません"
+
+#, php-format
+msgid "%s should be a valid email address"
+msgstr "%s は有効なメールアドレスである必要があります"
+
+msgid " should be hexadecimal"
+msgstr "16進数でなければなりません"
+
+#, php-format
+msgid " %s are required"
+msgstr "%s は必須です"
+
+#, php-format
+msgid " %s is required"
+msgstr "%s は必須です"
+
+msgid "E004"
+msgstr "E004"
+
+msgid "No change for update"
+msgstr "更新する変更はありません"
+
+msgid "Saved Successfully"
+msgstr "正常に保存されました"
+
+msgid ""
+"We're sorry but pos doesn't work properly without JavaScript enabled. Please "
+"enable it to continue."
+msgstr ""
+"申し訳ありませんが、JavaScript を有効にしないと POS は正常に動作しません。続行するには、JavaScript を有効にしてください。"
+
+msgid "Please wait .."
+msgstr "しばらくお待ちください..."
+
+msgid "You do not have permission to access this link"
+msgstr "このリンクへのアクセス権限がありません"
+
+msgid "The page is redirecting to home page withing few seconds"
+msgstr "ページは数秒以内にホームページにリダイレクトされます"
+
+msgid "Successfully deleted"
+msgstr "正常に削除されました"
+
+msgid "Delete failed"
+msgstr "削除に失敗しました"
+
+msgid "Successfully updated"
+msgstr "正常に更新されました"
+
+msgid "Successfully created"
+msgstr "正常に作成されました"
+
+msgid "No offline outlet and counter found"
+msgstr "オフラインの店舗とカウンターが見つかりません"
+
+msgid "Paid amount must be greater or equal to grand total amount"
+msgstr "支払金額は合計金額以上である必要があります"
+
+msgid "Fee"
+msgstr "手数料"
+
+msgid "Discount"
+msgstr "割引"
+
+msgid "You don't have permission to view details of this outlet"
+msgstr "この店舗の詳細を表示する権限がありません"
+
+msgid "No cash drawer info found"
+msgstr "現金引き出しの情報が見つかりません"
+
+msgid "Request outlet or counter empty"
+msgstr "店舗またはカウンターの要求が空です"
+
+msgid "Withdraw is not possible, no cash drawer found"
+msgstr "現金引き出しはできません。現金引き出しが見つかりません"
+
+msgid "Cash withdraw failed"
+msgstr "現金引き出しに失敗しました"
+
+msgid "Cash withdraw succeeded and closed"
+msgstr "現金引き出しが成功し、閉鎖されました"
+
+msgid "Drawer close failed"
+msgstr "引き出しの閉じに失敗しました"
+
+msgid "Cash withdraw succeeded"
+msgstr "現金引き出しが成功しました"
+
+msgid "You can not close current cash drawer"
+msgstr "現在の現金引き出しを閉じることはできません"
+
+msgid "Drawer closed successfully"
+msgstr "引き出しが正常に閉じられました"
+
+msgid "Invalid request"
+msgstr "無効な要求"
+
+msgid "invalid requiest"
+msgstr "無効な要求"
+
+msgid "Stock not updated"
+msgstr "在庫が更新されませんでした"
+
+msgid "This product stock can not be increased"
+msgstr "この製品の在庫を増やすことはできません"
+
+msgid "Purchased failed"
+msgstr "購入に失敗しました"
+
+msgid "No item found"
+msgstr "商品が見つかりません"
+
+msgid "No data found with request param"
+msgstr "リクエストパラメータでデータが見つかりません"
+
+msgid "Unknown"
+msgstr "不明"
+
+msgid "No Offline order for restaurent"
+msgstr "レストランのオフライン注文はありません"
+
+msgid "Invalid login information"
+msgstr "無効なログイン情報"
+
+msgid "Username is required"
+msgstr "ユーザー名が必要です"
+
+msgid "You don't have permission to access this link"
+msgstr "このリンクにアクセスする権限がありません。"
+
+msgid "No logged in user"
+msgstr "ログインしているユーザーはいません。"
+
+msgid "Password changed successfully."
+msgstr "パスワードが正常に変更されました。"
+
+msgid "Please login again,no user found logged in."
+msgstr "ログインしているユーザーが見つかりません。もう一度ログインしてください。"
+
+msgid "Invalid Request"
+msgstr "無効なリクエストです。"
+
+msgid "Password can not be set as empty"
+msgstr "パスワードは空にすることができません。"
+
+msgid "You don't have permission to view user of this outlet"
+msgstr "この店舗のユーザーを見る権限がありません。"
+
+msgid "Successfully closed"
+msgstr "正常に閉じられました。"
+
+msgid "Drawer list not found"
+msgstr "引き出しリストが見つかりません。"
+
+msgid "You do not have permission to do this"
+msgstr "これを行う権限がありません。"
+
+msgid "Not updated"
+msgstr "更新されませんでした。"
+
+msgid "Form is not valid"
+msgstr "フォームが不正です。"
+
+msgid "Vendor deleted successfully"
+msgstr "ベンダーが正常に削除されました。"
+
+msgid "Vendor delete failed"
+msgstr "ベンダーの削除に失敗しました。"
+
+msgid "No vendor found with this param"
+msgstr "このパラメーターに一致するベンダーが見つかりませんでした。"
+
+msgid "Nonce error"
+msgstr "Nonce エラーです。"
+
+msgid "User privilege error"
+msgstr "ユーザー権限エラーです。"
+
+msgid "Missing dependency"
+msgstr "依存関係が見つかりません。"
+
+msgid "It requires woocommerce, please install woocommerce first"
+msgstr "WooCommerce が必要です。最初に WooCommerce をインストールしてください。"
+
+msgid "Counter Name"
+msgstr "カウンター名"
+
+msgid "Counter No"
+msgstr "カウンター番号"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Email"
+msgstr "メールアドレス"
+
+msgid "Contact No"
+msgstr "電話番号"
+
+msgid "Street"
+msgstr "通り"
+
+msgid "City"
+msgstr "市"
+
+msgid "State"
+msgstr "州"
+
+msgid "State/District"
+msgstr "州/地区"
+
+msgid "Zip Code"
+msgstr "郵便番号"
+
+msgid "Select Country"
+msgstr "国を選択"
+
+msgid "Time Zone"
+msgstr "タイムゾーン"
+
+msgid "Allowed Ip"
+msgstr "許可された IP"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Add Outlet"
+msgstr "店舗を追加"
+
+msgid "Edit Outlet"
+msgstr "店舗を編集"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Add Counter"
+msgstr "カウンターを追加"
+
+msgid "Edit Counter"
+msgstr "カウンターを編集"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Outlet Details"
+msgstr "店舗詳細"
+
+msgid "Outlet Name"
+msgstr "店舗名"
+
+msgid "Address"
+msgstr "住所"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Sidebar"
+msgstr "サイドバー"
+
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+msgid "Orders"
+msgstr "注文"
+
+msgid "Outlet"
+msgstr "店舗"
+
+msgid "Loading Outlet"
+msgstr "店舗を読み込み中"
+
+msgid "Make Main"
+msgstr "メインにする"
+
+msgid "Add Role"
+msgstr "ロールを追加"
+
+msgid "Loading Roles"
+msgstr "ロールを読み込み中"
+
+msgid "Role Description"
+msgstr "ロールの説明"
+
+msgid "Role Name"
+msgstr "ロール名"
+
+msgid "Edit Role"
+msgstr "ロールを編集"
+
+msgid "Roles"
+msgstr "ロール"
+
+msgid "Role List"
+msgstr "ロール一覧"
+
+msgid "Role Access"
+msgstr "ロールアクセス"
+
+msgid "Loading Role Access"
+msgstr "ロールアクセスを読み込み中"
+
+msgid "Action"
+msgstr "アクション"
+
+msgid "Main Branch"
+msgstr "本店"
+
+msgid "Counters"
+msgstr "カウンター"
+
+msgid "Counter"
+msgstr "カウンター"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Customers"
+msgstr "顧客"
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "Country"
+msgstr "国"
+
+msgid "Basic Settings"
+msgstr "基本設定"
+
+msgid "Print Settings"
+msgstr "印刷設定"
+
+msgid "License Info"
+msgstr "ライセンス情報"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "View POS"
+msgstr "POSを見る"
+
+msgid "Viewing %{ startRecord } to %{ endRecord } of %{ totalRecord } records"
+msgstr "%{ totalRecord } レコード中 %{ startRecord } から %{ endRecord } を表示しています"
+
+msgid "%{ row } rows"
+msgstr "%{ 行 } 行"
+
+msgid "No record found"
+msgstr "レコードが見つかりません"
+
+msgid "Version"
+msgstr "バージョン"
+
+msgid "Barcode Field"
+msgstr "バーコードフィールド"
+
+msgid "Page Settings"
+msgstr "ページ設定"
+
+msgid "Header Panel"
+msgstr "ヘッダーパネル"
+
+msgid "Product ID"
+msgstr "製品ID"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "Custom Field"
+msgstr "カスタムフィールド"
+
+msgid "Loading Settings"
+msgstr "設定を読み込み中"
+
+msgid "Select"
+msgstr "選択"
+
+msgid "%{fld_name} is required"
+msgstr "%{fld_name} は必須です"
+
+msgid "Are you sure to delete this outlet: %{outlet}?"
+msgstr "このアウトレット %{outlet} を削除してもよろしいですか?"
+
+msgid "Are you sure to delete this counter: %{counter}?"
+msgstr "このカウンター: %{counter} を削除してもよろしいですか?"
+
+msgid "Are you sure to remove access from %{role}?"
+msgstr "%{role} からアクセスを削除してもよろしいですか?"
+
+msgid "Are you sure to give access to %{role}?"
+msgstr "%{role} にアクセス権を付与してもよろしいですか?"
+
+msgid "Are you sure to %{status}?"
+msgstr "本当に%{status}しますか?"
+
+msgid "Active"
+msgstr "有効"
+
+msgid "Inactive"
+msgstr "無効"
+
+msgid "Page Width"
+msgstr "ページ幅"
+
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+msgid "Show Logo"
+msgstr "ロゴを表示"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "px"
+msgstr "px"
+
+msgid "Recommend logo height %{logoHeight}."
+msgstr "ロゴの高さは%{logoHeight}をお勧めします。"
+
+msgid "Best size is %{logoWidth} in width and %{logoHeight} in height."
+msgstr "最適なサイズは、幅が %{logoWidth}、高さが %{logoHeight} です。"
+
+msgid "Show Header"
+msgstr "ヘッダーを表示"
+
+msgid "Show Vat Reg no"
+msgstr "消費税登録番号を表示"
+
+msgid "Vat/Tax No Label"
+msgstr "消費税/税金番号ラベル"
+
+msgid "Vat/Tax No"
+msgstr "消費税/税金番号"
+
+msgid "Outlet Info"
+msgstr "店舗情報"
+
+msgid "Show outlet info"
+msgstr "店舗情報表示"
+
+msgid "Outlet Email"
+msgstr "店舗メールアドレス"
+
+msgid "Outlet Phone"
+msgstr "店舗電話番号"
+
+msgid "Outlet Address"
+msgstr "店舗住所"
+
+msgid "Counter Info"
+msgstr "カウンター情報"
+
+msgid "Show Counter info"
+msgstr "カウンター情報表示"
+
+msgid "Counter Operator Label"
+msgstr "カウンター担当者ラベル"
+
+msgid "Show Counter No"
+msgstr "カウンター番号表示"
+
+msgid "Counter No Label"
+msgstr "カウンター番号ラベル"
+
+msgid "License Status"
+msgstr "ライセンス状態"
+
+msgid "License Type"
+msgstr "ライセンスの種類"
+
+msgid "Support Expired on"
+msgstr "サポート期限"
+
+msgid "License Expired on"
+msgstr "ライセンス期限"
+
+msgid "Your License Key"
+msgstr "ライセンスキー"
+
+msgid "Deactivate License"
+msgstr "ライセンスを無効にする"
+
+msgid "Valid"
+msgstr "有効"
+
+msgid "No expiry"
+msgstr "期限なし"
+
+msgid "Unlimited"
+msgstr "無制限"
+
+msgid "Show order no"
+msgstr "注文番号を表示"
+
+msgid "Order no label"
+msgstr "注文番号ラベル"
+
+msgid "Customer Info"
+msgstr "顧客情報"
+
+msgid "Show customer info"
+msgstr "顧客情報表示"
+
+msgid "Customer Info Label"
+msgstr "顧客情報ラベル"
+
+msgid "Customer Name"
+msgstr "顧客名"
+
+msgid "Customer Id"
+msgstr "顧客ID"
+
+msgid "Customer Id Label"
+msgstr "顧客IDラベル"
+
+msgid "Customer Phone"
+msgstr "顧客電話番号"
+
+msgid "Customer Phone Label"
+msgstr "顧客電話番号ラベル"
+
+msgid "Customer Address"
+msgstr "顧客住所"
+
+msgid "Item Details"
+msgstr "商品詳細"
+
+msgid "Show Item Serial"
+msgstr "商品シリアル番号を表示"
+
+msgid "Show Unit Cost"
+msgstr "単価を表示"
+
+msgid "Show Discount Row"
+msgstr "割引行を表示"
+
+msgid "Show Tax Row"
+msgstr "税金行を表示"
+
+msgid "Show Fee Row"
+msgstr "手数料行を表示"
+
+msgid "Show Payment Method"
+msgstr "支払い方法を表示"
+
+msgid "Footer Panel"
+msgstr "フッターパネル"
+
+msgid "Show Footer"
+msgstr "フッターを表示"
+
+msgid "Date"
+msgstr "日付"
+
+msgid "SL"
+msgstr "SL"
+
+msgid "Item"
+msgstr "アイテム"
+
+msgid "Qty:"
+msgstr "数量："
+
+msgid "Total"
+msgstr "合計"
+
+msgid "Tax"
+msgstr "税金"
+
+msgid "Order Total"
+msgstr "注文合計"
+
+msgid "Given Amount"
+msgstr "支払金額"
+
+msgid "Return"
+msgstr "返金"
+
+msgid "Payment Method"
+msgstr "支払い方法"
+
+msgid "Order No"
+msgstr "注文番号"
+
+msgid "Processed By"
+msgstr "処理者"
+
+msgid "Basic Help"
+msgstr "基本ヘルプ"
+
+msgid "Videos"
+msgstr "動画"
+
+msgid "About VitePos"
+msgstr "VitePosについて"
+
+msgid "Contact Author"
+msgstr "作者に連絡"
+
+msgid "Offline Order"
+msgstr "オフライン注文"
+
+msgid "Enable"
+msgstr "有効にする"
+
+msgid "Disable"
+msgstr "無効にする"
+
+msgid "POS Login Type"
+msgstr "POSログインタイプ"
+
+msgid "Vitepos Login"
+msgstr "Viteposログイン"
+
+msgid "WordPress Login"
+msgstr "WordPressログイン"
+
+msgid "WordPress Login URL"
+msgstr "WordPressログインURL"
+
+msgid "POS Color"
+msgstr "POSカラー"
+
+msgid "POS Link Type"
+msgstr "POSリンクタイプ"
+
+msgid "Default"
+msgstr "デフォルト"
+
+msgid "Page"
+msgstr "ページ"
+
+msgid "POS Link"
+msgstr "POSリンク"
+
+msgid "POS Page"
+msgstr "POSページ"
+
+msgid "Video Tutorial"
+msgstr "ビデオチュートリアル"
+
+msgid "More Details"
+msgstr "詳細"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Search/Choose Page"
+msgstr "検索／ページ選択"
+
+msgid "Keep blank to use default WordPress login."
+msgstr "空白のままにしておくと、デフォルトのWordPressログインが使用されます。"
+
+msgid "To watch our all video tutorial click on the button"
+msgstr "すべてのビデオチュートリアルを見るには、ボタンをクリックしてください。"
+
+msgid ""
+"In case of any problem, get in touch with the Vitepos team. We always "
+"support our clients until their satisfaction comes. And that is our "
+"responsibility and duty."
+msgstr ""
+"問題が発生した場合は、Viteposチームにご連絡ください。私たちは常に、お客様が満足されるまでサポートいたします。それが私たちの責任であり義務です。"
+
+msgid "Contact Support Team"
+msgstr "サポートチームに連絡"
+
+msgid ""
+"To delete role, you need to move current users of this roles to another role."
+" Please choose move to role below"
+msgstr "ロールを削除するには、このロールの現在のユーザーを別のロールに移動する必要があります。以下から移動先のロールを選択してください。"
+
+msgid "User Move to"
+msgstr "ユーザーを移動"
+
+msgid "Delete Role"
+msgstr "ロールを削除"
+
+msgid "Delete Role Details"
+msgstr "ロール削除の詳細"
+
+msgid "Updating Role Details"
+msgstr "ロール詳細の更新"
+
+msgid "Adding Role"
+msgstr "ロールの追加"
+
+msgid "Move to Role "
+msgstr "役割に移動"
+
+msgid "Loading Outlet Details"
+msgstr "店舗の詳細を読み込み中"
+
+msgid "Reset"
+msgstr "リセット"
+
+msgid "Are you sure to make this main branch?"
+msgstr "このブランチをメインブランチにすることを確認しますか？"
+
+msgid "Search/Select Country"
+msgstr "国を検索/選択"
+
+msgid "Search/Choose Time Zone"
+msgstr "タイムゾーンを検索/選択"
+
+msgid "Invoice Print Settings"
+msgstr "請求書印刷設定"
+
+msgid "POS Logo"
+msgstr "POS ロゴ"
+
+msgid "Logo"
+msgstr "ロゴ"
+
+msgid "Favicon"
+msgstr "ファビコン"
+
+msgid "Click the box to select or remove %{fileName}."
+msgstr "%{fileName} を選択または削除するには、ボックスをクリックします。"
+
+msgid "Best size is 166px in width and 60px in height."
+msgstr "最適なサイズは幅166px、高さ60pxです。"
+
+msgid "Build :"
+msgstr "ビルド："
+
+msgid "Visit"
+msgstr "訪問"
+
+msgid "for more details please visit"
+msgstr "詳細については、以下をご覧ください。"
+
+msgid "Click here"
+msgstr "ここをクリック"
+
+msgid "To get a complete idea of what your agent needs to do to run an outlet "
+msgstr "代理店が店舗を運営するために何をする必要があるかを完全に理解するには"
+
+msgid ""
+"On the other hand, on the client side, you can set the outlet agents you "
+"want, according to their role."
+msgstr "一方、クライアント側では、それぞれの役割に応じて、希望する店舗のエージェントを設定することができます。"
+
+msgid "have two sides. One admin panel and another is client panel."
+msgstr "2つの側面があります。1つは管理者パネル、もう1つはクライアントパネルです。"
+
+msgid ""
+"The admin can add some settings in the admin panel, such as: Outlet Create, "
+"Counter Create, Roll Access Management, Custom Invoice, Barcode Settings and "
+"License Panel."
+msgstr ""
+"管理者は、管理者パネルで、店舗の作成、カウンターの作成、ロールアクセス管理、カスタム請求書、バーコード設定、ライセンスパネルなどの設定を追加することができます。"
+
+msgid "Welcome to"
+msgstr "ようこそ"
+
+msgid ""
+"Warning, offline orders are stored in the database of browser (Chrome, "
+"Firefox, Opera, etc.) . And as soon as the app comes online, it syncs with "
+"the main server. If someone deletes the database  of browser before syncing, "
+"the order will no longer sync. In this case, the order information will be "
+"deleted forever."
+msgstr ""
+"注意：オフライン注文はブラウザ（Chrome、Firefox、Operaなど）のデータベースに保存されます。アプリがオンラインになるとすぐに、メインサーバーと同期されます。同期前にブラウザのデータベースを削除すると、注文は同期されなくなります。この場合、注文情報は永久に削除されます。"
+
+msgid "Empowering Your WooCommerce Store with Vitepos"
+msgstr "ViteposであなたのWooCommerceストアを強化"
+
+msgid "Total Income"
+msgstr "総収入"
+
+msgid "Total Orders"
+msgstr "総注文数"
+
+msgid "Total Outlets"
+msgstr "総店舗数"
+
+msgid "Total Amount"
+msgstr "総額"
+
+msgid "Based on outlet order(s)"
+msgstr "店舗注文に基づいて"
+
+msgid "Custom Barcode"
+msgstr "カスタムバーコード"
+
+msgid "Enable reCaptcha V3"
+msgstr "reCaptcha V3を有効にする"
+
+msgid "Site Key"
+msgstr "サイトキー"
+
+msgid "Secret Key"
+msgstr "シークレットキー"
+
+msgid "Can create & manage unlimited outlets"
+msgstr "無制限の店舗を作成および管理できます"
+
+msgid "Can create & manage unlimited counter for each outlet"
+msgstr "各店舗に対して無制限のカウンターを作成および管理できます"
+
+msgid "Split payment support in pro version"
+msgstr "プロ版では分割払い機能をサポートしています"
+
+msgid "Offline sale allowed in pro version"
+msgstr "プロ版ではオフライン販売が許可されています"
+
+msgid "Hold cart applicable in pro version"
+msgstr "プロ版ではカート保持が適用されます"
+
+msgid "Customization of color support in pro version"
+msgstr "プロ版では色のカスタマイズをサポートしています"
+
+msgid "Easy product manage (add,update,delete) based on role"
+msgstr "ロールに基づいた簡単な商品管理（追加、更新、削除）"
+
+msgid "Premium Support"
+msgstr "プレミアムサポート"
+
+msgid "And More.."
+msgstr "その他多数..."
+
+msgid "Pro version required"
+msgstr "プロ版が必要です"
+
+msgid "Go pro"
+msgstr "プロ版にアップグレード"
+
+msgid "For add more than two counter it requires pro version."
+msgstr "2つ以上のカウンターを追加するには、プロ版が必要です。"
+
+msgid "For multiple outlet you need to active pro version."
+msgstr "複数の店舗を使用するには、プロ版を有効にする必要があります。"
+
+msgid "Offline feature support in pro version only."
+msgstr "オフライン機能はプロ版でのみサポートされています。"
+
+msgid "To change color you need pro version"
+msgstr "色を変更するには、プロ版が必要です"
+
+msgid "Warning, all role access will be deleted for this role."
+msgstr "警告：このロールのすべてのロールアクセスが削除されます。"
+
+msgid "Reset Role"
+msgstr "ロールのリセット"
+
+msgid "Select a Role to Reset"
+msgstr "リセットするロールを選択してください"
+
+msgid "Copy Role Permission"
+msgstr "ロール権限のコピー"
+
+msgid "Copy role"
+msgstr "ロールのコピー"
+
+msgid "Copy from"
+msgstr "コピー元"
+
+msgid "Copy to"
+msgstr "コピー先"
+
+msgid "The role user can create any outlets user if get this access"
+msgstr "このアクセス権を持つロールユーザーは、任意の店舗ユーザーを作成できます"
+
+msgid "The role user can change any users password"
+msgstr "このロールユーザーは、任意のユーザーのパスワードを変更できます"
+
+msgid "This roles user can change their password"
+msgstr "このロールのユーザーは、自分のパスワードを変更できます"
+
+msgid "Administrator"
+msgstr "管理者"
+
+msgid "Outlet Manager"
+msgstr "店舗マネージャー"
+
+msgid "Cashier"
+msgstr "レジ係"
+
+msgid "Built-in"
+msgstr "組み込み"
+
+msgid "outlet"
+msgstr "店舗"
+
+msgid "No %{type} found"
+msgstr "%{type} が見つかりません"
+
+msgid "Outlet User List"
+msgstr "店舗ユーザーリスト"
+
+msgid "Add to this outlet"
+msgstr "この店舗に追加"
+
+msgid "Users"
+msgstr "ユーザー"
+
+msgid "Getting user list"
+msgstr "ユーザーリストを取得しています"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Set the duration in days for new badge on product"
+msgstr "商品の新しいバッジの期間を日数で設定します"
+
+msgid "days"
+msgstr "日"
+
+msgid "New Product Badge Duration"
+msgstr "新しい商品バッジの期間"
+
+msgid ""
+"The new badge will display up to %{dayset} days from product creation date."
+msgstr "新しいバッジは、製品の作成日から最大 %{dayset} 日間表示されます。"
+
+msgid "Phone"
+msgstr "電話"
+
+msgid "Cash"
+msgstr "現金"
+
+msgid "Loading Data"
+msgstr "データを読み込み中"
+
+msgid "Select/Search Role"
+msgstr "ロールを選択/検索"
+
+msgid "Select/Search role copy from"
+msgstr "コピー元のロールを選択/検索"
+
+msgid "Select/Search role copy to"
+msgstr "コピー先のロールを選択/検索"
+
+msgid "POS Products Per Row"
+msgstr "POS商品1行あたりの数"
+
+msgid "Default Customer (Optional)"
+msgstr "デフォルトのお客様（任意）"
+
+msgid "Search/Choose customer"
+msgstr "顧客を検索／選択"
+
+msgid ""
+"You can select the default customer for order processing. If not selected "
+"then the order will be processed as a guest user. Note that, if the customer "
+"is selected from the POS, that customer will remain in the selected state."
+msgstr ""
+"注文処理のデフォルト顧客を選択できます。選択しない場合は、注文はゲストユーザーとして処理されます。POSから顧客を選択した場合、その顧客は選択された状態のままになります。"
+
+msgid "%{col} Products Per Row"
+msgstr "行あたり %{col} 個の製品"
+
+msgid "Max Discount"
+msgstr "最大割引"
+
+msgid "Refresh App"
+msgstr "アプリを更新"
+
+msgid "POS Link:"
+msgstr "POS リンク："
+
+msgid "Generated by"
+msgstr "作成者"
+
+msgid ""
+"Warning, vitepos lock screen might not work properly if 2FA is enabled on "
+"login."
+msgstr "警告：ログイン時に2FAが有効になっていると、viteposのロック画面が正しく動作しない可能性があります。"
+
+msgid "Branding"
+msgstr "ブランド"
+
+msgid "Select/Search Timezone"
+msgstr "タイムゾーンを選択／検索"
+
+msgid "Select/Search Country"
+msgstr "国を選択／検索"
+
+msgid "Select/Search State or Dist"
+msgstr "州または地区を選択／検索"
+
+msgid "Add Field"
+msgstr "フィールドを追加"
+
+msgid "Label"
+msgstr "ラベル"
+
+msgid "Field label"
+msgstr "フィールドラベル"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Select Type"
+msgstr "タイプを選択"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Add Option"
+msgstr "オプションを追加"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "Value"
+msgstr "値"
+
+msgid "No option added"
+msgstr "オプションは追加されていません"
+
+msgid "Help text"
+msgstr "ヘルプテキスト"
+
+msgid "Where will show"
+msgstr "表示場所"
+
+msgid "Select Module"
+msgstr "モジュールを選択"
+
+msgid "Is Calculable"
+msgstr "計算可能"
+
+msgid "Chose Operator"
+msgstr "演算子を選択"
+
+msgid "Half Field"
+msgstr "ハーフフィールド"
+
+msgid "Is Required"
+msgstr "必須"
+
+msgid "Add Custom Field"
+msgstr "カスタムフィールドを追加"
+
+msgid "Are you sure to delete this custom field?"
+msgstr "このカスタムフィールドを削除してもよろしいですか？"
+
+msgid "Loading Custom Field Details"
+msgstr "カスタムフィールドの詳細を読み込み中..."
+
+msgid "Saving Custom Field"
+msgstr "カスタムフィールドを保存"
+
+msgid "Updating Custom Fields"
+msgstr "カスタムフィールドを更新"
+
+msgid "Module"
+msgstr "モジュール"
+
+msgid "Customer"
+msgstr "顧客"
+
+msgid "User"
+msgstr "ユーザー"
+
+msgid "Invoice"
+msgstr "請求書"
+
+msgid "Loading Custom Fields..."
+msgstr "カスタムフィールドを読み込み中..."
+
+msgid "Place to show"
+msgstr "表示場所"
+
+msgid "custom field"
+msgstr "カスタムフィールド"
+
+msgid "Custom Fields"
+msgstr "カスタムフィールド"
+
+msgid "Messages"
+msgstr "メッセージ"
+
+msgid "Push Settings"
+msgstr "プッシュ設定"
+
+msgid "Stock Settings"
+msgstr "在庫設定"
+
+msgid "Payment"
+msgstr "支払い"
+
+msgid "Custom Field Settings"
+msgstr "カスタムフィールド設定"
+
+msgid "Shortcut Message Settings"
+msgstr "ショートカットメッセージ設定"
+
+msgid "Payment Settings"
+msgstr "支払い設定"
+
+msgid "Shortcut Messages"
+msgstr "ショートカットメッセージ"
+
+msgid "Deny Reason"
+msgstr "拒否理由"
+
+msgid "Add Shortcut Message"
+msgstr "ショートカットメッセージを追加"
+
+msgid "Add Deny Reason"
+msgstr "拒否理由を追加"
+
+msgid "Edit Deny Reason"
+msgstr "拒否理由を編集"
+
+msgid "Message Type"
+msgstr "メッセージタイプ"
+
+msgid "Message"
+msgstr "メッセージ"
+
+msgid "Write your message"
+msgstr "メッセージを入力"
+
+msgid "Deny Message"
+msgstr "拒否メッセージ"
+
+msgid "Shortcut Message"
+msgstr "ショートカットメッセージ"
+
+msgid "App ID"
+msgstr "アプリID"
+
+msgid "Key"
+msgstr "キー"
+
+msgid "Secret"
+msgstr "シークレット"
+
+msgid "Cluster"
+msgstr "クラスタ"
+
+msgid "Stripe Settings"
+msgstr "Stripe設定"
+
+msgid "Authorize Settings"
+msgstr "承認設定"
+
+msgid "Enable Swipe Payment"
+msgstr "スワイプ決済を有効にする"
+
+msgid "Enable Other Method"
+msgstr "その他の方法を有効にする"
+
+msgid "Enable %{brand} Payment"
+msgstr "%{brand} 支払いを有効にする"
+
+msgid "It will allows to take payment using swipe machine."
+msgstr "スワイプマシンを使用して支払いを受け取ることができます。"
+
+msgid "It will allows to take payment using others method."
+msgstr "その他の方法を使用して支払いを受け取ることができます。"
+
+msgid ""
+"It will allow you to take payment using %{brand} Payment gateway, make sure "
+"you have added %{brand} api info in %{brand} settings tab."
+msgstr ""
+"これにより、%{brand} 支払いゲートウェイを使用して支払いを受けることができるようになります。%{brand} 設定タブに %{brand} "
+"API 情報を追加したことを確認してください。"
+
+msgid "[Coming Soon]"
+msgstr "[近日公開]"
+
+msgid "Stripe"
+msgstr "Stripe"
+
+msgid "Publishable key"
+msgstr "公開可能なキー"
+
+msgid "POS Mode"
+msgstr "POSモード"
+
+msgid "Grocery"
+msgstr "食料品店"
+
+msgid "Restaurant"
+msgstr "レストラン"
+
+msgid "Restaurant Payment Type"
+msgstr "レストランの支払いタイプ"
+
+msgid "Traditional"
+msgstr "従来型"
+
+msgid "Pay First"
+msgstr "先払い"
+
+msgid "Product Status"
+msgstr "製品の状態"
+
+msgid "Published"
+msgstr "公開済み"
+
+msgid "Private"
+msgstr "非公開"
+
+msgid "Vitepos Only"
+msgstr "Viteposのみ"
+
+msgid ""
+"The stock of this selected outlet product will serve as the inventory for "
+"your online orders"
+msgstr "この選択された店舗の商品の在庫は、オンライン注文の在庫として使用されます。"
+
+msgid "Are you sure to make this inactive?"
+msgstr "これを無効にしますか？"
+
+msgid "Are you sure to make this active??"
+msgstr "これを有効にしますか？"
+
+msgid "Make Inactive"
+msgstr "無効にする"
+
+msgid "Make Active"
+msgstr "有効にする"
+
+msgid "Loading Messages..."
+msgstr "メッセージを読み込み中..."
+
+msgid "Loading Message Details..."
+msgstr "メッセージの詳細を読み込み中..."
+
+msgid "Are you sure to delete this message?"
+msgstr "このメッセージを削除してもよろしいですか？"
+
+msgid "Edit Message"
+msgstr "メッセージを編集"
+
+msgid "Add Message"
+msgstr "メッセージを追加"
+
+msgid "Choose Panel"
+msgstr "パネルを選択"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "Cashier Panel"
+msgstr "レジパネル"
+
+msgid "Kitchen Panel"
+msgstr "キッチンパネル"
+
+msgid "Waiter Panel"
+msgstr "ウェイターパネル"
+
+msgid "Loading Deny Reasons..."
+msgstr "拒否理由を読み込み中..."
+
+msgid "Updating message..."
+msgstr "メッセージを更新中..."
+
+msgid "Saving message..."
+msgstr "メッセージを保存中..."
+
+msgid "Are you sure to delete this deny message?"
+msgstr "この拒否メッセージを削除してもよろしいですか？"
+
+msgid "Are you sure to enable %{name}?"
+msgstr "%{name} を有効にしてもよろしいですか?"
+
+msgid "Are you sure to disable %{name}?"
+msgstr "%{name} を無効にしてもよろしいですか?"
+
+msgid ""
+"Soon, we will be adding more options such as Stripe Terminal and Authorize."
+"net to our platform.Thank you for your understand."
+msgstr ""
+"まもなく、Stripe TerminalやAuthorize."
+"netなどのオプションをプラットフォームに追加する予定です。ご理解のほどよろしくお願いいたします。"
+
+msgid "Capture Method"
+msgstr "キャプチャ方法"
+
+msgid "Capture on order complete"
+msgstr "注文完了時にキャプチャ"
+
+msgid "Auto capture on payment auth"
+msgstr "支払い承認時に自動キャプチャ"
+
+msgid "To get pusher server key follow this instruction"
+msgstr "Pusherサーバーキーを取得するには、この手順に従ってください。"
+
+msgid "Login to pusher.com"
+msgstr "pusher.comにログイン"
+
+msgid "Channels"
+msgstr "チャネル"
+
+msgid "Then select the menu App Keys"
+msgstr "次に、メニュー「App Keys」を選択します。"
+
+msgid "Create a channel or manage existing channel"
+msgstr "チャネルを作成するか、既存のチャネルを管理します。"
+
+msgid ""
+"In the traditional procedure, a waiter takes the customers order and sends "
+"it to the kitchen. Once the kitchen has prepared the order, the waiter is "
+"notified to serve it. After the order has been served, the cashier can "
+"process the payment."
+msgstr ""
+"従来の手順では、ウェイターが顧客から注文を受け、キッチンに送ります。キッチンが注文を準備したら、ウェイターに通知して料理を提供します。注文が提供された後、レジ係は支払いを処理できます。"
+
+msgid ""
+"Pay first procedure, customers are required to pay for their meal upfront at "
+"a designated location, typically at the cashiers counter, before they are "
+"seated or served. After paying, the customer is given a receipt or a token, "
+"which they can then present to the server to receive their food."
+msgstr ""
+"先払い方式では、顧客は着席または食事を提供される前に、通常はレジカウンターで指定された場所で食事代を前払いする必要があります。支払い後、顧客はレシートまたはトークンを受け取り、それをサーバーに提示して料理を受け取ることができます。"
+
+msgid ""
+"Enabling the toggle button, below can incorporate the kitchen procedure, "
+"allowing the order to be completed by the chef rather than by the cashier. "
+"Additionally, the order status can be displayed on a large screen for easy "
+"tracking."
+msgstr ""
+"トグルボタンを有効にすると、以下のキッチン手順を組み込むことができ、注文をレジ係ではなくシェフが完了させることができます。さらに、注文ステータスを大型画面に表示して、簡単に追跡できます。"
+
+msgid "Kitchen Involvement"
+msgstr "キッチン関与"
+
+msgid ""
+"Allowing the order to be completed by the chef rather than by the cashier."
+msgstr "注文をレジ係ではなくシェフが完了できるようにする。"
+
+msgid "Enabling the Kitchen Involvement, It does not support offline order."
+msgstr "キッチン関与を有効にすると、オフライン注文はサポートされません。"
+
+msgid "Calculate tax after discounts and fees"
+msgstr "割引と手数料の後に税金を計算する"
+
+msgid "Calculate tax before discounts and fees"
+msgstr "割引と手数料の前に税金を計算する"
+
+msgid ""
+"Tax calculation is based on the subtotal of the purchase. Discounts and fees "
+"will be added after the tax calculation."
+msgstr "税金の計算は購入の合計金額に基づいています。割引と手数料は税金の計算後に追加されます。"
+
+msgid ""
+"First, It calculate the subtotal including any discounts and fees, and then "
+"it apply the tax based on the discounted price."
+msgstr "最初に、割引と手数料を含む小計を計算し、次に割引後の価格に基づいて税金を適用します。"
+
+msgid "Send Email To Customer"
+msgstr "顧客にメールを送信する"
+
+msgid ""
+"Enabling this feature, will trigger an email to be sent to the customer once "
+"their order is complete."
+msgstr "この機能を有効にすると、注文が完了すると顧客にメールが送信されます。"
+
+msgid "Is Separate Tax?"
+msgstr "税金は別途計算されますか？"
+
+msgid "Order Info"
+msgstr "注文情報"
+
+msgid "Show Waiter Info"
+msgstr "ウェイター情報を表示する"
+
+msgid "Show Order Status"
+msgstr "注文ステータスを表示する"
+
+msgid "Show Order Type"
+msgstr "注文の種類を表示する"
+
+msgid "Show Table Info"
+msgstr "テーブル情報を表示する"
+
+msgid "Enable full stock management"
+msgstr "在庫管理を有効にする"
+
+msgid "Online stock link with outlet"
+msgstr "オンライン在庫を店舗とリンクする"
+
+msgid "Online Stock Outlet"
+msgstr "オンライン在庫店舗"
+
+msgid "It will protect order if there is not stock of the item"
+msgstr "商品が在庫切れの場合、注文が保護されます。"
+
+msgid ""
+"The stock of this selected outlet product will serve as the inventory for "
+"your online orders."
+msgstr "選択した店舗の商品の在庫が、オンライン注文の在庫として使用されます。"
+
+msgid "Transfer current online stocks to"
+msgstr "現在のオンライン在庫を移行する"
+
+msgid ""
+"If you have previously used an older version or if you have not enabled the "
+"stockable feature before, you may need to transfer your online inventory to "
+"your linked outlet to %{outletname}"
+msgstr ""
+"以前に古いバージョンを使用したことがある場合、または以前に在庫管理機能を有効にしたことがない場合は、オンライン在庫をリンクされたアウトレット "
+"%{outletname} に転送する必要がある場合があります。"
+
+msgid ""
+"If you want to transfer your current online stock to %{outletname} then "
+"click the button below"
+msgstr "現在のオンライン在庫を%{outletname}に移したい場合は、下のボタンをクリックしてください"
+
+msgid ""
+"Keep in mind that this procedure will reset the stock of the WooCommerce "
+"product to zero."
+msgstr "この手順を実行すると、WooCommerce商品の在庫がゼロにリセットされることに注意してください。"
+
+msgid "Transfer to %{outletname}"
+msgstr "%{outletname} に転送"
+
+msgid "Are you sure to transfer online stock to  %{outlet}?"
+msgstr "オンライン在庫を%{outlet}に転送してもよろしいですか?"
+
+msgid "Transfer"
+msgstr "移行"
+
+msgid "Recommend logo height 60px."
+msgstr "ロゴの高さは60pxをお勧めします。"
+
+msgid "Best size is 100px in width and 60px in height."
+msgstr "最適なサイズは、幅100px、高さ60pxです。"
+
+msgid "Waiter"
+msgstr "ウェイター"
+
+msgid "Chef"
+msgstr "シェフ"
+
+msgid "Loading ..."
+msgstr "読み込み中..."
+
+msgid "Are you sure to remove this user from this outlet ?"
+msgstr "このユーザーをこの店舗から削除してもよろしいですか？"
+
+msgid "Are you sure to remove it?"
+msgstr "削除してもよろしいですか？"
+
+msgid ""
+"Now each outlet will have its own separate stock in Vitepos. For online "
+"sales on your website, the system will use the default stock from "
+"WooCommerce. To manage online sales stock, simply add stock from the "
+"WooCommerce admin panel. Vitepos purchase or add stock will not work for "
+"online stock."
+msgstr ""
+"これで、各店舗はViteposで個別の在庫を持つようになります。ウェブサイトでのオンライン販売では、システムはWooCommerceのデフォルト在庫を使用します。オンライン販売在庫を管理するには、WooCommerce管理パネルから在庫を追加するだけです。Viteposでの購入または在庫追加は、オンライン在庫には機能しません。"
+
+msgid ""
+"Alternatively, you can be link your online sales to a specific outlet, and "
+"the system will use the stock from the linked outlet for online sales."
+msgstr "あるいは、オンライン販売を特定の店舗にリンクすることもできます。その場合、システムはオンライン販売にリンクされた店舗の在庫を使用します。"
+
+msgid "Stock Type"
+msgstr "在庫の種類"
+
+msgid "Woocommerce stock (Single stock)"
+msgstr "Woocommerce在庫（単一在庫）"
+
+msgid ""
+"Vitepos will use the WooCommerce stock, ensuring that a single stock is used "
+"both on the website and in the POS system."
+msgstr "ViteposはWooCommerce在庫を使用します。これにより、ウェブサイトとPOSシステムの両方で単一の在庫が使用されます。"
+
+msgid "Outlet wise stock (Multi stocks)"
+msgstr "店舗別在庫（複数在庫）"
+
+msgid ""
+"You will get separate stock for each outlet, stock transfer, receive feature "
+"will be available in the vitepos.You need to purchase or add stock product "
+"for each outlet"
+msgstr ""
+"各店舗に個別の在庫が用意され、在庫の移行、受領機能がViteposで利用できるようになります。各店舗に在庫製品を購入または追加する必要があります。"
+
+msgid "Tax Calculation Method"
+msgstr "税金計算方法"
+
+msgid "Show Order Barcode"
+msgstr "注文バーコードを表示"
+
+msgid "Qrcode"
+msgstr "QRコード"
+
+msgid "Barcode"
+msgstr "バーコード"
+
+msgid "Footer"
+msgstr "フッター"
+
+msgid "Header"
+msgstr "ヘッダー"
+
+msgid "Sale Tax"
+msgstr "消費税"
+
+msgid "Number"
+msgstr "番号"
+
+msgid "Code Type"
+msgstr "コードタイプ"
+
+msgid "Barcode Position"
+msgstr "バーコード位置"
+
+msgid "Loading Messages"
+msgstr "読み込みメッセージ"
+
+msgid "Loading Custom Fields"
+msgstr "カスタムフィールドの読み込み"
+
+msgid ""
+"Soon, we will be adding more options such as Stripe Terminal and Authorize."
+"net to our platform. Thank you for you understanding."
+msgstr ""
+"まもなく、Stripe TerminalやAuthorize.netなどのオプションをプラットフォームに追加します。ご理解のほどよろしくお願いいたします。"
+
+msgid ""
+"Stripe is not enable, for enable stripe payment method please purchase Pro "
+"Version"
+msgstr "Stripeは有効になっていません。Stripe決済方法を有効にするには、Proバージョンを購入してください。"
+
+msgid ""
+"Enabling the toggle button below can incorporate the kitchen procedure, "
+"allowing the order to be completed by the chef rather than by the cashier. "
+"Additionally, the order status can be displayed on a large screen for easy "
+"tracking."
+msgstr ""
+"下のトグルボタンを有効にすると、キッチン手順を組み込み、注文をレジ係ではなくシェフが完了できるようにします。また、注文ステータスは大型画面に表示され、簡単に追跡できます。"
+
+msgid "Show separate tax"
+msgstr "別途税を表示する"
+
+msgid "Separate tax requires pro version."
+msgstr "別途税にはProバージョンが必要です。"
+
+msgid "Form Customization"
+msgstr "フォームのカスタマイズ"
+
+msgid "Item wise interaction"
+msgstr "アイテムごとのインタラクション"
+
+msgid ""
+"Enabling this will allow item wise interaction for a single order where the "
+"status of that order items can be change individually"
+msgstr "これを有効にすると、注文アイテムのステータスを個別に変更できる、単一の注文に対するアイテムごとのインタラクションが可能になります。"
+
+msgid "Send Email To Cashier"
+msgstr "レジ係にメールを送信する"
+
+msgid ""
+"Enabling this feature, will trigger an email to be sent to the user who will "
+"completed the order form vitepos."
+msgstr "この機能を有効にすると、viteposの注文フォームを完了したユーザーにメールが送信されます。"
+
+msgid "Price Customization"
+msgstr "価格のカスタマイズ"
+
+msgid ""
+"Enabling this feature, will enable user to change price of any product while "
+"ordering (on cart)."
+msgstr "この機能を有効にすると、ユーザーは注文時（カート内）に製品の価格を変更できます。"
+
+msgid "Enable RTL"
+msgstr "RTLを有効にする"
+
+msgid "Enabling this feature, will enable RTL mode on POS."
+msgstr "この機能を有効にすると、POSでRTLモードが有効になります。"
+
+msgid "Customer Custom Fields"
+msgstr "顧客カスタムフィールド"
+
+msgid "Order Custom Fields"
+msgstr "注文カスタムフィールド"
+
+msgid "Loading.."
+msgstr "読み込み中..."
+
+msgid "Select Panel"
+msgstr "パネルを選択"
+
+msgid "Select/Search user to add"
+msgstr "追加するユーザーを選択/検索"
+
+msgid "Customer Form Fields"
+msgstr "顧客フォームフィールド"
+
+msgid "Are you sure to make this field hidden?"
+msgstr "このフィールドを非表示にすることを確認しますか？"
+
+msgid "Are you sure to make this field not required?"
+msgstr "このフィールドを必須にしないことを確認しますか？"
+
+msgid "Field Name"
+msgstr "フィールド名"
+
+msgid "Hide"
+msgstr "非表示"
+
+msgid "Required"
+msgstr "必須"
+
+msgid "Customization"
+msgstr "カスタマイズ"
+
+msgid "Enabling order custom fields on invoice requires pro version."
+msgstr "請求書に注文のカスタムフィールドを有効にするには、プロバージョンが必要です。"
+
+msgid "Margin Left"
+msgstr "左マージン"
+
+msgid "Margin Right"
+msgstr "右マージン"
+
+msgid "Enable Single Cash Drawer"
+msgstr "シングルキャッシュドロワーを有効にする"
+
+msgid ""
+"Enabling this feature, will enable single cash drawer by outlet and counter."
+"After enabling this feature you can not create multiple cash drawer on same "
+"outlet with same counter."
+msgstr ""
+"この機能を有効にすると、店舗とカウンター別にシングルキャッシュドロワーが有効になります。この機能を有効にした後、同じ店舗で同じカウンターに複数のキャッシュドロワーを作成することはできません。"
+
+msgid ""
+"This will close all drawers previously opened except the last drawer opened "
+"in any counter."
+msgstr "これにより、カウンターで最後に開かれたドロワーを除いて、以前に開かれたすべてのドロワーが閉じられます。"
+
+msgid "Use camera on barcode scanning"
+msgstr "バーコードスキャンにカメラを使用する"
+
+msgid "Large Screen"
+msgstr "大画面"
+
+msgid "Mobile Screen"
+msgstr "モバイル画面"
+
+msgid ""
+"I agree to delete the %{rolename} and move all users of %{rolename} to the "
+"selected role"
+msgstr "%{rolename} を削除し、%{rolename} のすべてのユーザーを選択したロールに移動することに同意します"
+
+msgid "Single cash drawer only support in pro version."
+msgstr "シングルキャッシュドロワーはプロバージョンでのみサポートされています。"
+
+msgid "Get pro"
+msgstr "プロ版を入手する"
+
+msgid "Add extra input field if require"
+msgstr "必要に応じて追加の入力フィールドを追加"
+
+msgid "Not saved yet"
+msgstr "まだ保存されていません"
+
+msgid "Custom Methods"
+msgstr "カスタムメソッド"
+
+msgid "Add Input"
+msgstr "入力追加"
+
+msgid "Icons"
+msgstr "アイコン"
+
+msgid "Method Name"
+msgstr "メソッド名"
+
+msgid "Is Show In Receipt"
+msgstr "レシートに表示する"
+
+msgid "Are you sure to remove ?"
+msgstr "削除してもよろしいですか？"
+
+msgid "Input Name"
+msgstr "入力名"
+
+msgid "Custom"
+msgstr "カスタム"
+
+msgid "Resetting role"
+msgstr "ロールのリセット"
+
+msgid "Copying role permission"
+msgstr "ロール権限のコピー"
+
+msgid "Custom Method"
+msgstr "カスタムメソッド"
+
+msgid "Related App"
+msgstr "関連するアプリ"
+
+msgid "Related Apps"
+msgstr "関連するアプリ"
+
+msgid ""
+"The Ultimate Coupon Management System.Point of sale (POS) plugin for "
+"wordpress and Woocommerce"
+msgstr "究極のクーポン管理システム。WordPressとWoocommerce用のPOSプラグイン"
+
+msgid " Point of sale (POS) plugin for wordpress and Woocommerce"
+msgstr "WordPress と Woocommerce 向けの POS (販売時点管理) プラグイン"
+
+msgid ""
+"This plugin adds a beautiful mini cart feature to your WooCommerce website, "
+"allowing easy customization to match your preferences."
+msgstr "このプラグインは、WooCommerceウェブサイトに美しいミニカート機能を追加し、あなたの好みに合わせて簡単にカスタマイズできます。"
+
+msgid ""
+"Vite Coupon is a comprehensive coupon management system designed to simplify "
+"the creation, distribution, and tracking of discount coupons for online "
+"businesses."
+msgstr "Vite Couponは、オンラインビジネス向けの割引クーポン作成、配布、追跡を簡素化するために設計された包括的なクーポン管理システムです。"
+
+msgid "Get Pro"
+msgstr "プロ版を入手"
+
+msgid "Product Videos"
+msgstr "商品ビデオ"
+
+msgid "Product Details"
+msgstr "商品詳細"
+
+msgid "See Details"
+msgstr "詳細を見る"
+
+msgid "Activate Pro"
+msgstr "プロ版を有効化"
+
+msgid "Activate"
+msgstr "有効化"
+
+msgid "Install"
+msgstr "インストール"
+
+msgid "Pro"
+msgstr "プロ"
+
+msgid "Download"
+msgstr "ダウンロード"
+
+msgid "Custom payment methode support in pro version only."
+msgstr "カスタム決済方法はプロ版でのみサポートされています。"
+
+msgid "This roles user can see payment notes on order details"
+msgstr "この役割のユーザーは、注文詳細の支払いメモを見ることができます"
+
+msgid "shortcut message"
+msgstr "ショートカットメッセージ"
+
+msgid "Order"
+msgstr "注文"
+
+msgid "deny reason"
+msgstr "拒否理由"
+
+msgid "Text"
+msgstr "テキスト"
+
+msgid "Download PDF"
+msgstr "PDFをダウンロード"
+
+msgid "Loaded"
+msgstr "読み込み済み"
+
+msgid "Category Loading"
+msgstr "カテゴリ読み込み中"
+
+msgid "Product Loading"
+msgstr "商品読み込み中"
+
+msgid "Scan"
+msgstr "スキャン"
+
+msgid "Product"
+msgstr "商品"
+
+msgid "Search Product"
+msgstr "商品を検索"
+
+msgid "Are you sure clear cart?"
+msgstr "カートをクリアしてもよろしいですか？"
+
+msgid "Are you sure?"
+msgstr "よろしいですか？"
+
+msgid "Are you sure to remove item from cart?"
+msgstr "カートから商品を削除してもよろしいですか？"
+
+msgid "Checkout"
+msgstr "チェックアウト"
+
+msgid "Watch tutorial"
+msgstr "チュートリアルを見る"
+
+msgid "Pay"
+msgstr "支払い"
+
+msgid "Add Discount"
+msgstr "割引を追加"
+
+msgid "Add Fee"
+msgstr "料金を追加"
+
+msgid "Add Note"
+msgstr "メモを追加"
+
+msgid "Note"
+msgstr "メモ"
+
+msgid "Note:"
+msgstr "メモ："
+
+msgid "Hold"
+msgstr "保留"
+
+msgid "Calculator"
+msgstr "電卓"
+
+msgid "Go Back"
+msgstr "戻る"
+
+msgid "Empty"
+msgstr "空"
+
+msgid "Clear"
+msgstr "クリア"
+
+msgid "Order # %{ordNumber}"
+msgstr "注文番号 %{ordNumber}"
+
+msgid "Enter amount"
+msgstr "金額を入力"
+
+msgid "Remove from cart?"
+msgstr "カートから削除しますか？"
+
+msgid "Note :"
+msgstr "メモ："
+
+msgid "Pay Now"
+msgstr "今すぐ支払う"
+
+msgid "All Category"
+msgstr "すべてのカテゴリ"
+
+msgid "Select Variations"
+msgstr "バリエーションを選択"
+
+msgid "Scan barcode..."
+msgstr "バーコードをスキャン..."
+
+msgid "Search products..."
+msgstr "商品を検索..."
+
+msgid "Add Product"
+msgstr "商品を追加"
+
+msgid "Add Variations"
+msgstr "バリエーションを追加"
+
+msgid "Add Attributes"
+msgstr "属性を追加"
+
+msgid "Item Name"
+msgstr "商品名"
+
+msgid "Select Category"
+msgstr "カテゴリーを選択"
+
+msgid "Up Sells"
+msgstr "アップセル"
+
+msgid "Product Unit"
+msgstr "商品の単位"
+
+msgid "Cross Sells"
+msgstr "クロスセル"
+
+msgid "Purchase Price"
+msgstr "仕入価格"
+
+msgid "Regular Price"
+msgstr "通常価格"
+
+msgid "Sale Price"
+msgstr "セール価格"
+
+msgid "Manage Stock"
+msgstr "在庫を管理"
+
+msgid "Manage Product"
+msgstr "商品を管理"
+
+msgid "Stock Quantity"
+msgstr "在庫数"
+
+msgid "Stock Alert"
+msgstr "在庫アラート"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Feature Image"
+msgstr "イメージ画像"
+
+msgid "Image"
+msgstr "画像"
+
+msgid "Bar Code"
+msgstr "バーコード"
+
+msgid "Slug"
+msgstr "スラッグ"
+
+msgid "Select Options"
+msgstr "オプションを選択"
+
+msgid "Add Options"
+msgstr "オプションを追加"
+
+msgid "Add Variation"
+msgstr "バリエーションを追加"
+
+msgid "Use For Variation"
+msgstr "バリエーションに使用"
+
+msgid "Add to cart"
+msgstr "カートに追加"
+
+msgid "Manage Customer"
+msgstr "顧客を管理"
+
+msgid "Add Customer"
+msgstr "顧客を追加"
+
+msgid "Edit Customer"
+msgstr "顧客を編集"
+
+msgid "First Name"
+msgstr "名"
+
+msgid "Last Name"
+msgstr "姓"
+
+msgid "Username"
+msgstr "ユーザー名"
+
+msgid "Mobile"
+msgstr "携帯電話"
+
+msgid "Street Address"
+msgstr "住所"
+
+msgid "Post Code"
+msgstr "郵便番号"
+
+msgid "Create Purchase"
+msgstr "購入を作成"
+
+msgid "Select Supplier"
+msgstr "サプライヤーを選択"
+
+msgid "Select Outlet"
+msgstr "アウトレットを選択"
+
+msgid "Select/Search Product"
+msgstr "製品を選択または検索"
+
+msgid "Orders Item*"
+msgstr "注文アイテム*"
+
+msgid "Net Unit Cost"
+msgstr "正味単価"
+
+msgid "Stock"
+msgstr "在庫"
+
+msgid "Quantity"
+msgstr "数量"
+
+msgid "Order Tax"
+msgstr "注文税"
+
+msgid "Shipping Cost"
+msgstr "送料"
+
+msgid "Shipping"
+msgstr "配送"
+
+msgid "Grand Total"
+msgstr "合計"
+
+msgid "Create"
+msgstr "作成"
+
+msgid "Manage Vendor"
+msgstr "ベンダー管理"
+
+msgid "Vendor Description"
+msgstr "ベンダー説明"
+
+msgid "Add Vendor"
+msgstr "ベンダーを追加"
+
+msgid "Product List"
+msgstr "製品一覧"
+
+msgid "Price"
+msgstr "価格"
+
+msgid "Category"
+msgstr "カテゴリー"
+
+msgid "Customer List"
+msgstr "顧客一覧"
+
+msgid "Manage Purchases"
+msgstr "購入管理"
+
+msgid "Purchase List"
+msgstr "購入一覧"
+
+msgid "Add Purchase"
+msgstr "購入を追加"
+
+msgid "Vendor"
+msgstr "ベンダー"
+
+msgid "Total Cost"
+msgstr "合計費用"
+
+msgid "Supplier List"
+msgstr "サプライヤー一覧"
+
+msgid "Add Supplier"
+msgstr "サプライヤーを追加"
+
+msgid "Products"
+msgstr "製品"
+
+msgid "Purchase"
+msgstr "購入"
+
+msgid "Shipment"
+msgstr "出荷"
+
+msgid "Swipe Machine"
+msgstr "スワイプマシン"
+
+msgid "Others"
+msgstr "その他"
+
+msgid "No Customer found"
+msgstr "顧客が見つかりません"
+
+msgid "All Categories"
+msgstr "すべてのカテゴリ"
+
+msgid "Add/Search Customer.."
+msgstr "顧客を追加または検索..."
+
+msgid "Add payment note"
+msgstr "支払メモを追加"
+
+msgid "Last Four Digit of card"
+msgstr "カードの最後の4桁"
+
+msgid "Credentials not matched ! !"
+msgstr "資格情報が一致しません！!"
+
+msgid "Sign In"
+msgstr "サインイン"
+
+msgid "Username or Email address"
+msgstr "ユーザー名またはメールアドレス"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Select Role"
+msgstr "ロールを選択"
+
+msgid "Role"
+msgstr "ロール"
+
+msgid "Designation"
+msgstr "役職"
+
+msgid "Add User"
+msgstr "ユーザーを追加"
+
+msgid "Edit User"
+msgstr "ユーザーを編集"
+
+msgid "Manage User"
+msgstr "ユーザー管理"
+
+msgid "User List"
+msgstr "ユーザーリスト"
+
+msgid "Sale History"
+msgstr "販売履歴"
+
+msgid "Hold Sale"
+msgstr "保留販売"
+
+msgid "Offline Sale"
+msgstr "オフライン販売"
+
+msgid "Brand"
+msgstr "ブランド"
+
+msgid "Contact Info"
+msgstr "連絡先情報"
+
+msgid "Sub Total"
+msgstr "小計"
+
+msgid "customer"
+msgstr "顧客"
+
+msgid "Total Quantity"
+msgstr "総数量"
+
+msgid "%{qty} of %{items}"
+msgstr "%{数量} / %{アイテム}"
+
+msgid "Weight"
+msgstr "重量"
+
+msgid "Height"
+msgstr "高さ"
+
+msgid "Width"
+msgstr "幅"
+
+msgid "Length"
+msgstr "長さ"
+
+msgid "Tax Status"
+msgstr "税金ステータス"
+
+msgid "Tax Class"
+msgstr "税金クラス"
+
+msgid "products"
+msgstr "製品"
+
+msgid "Up Sale"
+msgstr "アップセール"
+
+msgid "Upload a Feature Image"
+msgstr "特徴画像をアップロード"
+
+msgid "Seller"
+msgstr "販売者"
+
+msgid "Customer info"
+msgstr "顧客情報"
+
+msgid "Order Details"
+msgstr "注文詳細"
+
+msgid "Print"
+msgstr "印刷"
+
+msgid "Manage Orders"
+msgstr "注文の管理"
+
+msgid "Customer Loading ..."
+msgstr "顧客をロードしています..."
+
+msgid "Profile"
+msgstr "プロフィール"
+
+msgid "Logout"
+msgstr "ログアウト"
+
+msgid "Lock"
+msgstr "ロック"
+
+msgid "Change Password"
+msgstr "パスワードを変更"
+
+msgid "Sync from database"
+msgstr "データベースから同期"
+
+msgid "You are Connected"
+msgstr "接続されています"
+
+msgid "You Need To Check Your Connection"
+msgstr "接続を確認する必要があります"
+
+msgid "Change Outlet"
+msgstr "店舗を変更"
+
+msgid "Close fullscreen"
+msgstr "全画面表示を閉じる"
+
+msgid "Open fullscreen"
+msgstr "全画面表示を開く"
+
+msgid "new"
+msgstr "新規"
+
+msgid "Select Counter"
+msgstr "カウンターを選択"
+
+msgid "Hello,"
+msgstr "こんにちは、"
+
+msgid "Submit"
+msgstr "送信"
+
+msgid "Change"
+msgstr "変更"
+
+msgid "Cash Drawer Balance"
+msgstr "現金引出し残高"
+
+msgid "Cash Drawer Balance:"
+msgstr "現金引出し残高："
+
+msgid "Go to Pos"
+msgstr "POSへ行く"
+
+msgid "Go With Current Balance"
+msgstr "現在の残高で進む"
+
+msgid "Help and info"
+msgstr "ヘルプと情報"
+
+msgid "Active Barcode Search"
+msgstr "有効なバーコード検索"
+
+msgid "Active Product Search"
+msgstr "有効な製品検索"
+
+msgid "Pos Menu"
+msgstr "POSメニュー"
+
+msgid "Checkout Page"
+msgstr "チェックアウトページ"
+
+msgid "Full-screen/Normal-screen"
+msgstr "全画面/通常画面"
+
+msgid "Lock Screen"
+msgstr "ロック画面"
+
+msgid "Shortcut"
+msgstr "ショートカット"
+
+msgid "About"
+msgstr "について"
+
+msgid "Profile Info"
+msgstr "プロフィール情報"
+
+msgid "Manage Profile"
+msgstr "プロフィール管理"
+
+msgid "Role :"
+msgstr "役割："
+
+msgid "Current Outlet:"
+msgstr "現在の店舗："
+
+msgid "Address:"
+msgstr "住所："
+
+msgid "User Name:"
+msgstr "ユーザー名："
+
+msgid "Designation:"
+msgstr "役職："
+
+msgid "Email:"
+msgstr "メールアドレス："
+
+msgid "Contact:"
+msgstr "連絡先："
+
+msgid "Total Outlet:"
+msgstr "店舗数："
+
+msgid "Current password"
+msgstr "現在のパスワード"
+
+msgid "New password"
+msgstr "新しいパスワード"
+
+msgid "Re-type New password"
+msgstr "新しいパスワードを再入力"
+
+msgid "Search/Choose country"
+msgstr "国を検索または選択"
+
+msgid "Oops !! "
+msgstr "しまった！！"
+
+msgid "No item found for this category or search"
+msgstr "このカテゴリまたは検索でアイテムが見つかりません"
+
+msgid "Menu"
+msgstr "メニュー"
+
+msgid "Cart"
+msgstr "カート"
+
+msgid "Hold List"
+msgstr "保留リスト"
+
+msgid "Last 4 Digit:"
+msgstr "下4桁："
+
+msgid "Details"
+msgstr "詳細"
+
+msgid "Choose property"
+msgstr "プロパティを選択"
+
+msgid "Property"
+msgstr "プロパティ"
+
+msgid "Amount:"
+msgstr "金額："
+
+msgid "Search or add a tag"
+msgstr "タグを検索または追加"
+
+msgid "Search/Choose Category"
+msgstr "カテゴリを検索または選択"
+
+msgid "Dimension and Tax"
+msgstr "寸法と税金"
+
+msgid "None"
+msgstr "なし"
+
+msgid "Taxable"
+msgstr "課税対象"
+
+msgid "Shipping only"
+msgstr "配送のみ"
+
+msgid "Standard"
+msgstr "標準"
+
+msgid "Reduced rate"
+msgstr "軽減税率"
+
+msgid "Zero rate"
+msgstr "ゼロ税率"
+
+msgid "Select / Custom Attributes"
+msgstr "選択またはカスタム属性"
+
+msgid "Example `Color`"
+msgstr "例：`色`"
+
+msgid "Example Red|Blue|Green "
+msgstr "例 赤|青|緑"
+
+msgid "No Variants Selected"
+msgstr "バリアントが選択されていません"
+
+msgid "Attributes List"
+msgstr "属性リスト"
+
+msgid "Any Options"
+msgstr "任意のオプション"
+
+msgid "Dimension as Parent"
+msgstr "親と同じ寸法"
+
+msgid "Shipping and Tax Will be same as Parent"
+msgstr "送料と税金は親と同じ"
+
+msgid "Manage Barcode"
+msgstr "バーコード管理"
+
+msgid "Generate Barcodes"
+msgstr "バーコードを生成"
+
+msgid "Choose a Outlet"
+msgstr "店舗を選択"
+
+msgid "Paper Size"
+msgstr "用紙サイズ"
+
+msgid "Choose a paper settings"
+msgstr "用紙設定を選択"
+
+msgid "Add Stock"
+msgstr "在庫を追加"
+
+msgid "Select Vendor"
+msgstr "ベンダーを選択"
+
+msgid "Choose Outlet"
+msgstr "店舗を選択"
+
+msgid "Choose/Search Product"
+msgstr "商品を選択/検索"
+
+msgid "Choose Role"
+msgstr "役割を選択"
+
+msgid "Update Status?"
+msgstr "ステータスを更新しますか？"
+
+msgid "Add to Cart"
+msgstr "カートに追加"
+
+msgid "Remove from hold"
+msgstr "保留から削除"
+
+msgid "Created Time"
+msgstr "作成日時"
+
+msgid "Edit Vendor"
+msgstr "ベンダーを編集"
+
+msgid "Successfully Updated"
+msgstr "正常に更新されました"
+
+msgid "Purchase List Loading ..."
+msgstr "購入リストを読み込み中..."
+
+msgid "Order List Loading ..."
+msgstr "注文リストを読み込み中..."
+
+msgid "Product Loading ..."
+msgstr "商品を読み込み中..."
+
+msgid "Stock List Loading ..."
+msgstr "在庫リストを読み込み中..."
+
+msgid "Vendor List Loading ..."
+msgstr "ベンダーリストを読み込み中..."
+
+msgid "User List Loading ..."
+msgstr "ユーザーリストを読み込み中..."
+
+msgid "Are you sure to delete this user: %{user}?"
+msgstr "このユーザー: %{user} を削除してもよろしいですか?"
+
+msgid "Are you sure to delete this Customer: %{customer}?"
+msgstr "この顧客: %{customer} を削除してもよろしいですか?"
+
+msgid "Are you sure to remove item from Holds?"
+msgstr "保留から商品を削除してもよろしいですか？"
+
+msgid "Are you sure to remove all item from cart?"
+msgstr "カートからすべての商品を削除してもよろしいですか？"
+
+msgid "Loading Product Details..."
+msgstr "商品詳細を読み込み中..."
+
+msgid "Order Details Loading..."
+msgstr "注文詳細を読み込み中..."
+
+msgid "Loading Vendor Details..."
+msgstr "ベンダー詳細を読み込み中..."
+
+msgid "Loading Customer Details..."
+msgstr "顧客詳細を読み込み中..."
+
+msgid "Loading User Details..."
+msgstr "ユーザー詳細を読み込み中..."
+
+msgid "Are you sure to delete this vendor: %{vendor}?"
+msgstr "このベンダー %{vendor} を削除してもよろしいですか?"
+
+msgid "Restore From Hold"
+msgstr "保留から復元"
+
+msgid "Want You like to do with current cart ?"
+msgstr "現在のカートでどうしますか？"
+
+msgid "Hold cart"
+msgstr "カートを保留"
+
+msgid "Clear Cart"
+msgstr "カートをクリア"
+
+msgid "To POS"
+msgstr "POSへ"
+
+msgid "Payment Note"
+msgstr "支払いのメモ"
+
+msgid "Payment Amount"
+msgstr "支払い金額"
+
+msgid "Card"
+msgstr "カード"
+
+msgid "Type to search"
+msgstr "検索する"
+
+msgid "Show Details"
+msgstr "詳細を表示"
+
+msgid "Loading Purchase Details..."
+msgstr "購入詳細を読み込み中..."
+
+msgid "Purchase Details"
+msgstr "購入詳細"
+
+msgid "Outlet:"
+msgstr "店舗:"
+
+msgid "Supplier:"
+msgstr "サプライヤー："
+
+msgid "Purchased Date:"
+msgstr "購入日："
+
+msgid "Purchased No:"
+msgstr "購入番号："
+
+msgid "Purchased By:"
+msgstr "購入者："
+
+msgid "Payment Status:"
+msgstr "支払い状況："
+
+msgid "Paid"
+msgstr "支払済み"
+
+msgid "Unpaid"
+msgstr "未払い"
+
+msgid "Purchased Items"
+msgstr "購入商品"
+
+msgid "Items Price"
+msgstr "商品価格"
+
+msgid "Total cost"
+msgstr "合計金額"
+
+msgid "Print Receipt"
+msgstr "レシートを印刷"
+
+msgid "New sale"
+msgstr "新規販売"
+
+msgid "Payment processing ..."
+msgstr "支払い処理中..."
+
+msgid "User loading ..."
+msgstr "ユーザー読み込み中..."
+
+msgid "Loading From"
+msgstr "読み込み元"
+
+msgid "Pro Version Required for this feature"
+msgstr "この機能はPro版が必要です"
+
+msgid "Hold Cart Supported In Pro Version"
+msgstr "カート保留はPro版でサポートされています"
+
+msgid "Notification details"
+msgstr "通知の詳細"
+
+msgid "Go To Purchase"
+msgstr "購入へ進む"
+
+msgid "Stock Alert!"
+msgstr "在庫アラート！"
+
+msgid "Stock is running low Please purchase item to increase stock"
+msgstr "在庫が少なくなっています。在庫を増やすために商品を購入してください"
+
+msgid "Personal Information"
+msgstr "個人情報"
+
+msgid "Outlet Information"
+msgstr "店舗情報"
+
+msgid "Current Cash Drawer Information"
+msgstr "現在の現金ドロワー情報"
+
+msgid "Cash Information"
+msgstr "現金情報"
+
+msgid "Opening Cash"
+msgstr "現金の開始額"
+
+msgid "Current Cash"
+msgstr "現在の現金"
+
+msgid "Counter Information"
+msgstr "カウンター情報"
+
+msgid "Counter Number"
+msgstr "カウンター番号"
+
+msgid "Want to close cash drawer?"
+msgstr "現金ドロワーを閉じますか？"
+
+msgid "Need to close cash drawer to change outlet. Do you want to close now?"
+msgstr "店舗を変更するには現金ドロワーを閉じる必要があります。今閉じますか？"
+
+msgid "Cash Drawer"
+msgstr "現金ドロワー"
+
+msgid "No name found"
+msgstr "名前が見つかりません"
+
+msgid "No number found"
+msgstr "番号が見つかりません"
+
+msgid "No designation found"
+msgstr "指定が見つかりません"
+
+msgid "No cash drawer information found"
+msgstr "現金ドロワーの情報が見つかりません"
+
+msgid "Download "
+msgstr "ダウンロード"
+
+msgid "Add To Cart ("
+msgstr "カートに追加 ("
+
+msgid "Add To Cart"
+msgstr "カートに追加"
+
+msgid "Changed Amount"
+msgstr "変更された金額"
+
+msgid "Other"
+msgstr "その他"
+
+msgid "Cash Summary"
+msgstr "現金サマリー"
+
+msgid "Close & Create New"
+msgstr "閉じる＆新規作成"
+
+msgid "Close & Logout"
+msgstr "閉じる＆ログアウト"
+
+msgid "Current cash drawer order list"
+msgstr "現在の現金ドロワーの注文リスト"
+
+msgid "Hold no : %{holdNo}"
+msgstr "保留番号: %{holdNo}"
+
+msgid "Upload Image For This Variation"
+msgstr "このバリエーションの画像をアップロード"
+
+msgid "Do you want to close cash drawer & logout?"
+msgstr "キャッシュドロワーを閉じてログアウトしますか？"
+
+msgid "Do you want to close current cash drawer & create new cash drawer?"
+msgstr "現在のキャッシュドロワーを閉じて、新しいキャッシュドロワーを作成しますか？"
+
+msgid "Cash drawer loading..."
+msgstr "キャッシュドロワーを読み込み中..."
+
+msgid "Thank You For Purchasing"
+msgstr "ご購入ありがとうございました"
+
+msgid "Sign in using another account."
+msgstr "別のアカウントでサインインしてください。"
+
+msgid "click here"
+msgstr "ここをクリック"
+
+msgid "Regular unit price: %{reg_price}, sale price: %{sale}"
+msgstr "通常単価: %{reg_price}、セール価格: %{sale}"
+
+msgid "You are not connected"
+msgstr "接続されていません"
+
+msgid "This module is not support in offline"
+msgstr "このモジュールはオフラインではサポートされていません"
+
+msgid "Update Note"
+msgstr "更新ノート"
+
+msgid "Selected Product"
+msgstr "選択した商品"
+
+msgid "Product Name"
+msgstr "商品名"
+
+msgid "Product Syncing"
+msgstr "商品同期"
+
+msgid "Last sync :"
+msgstr "最終同期："
+
+msgid ""
+"To process order offline please ask your admin to enable offline order "
+"feature."
+msgstr "オフラインで注文を処理するには、管理者にオフライン注文機能を有効にするよう依頼してください。"
+
+msgid "Upload More Images For This Product"
+msgstr "この商品にさらに画像をアップロード"
+
+msgid "No barcode found for this product"
+msgstr "この商品にバーコードが見つかりません"
+
+msgid "This product already added in the list"
+msgstr "この商品はすでにリストに追加されています"
+
+msgid "Set Password"
+msgstr "パスワードを設定"
+
+msgid "Change password required"
+msgstr "パスワードの変更が必要です"
+
+msgid ""
+"This would be a temporary password.The user have to change their password on "
+"first login."
+msgstr "これは一時的なパスワードです。ユーザーは最初のログイン時にパスワードを変更する必要があります。"
+
+msgid "%{fld_name} does not match with its password"
+msgstr "%{fld_name} はパスワードと一致しません"
+
+msgid "Set password"
+msgstr "パスワードを設定"
+
+msgid "Loading..."
+msgstr "読み込み中..."
+
+msgid "Loading"
+msgstr "読み込み中"
+
+msgid "Roles Loading"
+msgstr "ロールを読み込み中"
+
+msgid "Attributes Loading"
+msgstr "属性を読み込み中"
+
+msgid "Edit Product"
+msgstr "商品を編集"
+
+msgid "Are you sure to delete this product: %{product}?"
+msgstr "この製品: %{product} を削除してもよろしいですか?"
+
+msgid "Customer add not supported in offline"
+msgstr "オフラインでは顧客を追加できません"
+
+msgid "Click to see offline order"
+msgstr "クリックしてオフライン注文を見る"
+
+msgid "Syncing offline orders"
+msgstr "オフライン注文を同期中"
+
+msgid ""
+"You do not have permission of add customer, contact your admin to get this "
+"permission."
+msgstr "顧客を追加する権限がありません。管理者に連絡して権限を取得してください。"
+
+msgid "Settings Loading"
+msgstr "設定を読み込み中"
+
+msgid "POS"
+msgstr "POS"
+
+msgid "Create New"
+msgstr "新規作成"
+
+msgid "No address found"
+msgstr "住所が見つかりません"
+
+msgid "hold items"
+msgstr "商品を保留"
+
+msgid "Supplier"
+msgstr "仕入先"
+
+msgid "Select variation"
+msgstr "バリエーションを選択"
+
+msgid "Drawer Log"
+msgstr "ドロワーログ"
+
+msgid "Customer View"
+msgstr "顧客ビュー"
+
+msgid "Product Syncing."
+msgstr "商品を同期中。"
+
+msgid "Select Sub-category"
+msgstr "サブカテゴリを選択"
+
+msgid "Last 7 days cash drawer logs"
+msgstr "過去7日間のキャッシュドロワーログ"
+
+msgid "Opened By"
+msgstr "オープン者"
+
+msgid "Closed By"
+msgstr "クローズ者"
+
+msgid "drawer logs"
+msgstr "ドロワーログ"
+
+msgid "Operate By"
+msgstr "操作者"
+
+msgid "Outlet - Counter"
+msgstr "アウトレット - カウンター"
+
+msgid "Balance"
+msgstr "残高"
+
+msgid "Time"
+msgstr "時間"
+
+msgid "Offline"
+msgstr "オフライン"
+
+msgid "Completed"
+msgstr "完了"
+
+msgid "Show Price"
+msgstr "価格を表示"
+
+msgid "Show price on barcode label"
+msgstr "バーコードラベルに価格を表示"
+
+msgid "Online"
+msgstr "オンライン"
+
+msgid "Order Status :"
+msgstr "注文状況："
+
+msgid "Drawer Log Loading ..."
+msgstr "ドロワーログ読み込み中..."
+
+msgid "Opening - Closing"
+msgstr "オープン - クローズ"
+
+msgid "Opening time"
+msgstr "開店時間"
+
+msgid "Closing Time"
+msgstr "閉店時間"
+
+msgid "Open :"
+msgstr "オープン："
+
+msgid "Close :"
+msgstr "クローズ："
+
+msgid "Previous Balance :"
+msgstr "前回残高："
+
+msgid "Amount"
+msgstr "金額"
+
+msgid "Opening Balance"
+msgstr "開店時残高"
+
+msgid "Closing Balance"
+msgstr "閉店時残高"
+
+msgid "On going"
+msgstr "進行中"
+
+msgid "No permission to add discount"
+msgstr "割引を追加する権限がありません"
+
+msgid "You can not add this much of discount"
+msgstr "これだけの割引を追加することはできません"
+
+msgid ""
+"Vitepos is a POS specialized software which is the right solution for your "
+"business."
+msgstr "Viteposは、ビジネスに最適なPOS特化ソフトウェアです。"
+
+msgid "Cash Drawer details"
+msgstr "現金ドロワーの詳細"
+
+msgid "Drawer Opened"
+msgstr "ドロワーが開かれました"
+
+msgid "Make favorite"
+msgstr "お気に入りに追加"
+
+msgid "Add items to give discount"
+msgstr "割引を適用する商品を追加"
+
+msgid "Add items to add fee"
+msgstr "手数料を追加する商品を追加"
+
+msgid "Role wise discount manage"
+msgstr "ロール別の割引管理"
+
+msgid "Table Panel"
+msgstr "テーブルパネル"
+
+msgid "Loading Table Details..."
+msgstr "テーブル詳細を読み込み中..."
+
+msgid "Add Table"
+msgstr "テーブルを追加"
+
+msgid "Edit Table"
+msgstr "テーブルを編集"
+
+msgid "Types"
+msgstr "タイプ"
+
+msgid "Table"
+msgstr "テーブル"
+
+msgid "Parcel"
+msgstr "宅配"
+
+msgid "Table Title"
+msgstr "テーブル名"
+
+msgid "Seat Capability"
+msgstr "座席数"
+
+msgid "Table Description"
+msgstr "テーブルの説明"
+
+msgid "Table Image"
+msgstr "テーブル画像"
+
+msgid "Upload Table Image"
+msgstr "テーブル画像をアップロード"
+
+msgid "Is Mergeable?"
+msgstr "マージ可能？"
+
+msgid "Empty seat:"
+msgstr "空席："
+
+msgid "Are you sure to delete this Table: %{table}?"
+msgstr "このテーブル: %{table} を削除してもよろしいですか?"
+
+msgid "Add Addon"
+msgstr "追加オプションを追加"
+
+msgid "Fields"
+msgstr "フィールド"
+
+msgid "New Field"
+msgstr "新しいフィールド"
+
+msgid "No fields Added"
+msgstr "フィールドは追加されていません"
+
+msgid "Rules"
+msgstr "ルール"
+
+msgid "Add Rules Group"
+msgstr "ルールグループを追加"
+
+msgid "AND"
+msgstr "AND"
+
+msgid "Rule Group"
+msgstr "ルールグループ"
+
+msgid "Add Rules"
+msgstr "ルールを追加"
+
+msgid "No Rules Added"
+msgstr "ルールは追加されていません"
+
+msgid "No Rules Group Added"
+msgstr "ルールグループは追加されていません"
+
+msgid "Addons Panel"
+msgstr "アドオンパネル"
+
+msgid "Manage Drawer Log"
+msgstr "ドロワーログを管理"
+
+msgid "Waiter POS"
+msgstr "ウェイターPOS"
+
+msgid "Addons"
+msgstr "アドオン"
+
+msgid "Tables"
+msgstr "テーブル"
+
+msgid "Add Addons"
+msgstr "アドオンを追加"
+
+msgid "Addons List Loading..."
+msgstr "アドオンリストを読み込み中..."
+
+msgid "Title/Label"
+msgstr "タイトル/ラベル"
+
+msgid "Textbox"
+msgstr "テキストボックス"
+
+msgid "Textbox (Multiline)"
+msgstr "テキストボックス（複数行）"
+
+msgid "Dropdown"
+msgstr "ドロップダウン"
+
+msgid "Radio"
+msgstr "ラジオボタン"
+
+msgid "Checkbox"
+msgstr "チェックボックス"
+
+msgid "Placeholder"
+msgstr "プレースホルダー"
+
+msgid "Default value"
+msgstr "デフォルト値"
+
+msgid "Max Limit"
+msgstr "最大制限"
+
+msgid "Is Required?"
+msgstr "必須ですか？"
+
+msgid "Is Selected?"
+msgstr "選択されていますか？"
+
+msgid "Equal to"
+msgstr "等しい"
+
+msgid "Not equal to"
+msgstr "等しくない"
+
+msgid "Remove from favorite"
+msgstr "お気に入りに登録から削除"
+
+msgid "Edit custom page size"
+msgstr "カスタムページサイズを編集"
+
+msgid "Delete custom page size"
+msgstr "カスタムページサイズを削除"
+
+msgid "Are you sure to delete this page style?"
+msgstr "このページスタイルを削除してもよろしいですか？"
+
+msgid "Code type is required"
+msgstr "コードの種類は必須です"
+
+msgid "Title is required"
+msgstr "タイトルは必須です"
+
+msgid "Choose type of code"
+msgstr "コードの種類を選択"
+
+msgid "Custom Size Title"
+msgstr "カスタムサイズタイトル"
+
+msgid "QR-code"
+msgstr "QRコード"
+
+msgid "Page Height"
+msgstr "ページの高さ"
+
+msgid "Keep blank for auto height"
+msgstr "自動高さにする場合は空白にしてください"
+
+msgid "Blank for auto"
+msgstr "空白で自動"
+
+msgid "Please add a width for paper size"
+msgstr "用紙サイズに幅を追加してください"
+
+msgid "Page Padding"
+msgstr "ページパディング"
+
+msgid "Left,Right"
+msgstr "左,右"
+
+msgid "Top,Bottom"
+msgstr "上、下"
+
+msgid "Container Margin"
+msgstr "コンテナ マージン"
+
+msgid "Container Size"
+msgstr "コンテナ サイズ"
+
+msgid "Barcode width"
+msgstr "バーコード幅"
+
+msgid "Barcode Height"
+msgstr "バーコード高さ"
+
+msgid "Number of barcode in a page"
+msgstr "1ページあたりのバーコード数"
+
+msgid "Page break counter"
+msgstr "改ページカウンター"
+
+msgid "Add page break counter"
+msgstr "改ページカウンターを追加"
+
+msgid "Price Update list"
+msgstr "価格更新リスト"
+
+msgid "Current Cost"
+msgstr "現在の費用"
+
+msgid "Previous Cost"
+msgstr "以前の費用"
+
+msgid "price updated product"
+msgstr "価格が更新された製品"
+
+msgid "Select State"
+msgstr "州を選択"
+
+msgid "Loading cash drawer details..."
+msgstr "キャッシュドロワーの詳細を読み込んでいます..."
+
+msgid "Outlet :"
+msgstr "店舗 :"
+
+msgid "Counter :"
+msgstr "カウンター :"
+
+msgid "Previous Balance"
+msgstr "前回の残高"
+
+msgid "Loading Addon Details..."
+msgstr "追加の詳細を読み込んでいます..."
+
+msgid "OR"
+msgstr "または"
+
+msgid "Select Waiters"
+msgstr "ウェイターを選択"
+
+msgid "Orders Details"
+msgstr "注文の詳細"
+
+msgid "Order Time"
+msgstr "注文時間"
+
+msgid "Reload Caps"
+msgstr "キャップをリロード"
+
+msgid "Status:"
+msgstr "ステータス:"
+
+msgid "Sync Orders"
+msgstr "注文を同期"
+
+msgid "Create New Order"
+msgstr "新規注文を作成"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Create Order"
+msgstr "注文を作成"
+
+msgid "New Order"
+msgstr "新規注文"
+
+msgid "Table is"
+msgstr "テーブルは"
+
+msgid "and person count"
+msgstr "と人数"
+
+msgid "Choose table and persons"
+msgstr "テーブルと人数を選択"
+
+msgid "Done"
+msgstr "完了"
+
+msgid "Choose Table"
+msgstr "テーブルを選択"
+
+msgid "Parcel mode is chosen"
+msgstr "宅配モードが選択されました"
+
+msgid "Choose Table to enter person"
+msgstr "人数を入力するテーブルを選択"
+
+msgid "Number of person"
+msgstr "人数"
+
+msgid "No message found"
+msgstr "メッセージが見つかりません"
+
+msgid "Canceled"
+msgstr "キャンセル済み"
+
+msgid "Are you sure to cancel the order?"
+msgstr "注文をキャンセルしてもよろしいですか？"
+
+msgid "Shortcuts"
+msgstr "ショートカット"
+
+msgid "In Kitchen"
+msgstr "キッチン内"
+
+msgid "To Kitchen"
+msgstr "キッチンへ"
+
+msgid "Preparing"
+msgstr "調理中"
+
+msgid "Ready to Serve"
+msgstr "提供準備完了"
+
+msgid "Cancelled"
+msgstr "キャンセル済み"
+
+msgid "Served"
+msgstr "提供済み"
+
+msgid "Make Serve"
+msgstr "提供"
+
+msgid "Waiting"
+msgstr "待機中"
+
+msgid "Request canceled"
+msgstr "リクエストキャンセル"
+
+msgid "Order is cancelled"
+msgstr "注文はキャンセルされました"
+
+msgid "Cancel requested"
+msgstr "キャンセル要求"
+
+msgid "See/edit table and person info"
+msgstr "テーブルと顧客情報の確認／編集"
+
+msgid "Kitchen"
+msgstr "キッチン"
+
+msgid "Table "
+msgstr "テーブル"
+
+msgid "Waiter requested to cancel"
+msgstr "ウェイターがキャンセルをリクエスト"
+
+msgid "Accept"
+msgstr "承認"
+
+msgid "Deny"
+msgstr "拒否"
+
+msgid "Deny order"
+msgstr "注文を拒否"
+
+msgid "Start Preparing"
+msgstr "準備開始"
+
+msgid "Print Order"
+msgstr "注文を印刷"
+
+msgid "Add message"
+msgstr "メッセージを追加"
+
+msgid "Are you sure you are starting?"
+msgstr "準備を開始しますか？"
+
+msgid "Are you sure order is ready to serve?"
+msgstr "注文は提供準備が整っていますか？"
+
+msgid "Are you sure to serve the order?"
+msgstr "注文を提供しますか？"
+
+msgid "Why are denying this order?"
+msgstr "なぜこの注文を拒否しますか？"
+
+msgid "Input is empty"
+msgstr "入力内容がありません"
+
+msgid "No order found"
+msgstr "注文が見つかりません"
+
+msgid "Served By"
+msgstr "提供者"
+
+msgid "Current Status"
+msgstr "現在のステータス"
+
+msgid "Order Type"
+msgstr "注文タイプ"
+
+msgid "In Dine"
+msgstr "店内飲食"
+
+msgid "Order Note"
+msgstr "注文メモ"
+
+msgid "Thank You"
+msgstr "ありがとうございました"
+
+msgid "Loading orders..."
+msgstr "注文を読み込んでいます..."
+
+msgid "TABLE"
+msgstr "テーブル"
+
+msgid "Loading order details..."
+msgstr "注文詳細を読み込んでいます..."
+
+msgid "Seat capacity is low than person number"
+msgstr "座席数が顧客数より少ない"
+
+msgid "Out of Stock"
+msgstr "在庫切れ"
+
+msgid "Current Stock"
+msgstr "現在の在庫"
+
+msgid "Stock Transfer"
+msgstr "在庫移動"
+
+msgid "Receive Transfer"
+msgstr "移動を受け取る"
+
+msgid "Transfer List Loading ..."
+msgstr "移動リストを読み込んでいます..."
+
+msgid "From Outlet"
+msgstr "出荷元"
+
+msgid "To Outlet"
+msgstr "入荷先"
+
+msgid "Transfer Date"
+msgstr "移動日"
+
+msgid "Receive Date"
+msgstr "受領日"
+
+msgid "Transfer Stock"
+msgstr "在庫移動"
+
+msgid "From outlet"
+msgstr "出荷元"
+
+msgid "Notes"
+msgstr "メモ"
+
+msgid "Scan Product"
+msgstr "商品をスキャン"
+
+msgid "Transfer Item*"
+msgstr "移動アイテム*"
+
+msgid "In-stock"
+msgstr "在庫あり"
+
+msgid "Transfer Quantity"
+msgstr "移動数量"
+
+msgid "Item no"
+msgstr "商品番号"
+
+msgid "quantity is"
+msgstr "数量は"
+
+msgid "Loading Transfer Details..."
+msgstr "移動の詳細を読み込んでいます..."
+
+msgid "Transfer Details"
+msgstr "移転の詳細"
+
+msgid "From Outlet:"
+msgstr "出荷元："
+
+msgid "No outlet found:"
+msgstr "アウトレットが見つかりません："
+
+msgid "Transfer By:"
+msgstr "移転者："
+
+msgid "Transfer date:"
+msgstr "移転日："
+
+msgid "To Outlet:"
+msgstr "配送先："
+
+msgid "Declined By"
+msgstr "拒否者"
+
+msgid "Receive By"
+msgstr "受領者"
+
+msgid "Not Received yet"
+msgstr "未受領"
+
+msgid "Transfer Status:"
+msgstr "移転ステータス："
+
+msgid "Pending"
+msgstr "保留中"
+
+msgid "Transferred Items"
+msgstr "移転済み商品"
+
+msgid "Transfer Note"
+msgstr "移転メモ"
+
+msgid "Receive Note:"
+msgstr "受領メモ："
+
+msgid "Add note befor decline"
+msgstr "拒否前にメモを追加"
+
+msgid "Decline"
+msgstr "拒否"
+
+msgid "Receive"
+msgstr "受け取る"
+
+msgid "Receiving Stocks"
+msgstr "在庫の受け取り"
+
+msgid "Out of stock"
+msgstr "在庫切れ"
+
+msgid ""
+"check for add this product to update price list, if need to update product "
+"price"
+msgstr "価格リストを更新する必要がある場合、この製品を追加して価格リストを更新してください。"
+
+msgid "Previous purchase cost :"
+msgstr "前回の購入費用："
+
+msgid "Current purchase cost :"
+msgstr "現在の購入費用："
+
+msgid "Product name :"
+msgstr "商品名："
+
+msgid "NOTE : Regular price is less than purchase price"
+msgstr "注：通常価格は購入価格よりも安いです"
+
+msgid "Last 5 Purchase History"
+msgstr "過去5回の購入履歴"
+
+msgid "Previous Purchase Price"
+msgstr "前回の購入価格"
+
+msgid "Current Purchase Price"
+msgstr "現在の購入価格"
+
+msgid "Are you sure to ignore this update of price ?"
+msgstr "この価格の更新を無視しますか？"
+
+msgid "Ignore"
+msgstr "無視"
+
+msgid "Update Prices"
+msgstr "価格を更新"
+
+msgid "Ignore Update"
+msgstr "更新を無視"
+
+msgid "Stock Counter"
+msgstr "在庫カウンター"
+
+msgid "No short messages found"
+msgstr "ショートメッセージが見つかりません"
+
+msgid "No table found please add some table"
+msgstr "テーブルが見つかりません。テーブルを追加してください"
+
+msgid "Ready to serve"
+msgstr "提供準備完了"
+
+msgid "Stock Log"
+msgstr "在庫ログ"
+
+msgid "Loading Stock Logs..."
+msgstr "在庫ログの読み込み中..."
+
+msgid "Stock Details"
+msgstr "在庫詳細"
+
+msgid "Name :"
+msgstr "名称："
+
+msgid "Price :"
+msgstr "価格："
+
+msgid "Product Stock Logs"
+msgstr "製品在庫ログ"
+
+msgid "Previous"
+msgstr "以前"
+
+msgid "Current"
+msgstr "現在"
+
+msgid "No logs found for this product"
+msgstr "この製品のログが見つかりません"
+
+msgid "No active orders found"
+msgstr "アクティブな注文が見つかりません"
+
+msgid "No cancelled order found"
+msgstr "キャンセルされた注文が見つかりません"
+
+msgid "No Table found please add table first"
+msgstr "テーブルが見つかりません。最初にテーブルを追加してください"
+
+msgid "Select Addons"
+msgstr "追加オプションを選択"
+
+msgid "Deny Order"
+msgstr "注文を拒否"
+
+msgid "Are you sure,want to make cancel request?"
+msgstr "キャンセルリクエストを送信しますか？"
+
+msgid "Are sure to deny cancel request?"
+msgstr "キャンセルリクエストを拒否しますか？"
+
+msgid "Are sure to accept cancel?"
+msgstr "キャンセルを受け入れますか？"
+
+msgid "Request to cancel order"
+msgstr "注文のキャンセルリクエスト"
+
+msgid "Are you sure to make this product favorite"
+msgstr "この製品をお気に入りに登録しますか？"
+
+msgid "Make Completed"
+msgstr "完了にする"
+
+msgid "Sync restaurant order list"
+msgstr "レストランの注文リストを同期"
+
+msgid "Seat capacity : %{seat_cap}"
+msgstr "座席数: %{seat_cap}"
+
+msgid "Favorite"
+msgstr "お気に入り"
+
+msgid "No variations"
+msgstr "バリエーションはありません"
+
+msgid "Full Refund"
+msgstr "全額返金"
+
+msgid "Refund"
+msgstr "返金"
+
+msgid "Search Again"
+msgstr "再度検索"
+
+msgid "Order is loading..."
+msgstr "注文を読み込んでいます..."
+
+msgid "Refunding Order..."
+msgstr "注文を返金しています..."
+
+msgid "Refund Orders"
+msgstr "返金注文"
+
+msgid "Mute"
+msgstr "ミュート"
+
+msgid "Draft"
+msgstr "下書き"
+
+msgid "Failed"
+msgstr "失敗"
+
+msgid "Refunded"
+msgstr "返金済み"
+
+msgid "On hold"
+msgstr "保留中"
+
+msgid "Processing"
+msgstr "処理中"
+
+msgid "Pending payment"
+msgstr "支払待ち"
+
+msgid "Ref"
+msgstr "返金"
+
+msgid "Refund Qty"
+msgstr "返金数量"
+
+msgid "No customer found"
+msgstr "顧客が見つかりません"
+
+msgid "Order No:"
+msgstr "注文番号："
+
+msgid "Choose item(s) to refund"
+msgstr "返金する商品を選択"
+
+msgid "Order info"
+msgstr "注文情報"
+
+msgid "Sub-total :"
+msgstr "小計："
+
+msgid "Tax-total"
+msgstr "税金合計"
+
+msgid "Total Discount :"
+msgstr "合計割引："
+
+msgid "Grand-total :"
+msgstr "合計："
+
+msgid "Refund Info"
+msgstr "返金情報"
+
+msgid "Aprox"
+msgstr "概算"
+
+msgid "Refund Sub-total :"
+msgstr "返金小計 :"
+
+msgid "Refund Tax-total :"
+msgstr "返金税合計 :"
+
+msgid "Refund Discount:"
+msgstr "返金割引 :"
+
+msgid "Refund Fee :"
+msgstr "返金手数料 :"
+
+msgid "Refund Grand-total :"
+msgstr "返金合計 :"
+
+msgid "Order Has been refunded successfully"
+msgstr "注文は正常に返金されました"
+
+msgid "Please return amount"
+msgstr "金額を返却してください"
+
+msgid "Transfer by"
+msgstr "送金方法"
+
+msgid "Declined Note"
+msgstr "拒否理由"
+
+msgid "Refund List"
+msgstr "返金リスト"
+
+msgid "Top"
+msgstr "上"
+
+msgid "Bottom"
+msgstr "下"
+
+msgid "Refund Reason"
+msgstr "返金理由"
+
+msgid "Refund Id "
+msgstr "払い戻しID"
+
+msgid "Update Product Price"
+msgstr "商品価格の更新"
+
+msgid "No history found"
+msgstr "履歴が見つかりません"
+
+msgid "No transfer %{type} found"
+msgstr "転送 %{type} が見つかりません"
+
+msgid "stripe"
+msgstr "ストライプ"
+
+msgid "swipe"
+msgstr "スワイプ"
+
+msgid "others"
+msgstr "その他"
+
+msgid "Clear Cache"
+msgstr "キャッシュクリア"
+
+msgid "Remove Item"
+msgstr "アイテムを削除"
+
+msgid "Remove item"
+msgstr "アイテムを削除"
+
+msgid "Update order"
+msgstr "注文の更新"
+
+msgid "(Items : %{totalItem} and quantity : %{totalQty} )"
+msgstr "(商品数: %{totalItem}、数量: %{totalQty})"
+
+msgid "Deny item"
+msgstr "アイテムを拒否"
+
+msgid "Start preparing item"
+msgstr "アイテムの準備を開始"
+
+msgid "Why are you denying this item?"
+msgstr "なぜこのアイテムを拒否するのですか？"
+
+msgid "Item is ready"
+msgstr "アイテムの準備ができました"
+
+msgid "Ready"
+msgstr "準備完了"
+
+msgid "Serve this item"
+msgstr "このアイテムを提供する"
+
+msgid "Request to cancel this item"
+msgstr "このアイテムのキャンセルを要求する"
+
+msgid "Request Cancel"
+msgstr "キャンセルを要求する"
+
+msgid "Are you sure,want to make cancel request for this item?"
+msgstr "このアイテムのキャンセルを要求してもよろしいですか？"
+
+msgid "Requested Cancel"
+msgstr "キャンセルを要求しました"
+
+msgid "Accept Cancel Request"
+msgstr "キャンセルリクエストを受け入れる"
+
+msgid "Deny Cancel Request"
+msgstr "キャンセルリクエストを拒否する"
+
+msgid "Requested for cancel"
+msgstr "キャンセルを要求しました"
+
+msgid "Requested to cancel"
+msgstr "キャンセルを要求しました"
+
+msgid "TABLE :"
+msgstr "テーブル :"
+
+msgid "Are you sure to remove this item?"
+msgstr "このアイテムを削除してもよろしいですか？"
+
+msgid "Item denied from kitchen"
+msgstr "キッチンからアイテムが拒否されました"
+
+msgid "Deny reason is required"
+msgstr "拒否理由が必要です"
+
+msgid "Request failed: %{errorMsg}"
+msgstr "リクエストが失敗しました: %{errorMsg}"
+
+msgid "Item is ready to serve"
+msgstr "アイテムは提供準備ができました"
+
+msgid "Choose Waiters"
+msgstr "ウェイターを選択する"
+
+msgid "Table-wise"
+msgstr "テーブル別"
+
+msgid "All items refunded"
+msgstr "全品返金"
+
+msgid "Item started successfully"
+msgstr "アイテムが正常に開始されました"
+
+msgid "Are you sure to deny cancel for this item?"
+msgstr "このアイテムのキャンセルを拒否しますか？"
+
+msgid "Are you sure to accept cancel for this item?"
+msgstr "このアイテムのキャンセルを受け入れますか？"
+
+msgid "Item has been cancelled"
+msgstr "アイテムはキャンセルされました"
+
+msgid "Accepted Cancel"
+msgstr "キャンセルを受け入れました"
+
+msgid "Denied"
+msgstr "拒否"
+
+msgid "%{fld_name} is invalid"
+msgstr "%{fld_name} は無効です"
+
+msgid "Current Balance"
+msgstr "現在の残高"
+
+msgid "Close Drawer"
+msgstr "ドロワーを閉じる"
+
+msgid "Show cash drawer log"
+msgstr "現金ドロワーログを表示する"
+
+msgid "Withdraw from cash drawer"
+msgstr "現金ドロワーから引き出す"
+
+msgid "Full Withdraw"
+msgstr "全額引き出し"
+
+msgid "Withdraw"
+msgstr "引き出し"
+
+msgid "Partial"
+msgstr "部分的"
+
+msgid "Withdraw amount"
+msgstr "引き出し金額"
+
+msgid "Withdraw and close"
+msgstr "引き出しと閉じる"
+
+msgid "Withdrawn"
+msgstr "引き出されました"
+
+msgid "New Drawer"
+msgstr "新しいドロワー"
+
+msgid "Go With Current Drawer"
+msgstr "現在のドロワーを使用する"
+
+msgid "This drawer will close on create new drawer."
+msgstr "新しいドロワーを作成すると、このドロワーは閉じられます。"
+
+msgid "Custom Price"
+msgstr "カスタム価格"
+
+msgid "Discount "
+msgstr "割引"
+
+msgid "Price will be "
+msgstr "価格は"
+
+msgid "Scan to search"
+msgstr "スキャンして検索"
+
+msgid "Log"
+msgstr "ログ"
+
+msgid "Table orders"
+msgstr "テーブル注文"
+
+msgid "Withdraw processing"
+msgstr "引き出し処理中"
+
+msgid "Want to clear cache and logout?"
+msgstr "キャッシュをクリアしてログアウトしますか？"
+
+msgid "Creating Customer"
+msgstr "顧客を作成しています"
+
+msgid "Updating Customer"
+msgstr "顧客を更新しています"
+
+msgid "No customer found to add"
+msgstr "追加する顧客が見つかりませんでした"
+
+msgid "Click to set custom price"
+msgstr "クリックしてカスタム価格を設定する"
+
+msgid "Show Outlet"
+msgstr "アウトレットを表示する"
+
+msgid "Click to change sound settings"
+msgstr "クリックしてサウンド設定を変更する"
+
+msgid "Withdraw Note"
+msgstr "引き出しメモ"
+
+msgid "Coupon Can not applied on offline mode"
+msgstr "クーポンはオフラインモードでは適用できません"
+
+msgid "Please add items to add coupons"
+msgstr "クーポンを追加するには、アイテムを追加してください"
+
+msgid "Enter/scan coupon code"
+msgstr "クーポンコードを入力/スキャン"
+
+msgid "Apply"
+msgstr "適用する"
+
+msgid "Shown on POS.Click to hide"
+msgstr "POSに表示されます。クリックして非表示にする"
+
+msgid "On POS"
+msgstr "POSで"
+
+msgid "Hide on POS.Click to show"
+msgstr "POSで非表示にする。クリックして表示する"
+
+msgid "Opening Date"
+msgstr "開店日"
+
+msgid "Date Between"
+msgstr "日付範囲"
+
+msgid "Closed"
+msgstr "閉店"
+
+msgid "Coupon"
+msgstr "クーポン"
+
+msgid "Choose date"
+msgstr "日付を選択"
+
+msgid "Choose option"
+msgstr "オプションを選択"
+
+msgid "From"
+msgstr "から"
+
+msgid "Open"
+msgstr "開く"
+
+msgid "Max"
+msgstr "最大"
+
+msgid "Min"
+msgstr "最小"
+
+msgid "Enter value"
+msgstr "値を入力"
+
+msgid "Purchase Date"
+msgstr "購入日"
+
+msgid "Enter name"
+msgstr "名前を入力"
+
+msgid "Choose category"
+msgstr "カテゴリを選択"
+
+msgid "Choose favorite type"
+msgstr "お気に入りのタイプを選択"
+
+msgid "Select Status"
+msgstr "ステータスを選択"
+
+msgid "Publish"
+msgstr "公開"
+
+msgid "Enter Barcode/Scan"
+msgstr "バーコードを入力/スキャン"
+
+msgid "Enter SKU"
+msgstr "SKUを入力"
+
+msgid "To"
+msgstr "まで"
+
+msgid "Unlimited outlets"
+msgstr "無制限の店舗"
+
+msgid "Unlimited counter"
+msgstr "無制限のカウンター"
+
+msgid "Access control"
+msgstr "アクセス制御"
+
+msgid "Online and Offline sale"
+msgstr "オンラインおよびオフライン販売"
+
+msgid "Customer display"
+msgstr "顧客ディスプレイ"
+
+msgid "Color customization"
+msgstr "色のカスタマイズ"
+
+msgid "Product manage"
+msgstr "製品管理"
+
+msgid "Barcode on invoice"
+msgstr "請求書にバーコード"
+
+msgid "Order Refund(Full/Partial)"
+msgstr "注文の払い戻し（全額/一部）"
+
+msgid "Grocery mode"
+msgstr "食料品モード"
+
+msgid "Stock management"
+msgstr "在庫管理"
+
+msgid "Stock transfer(outlet wise)"
+msgstr "在庫移動（店舗別）"
+
+msgid "Barcode customization"
+msgstr "バーコードのカスタマイズ"
+
+msgid "Price Update"
+msgstr "価格の更新"
+
+msgid "Traditional / Pay first mode"
+msgstr "従来/先払いモード"
+
+msgid "Waiter panel"
+msgstr "ウェイターパネル"
+
+msgid "Kitchen panel"
+msgstr "キッチンパネル"
+
+msgid "Cashier panel"
+msgstr "レジ係パネル"
+
+msgid "Addon Panel"
+msgstr "アドオンパネル"
+
+msgid "Stripe payment"
+msgstr "Stripe決済"
+
+msgid "Split payment"
+msgstr "分割払い"
+
+msgid "Tax calculation methods"
+msgstr "税計算方法"
+
+msgid "Customize payment"
+msgstr "決済のカスタマイズ"
+
+msgid "Restaurant mode"
+msgstr "レストランモード"
+
+msgid "Payment and Tax"
+msgstr "支払いと税金"
+
+msgid ""
+"Add product requires pro version, you need to upgrade to pro version for use "
+"this feature."
+msgstr "製品を追加するには、プロバージョンが必要です。この機能を使用するには、プロバージョンにアップグレードする必要があります。"
+
+msgid "Custom fields support in pro version only."
+msgstr "カスタムフィールドはプロバージョンでのみサポートされています。"
+
+msgid "Restaurant shortcut message support in pro version only."
+msgstr "レストランのショートカットメッセージはプロバージョンでのみサポートされています。"
+
+msgid "Stock management support in pro version only."
+msgstr "プロ版でのみ在庫管理機能をご利用いただけます。"
+
+msgid "Stripe payment support in pro version only."
+msgstr "プロ版でのみStripe決済機能をご利用いただけます。"
+
+msgid "Kitchen Involvement support in pro version only."
+msgstr "プロ版でのみキッチン連携機能をご利用いただけます。"
+
+msgid "Restaurant mode support in pro version only."
+msgstr "プロ版でのみレストランモードをご利用いただけます。"
+
+msgid "This Feature is available in pro version only."
+msgstr "この機能はプロ版でのみご利用いただけます。"
+
+msgid "You can not disable branding in lite version."
+msgstr "ライト版ではブランドの無効化はできません。"
+
+msgid ""
+"Split payment requires pro version. For continue this payment please use "
+"only one methode."
+msgstr "分割払いはプロ版でのみご利用いただけます。この支払いを続けるには、1つの方法のみを使用してください。"
+
+msgid "Customer display supported in Pro Version"
+msgstr "顧客ディスプレイはプロ版でサポートされています"
+
+msgid ""
+"Refunds requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr "返金にはプロ版が必要です。この機能を使用するにはプロ版にアップグレードしてください。"
+
+msgid ""
+"Online sale requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr "オンライン販売にはプロ版が必要です。この機能を使用するにはプロ版にアップグレードしてください。"
+
+msgid ""
+"Offline sale requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr "オフライン販売にはプロ版が必要です。この機能を使用するにはプロ版にアップグレードしてください。"
+
+msgid ""
+"Hold cart requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr "カートの保留にはプロ版が必要です。この機能を使用するにはプロ版にアップグレードしてください。"
+
+msgid ""
+"Stock Transfer requires pro version,please upgrade to pro version to use "
+"this feature."
+msgstr "在庫移動にはプロ版が必要です。この機能を使用するにはプロ版にアップグレードしてください。"
+
+msgid ""
+"Stock Receive requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr "在庫受け入れにはプロ版が必要です。この機能を使用するにはプロ版にアップグレードしてください。"
+
+msgid ""
+"Updating price requires pro version,please upgrade to pro version to use "
+"this feature."
+msgstr "価格の更新にはプロ版が必要です。この機能を使用するにはプロ版にアップグレードしてください。"
+
+msgid ""
+"Ignore update requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr "更新の無視にはプロ版が必要です。この機能を使用するにはプロ版にアップグレードしてください。"
+
+msgid "Enabling barcode on invoice requires pro version."
+msgstr "請求書へのバーコードの有効化にはプロ版が必要です。"
+
+msgid "Form customization support in pro version only."
+msgstr "プロ版でのみフォームのカスタマイズ機能をご利用いただけます。"
+
+msgid "Send Email To Cashier only support in pro version."
+msgstr "レジ係へのメール送信はプロバージョンのみでサポートされています。"
+
+msgid "RTL only support in pro version."
+msgstr "RTL はプロバージョンのみでサポートされています。"
+
+msgid "Price customization on cart only support in pro version."
+msgstr "カートでの価格のカスタマイズはプロバージョンのみでサポートされています。"
+
+msgid "Restaurant deny message support in pro version only."
+msgstr "レストラン拒否メッセージはプロバージョンのみでサポートされています。"
+
+msgid "Pusher mode support in pro version only."
+msgstr "Pusher モードはプロバージョンのみでサポートされています。"
+
+msgid "Full stock management support in pro version only."
+msgstr "完全な在庫管理はプロバージョンのみでサポートされています。"
+
+msgid "Enable Stripe Payment support in pro version only."
+msgstr "Stripe 決済の有効化はプロバージョンのみでサポートされています。"
+
+msgid "Restaurant traditional support in pro version only."
+msgstr "レストランの従来サポートはプロバージョンのみでサポートされています。"
+
+msgid "Enabling customer custom fields on invoice requires pro version."
+msgstr "請求書に顧客のカスタムフィールドを有効にするには、プロバージョンが必要です。"
+
+msgid "Coupon can be only usable with Vite Coupon Pro and Vitepos Pro."
+msgstr "クーポンは Vite Coupon Pro と Vitepos Pro でのみ使用できます。"
+
+msgid ""
+"Product hide on POS requires pro version, Please upgrade to pro version for "
+"use this feature."
+msgstr "POSで商品を非表示にするにはプロ版が必要です。この機能を使用するにはプロ版にアップグレードしてください。"
+
+msgid "Table module is supported in pro version"
+msgstr "テーブルモジュールはプロ版でサポートされています。"
+
+msgid "Addon is supported in pro version"
+msgstr "アドオンはプロ版でサポートされています。"
+
+msgid "Requires pro version"
+msgstr "プロ版が必要です。"
+
+msgid ""
+"Delete product requires pro version, Please upgrade to pro version for use "
+"this feature."
+msgstr "商品を削除するにはプロ版が必要です。この機能を使用するにはプロ版にアップグレードしてください。"
+
+msgid ""
+"Edit product requires pro version, Please upgrade to pro version for use "
+"this feature."
+msgstr "商品を編集するにはプロ版が必要です。この機能を使用するにはプロ版にアップグレードしてください。"
+
+msgid ""
+"Making favorite product requires pro version, Please upgrade to pro version "
+"for use this feature."
+msgstr "お気に入りの商品を作成するにはプロ版が必要です。この機能を使用するにはプロ版にアップグレードしてください。"
+
+msgid ""
+"Table wise orders requires pro version,please upgrade to pro version to use "
+"this feature."
+msgstr "テーブル別の注文にはプロ版が必要です。この機能を使用するにはプロ版にアップグレードしてください。"
+
+msgid ""
+"Refund requires pro version,please upgrade to pro version to use this "
+"feature."
+msgstr "返金にはプロ版が必要です。この機能を使用するにはプロ版にアップグレードしてください。"
+
+msgid ""
+"Split payment requires pro version. For continue this payment please use "
+"only one method."
+msgstr "分割払いはプロ版が必要です。この支払いを続けるには、1つの支払い方法のみを使用してください。"
+
+msgid "You have only one outlet and counter,so you can not change outlet."
+msgstr "店舗とカウンターは1つしかないため、店舗を変更することはできません。"
+
+msgid "Enable %{brand} Payment support in pro version only."
+msgstr "%{brand} 支払いサポートはプロ バージョンでのみ有効になります。"
+
+msgid "Enable Stripe Terminal Payment support in pro version only."
+msgstr "Stripe Terminal Paymentのサポートはプロ版でのみ有効化できます。"
+
+msgid "Update failed"
+msgstr "更新に失敗しました。"
+
+msgid "Update failed unknown error"
+msgstr "更新に失敗しました。不明なエラー。"
+
+msgid "Email already exist."
+msgstr "メールアドレスは既に存在します。"
+
+msgid "Username already exist."
+msgstr "ユーザー名は既に存在します。"
+
+msgid "Contact no already exist."
+msgstr "連絡先電話番号は既に存在します。"
+
+msgid "This email already exist"
+msgstr "このメールアドレスは既に存在します。"
+
+msgid "This username already exist"
+msgstr "このユーザー名は既に存在します。"
+
+msgid "This mobile number is already exist"
+msgstr "この携帯電話番号は既に存在します。"
+
+msgid "Email already exist"
+msgstr "メールアドレスは既に存在します。"
+
+msgid "Username already exist"
+msgstr "ユーザー名は既に存在します。"
+
+msgid "Role does not exists"
+msgstr "ロールが存在しません。"
+
+msgid "Items empty"
+msgstr "商品がありません。"
+
+msgid "You can not order less than 0 amount"
+msgstr "0未満の金額は注文できません。"
+
+msgid "You do not have permission to give discount"
+msgstr "割引を与える権限がありません"
+
+msgid "You can not give this much discount"
+msgstr "これだけの割引はできません"
+
+msgid "You do not have permission to have fees"
+msgstr "手数料が発生する権限がありません"
+
+#, php-format
+msgid "%s out of stock"
+msgstr "%s 在庫切れ"
+
+msgid "Order successfully sent to kitchen"
+msgstr "注文がキッチンに正常に送信されました"
+
+msgid "Empty order id"
+msgstr "注文IDが空です"
+
+msgid "You can not checkout this in current status"
+msgstr "現在の状態では注文できません"
+
+msgid "Order successfully completed"
+msgstr "注文が正常に完了しました"
+
+msgid "Order already in completed status, it is not cancelable"
+msgstr "注文はすでに完了しており、キャンセルできません"
+
+msgid "Order cancellation is not possible"
+msgstr "注文のキャンセルはできません"
+
+msgid "Order not found"
+msgstr "注文が見つかりません"
+
+msgid "Order requires payment process"
+msgstr "注文には支払いが必要です"
+
+msgid "Stripe configuration error in server"
+msgstr "サーバーのStripe設定にエラーが発生しました"
+
+msgid "Empty intend id"
+msgstr "インテントIDが空です"
+
+msgid "Payment data missing"
+msgstr "支払いデータがありません"
+
+msgid "Once Weekly"
+msgstr "週に一度"
+
+msgid "Plugin installed and activated successfully!"
+msgstr "プラグインがインストールされ、正常に有効化されました！"
+
+msgid "Plugin installation failed!"
+msgstr "プラグインのインストールに失敗しました！"
+
+msgid "Invalid request!!"
+msgstr "無効なリクエストです！"
+
+msgid "Plugin Activated"
+msgstr "プラグインが有効化されました"
+
+msgid "Plugin not found"
+msgstr "プラグインが見つかりません"
+
+msgid "Custom Field List"
+msgstr "カスタムフィールドリスト"
+
+msgid "No custom field found with these ids"
+msgstr "これらのIDを持つカスタムフィールドが見つかりません"
+
+msgid "No action initialize"
+msgstr "アクションが初期化されていません"
+
+msgid "Invalid param"
+msgstr "無効なパラメーター"
+
+msgid "User Role"
+msgstr "ユーザーロール"
+
+msgid "View all Role List"
+msgstr "すべてのロールリストを見る"
+
+msgid "Non editable role"
+msgstr "編集不可なロール"
+
+msgid "No role data found"
+msgstr "ロールデータが見つかりません"
+
+msgid "Successfully added"
+msgstr "正常に追加されました"
+
+msgid "Administrator can not be reset"
+msgstr "管理者はリセットできません"
+
+msgid "Reset has been successfully done"
+msgstr "リセットが正常に完了しました"
+
+msgid "Failed to reset try again"
+msgstr "リセットに失敗しました。再度お試しください"
+
+msgid "Role copied successfully"
+msgstr "ロールが正常にコピーされました"
+
+msgid "No role found with this request param"
+msgstr "このリクエストパラメータを持つロールが見つかりません"
+
+msgid "Move to role does not exists"
+msgstr "移動先のロールが存在しません"
+
+msgid "Delete failed try again"
+msgstr "削除に失敗しました。再度お試しください"
+
+msgid "Update failed try again"
+msgstr "更新に失敗しました。再度お試しください"
+
+msgid "Failed to update"
+msgstr "更新に失敗しました"
+
+msgid "Successfully refreshed"
+msgstr "正常に更新されました"
+
+msgid "It is custom barcode data of woocommerce for vitepos"
+msgstr "これはvitepos向けのwoocommerceのカスタムバーコードデータです"
+
+msgid "Barcode Value"
+msgstr "バーコード値"
+
+msgid "Captcha error, please try again"
+msgstr "CAPTCHAエラーが発生しました。再度お試しください"
+
+msgid "View All Settings"
+msgstr "すべての設定を見る"
+
+msgid "View All Outlet"
+msgstr "すべての店舗を見る"
+
+msgid "Update Failed"
+msgstr "更新失敗"
+
+msgid "This Property Should not be update"
+msgstr "このプロパティは更新できません"
+
+msgid "Invalid request3"
+msgstr "無効なリクエスト3"
+
+msgid "No counter found with these ids"
+msgstr "これらのIDを持つカウンターが見つかりません"
+
+msgid "No Outlet found with these ids"
+msgstr "これらのIDを持つアウトレットが見つかりません"
+
+msgid "User removed from this outlet"
+msgstr "ユーザーがこのアウトレットから削除されました"
+
+msgid "No outlet found"
+msgstr "アウトレットが見つかりません"
+
+msgid "User added to this outlet"
+msgstr "ユーザーがこのアウトレットに追加されました"
